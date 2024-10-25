@@ -85,9 +85,9 @@ If the Moonshiner dies, remove their **Drunk** reminder.
 
 # Counterfeiter
 
-# Minion
+# **Minion**
 
-## Skinwalker
+# Skinwalker
 
 > You know a good player. Each night, choose a character & alignment you both register as to Townsfolk.
 
