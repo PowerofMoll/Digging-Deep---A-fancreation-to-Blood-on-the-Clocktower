@@ -128,7 +128,7 @@ At dusk, remove the **Dying** reminder.
 
 > Evil players who nominate you swap characters with you. You can't die.
 
-*One must hold my hand and watch over me. One must stay with me.*
+*You are now stuck with me. Keep me company. This is going to be so fun.*
 
 ### **The Vessel always houses someones soul but can swap which it holds.**
 - The Vessel cannot die, not during the day, nor during the night.
