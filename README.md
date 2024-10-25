@@ -23,7 +23,7 @@ Mining timing is a script focused around deaths and survivals during the day and
 # Lapidary
 <img src="https://github.com/user-attachments/assets/5202bdda-d57f-45b3-9767-44358f033500" alt="lapidary_good" width="300" height="300">
 
-- You start knowing a character type & some that neighbour it clockwise or anticlockwise.
+> You start knowing a character type & some that neighbour it clockwise or anticlockwise.
 
 *such a beutiful gem you are*
 
@@ -53,7 +53,7 @@ At any time a player dies, you may decide that they don't. Do not declare that t
 # Moonshiner
 <img src="https://github.com/user-attachments/assets/772aba6f-9074-497a-b405-a367736c5181" alt="moonshiner_good" width="300" height="300">
 
-- 1 of the Demons alive good neighbours is drunk.
+> 1 of the Demons alive good neighbours is drunk.
 
 *Come take a sip, homemade to heighten our spirits.*
 
