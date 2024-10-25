@@ -77,10 +77,18 @@ If the Moonshiner dies, remove their **Drunk** reminder.
 # Skinwalker
 
 
-> You start knowing a good player. Each night, choose a character & alignment you both register as to Townsfolk.
+> You know a good player. Each night, choose a character & alignment you both register as to Townsfolk.
 
 ### __How to run__
+While preparing the first night, put the **Shared Skin** reminder by any good character token. 
 
+During the first night, wake the Skinwalker. Point to the player marked **Shared Skin**. Put the Skinwalker to sleep.
+
+If the player marked with the Moonshiners **Shared Skin** reminder turns evil, remove the Skinwalker's **Shared Skin** reminder. Mark a good player with the Skinwalker’s **Shared Skin** reminder. Tonight, wake the Skinwalker. Point to the player marked **Shared Skin**. Put the Skinwalker to sleep.
+
+Each night, wake the Skinwalker. The Skinwalker points to a character icon on their character sheet and either shake their head 'no' or nods their head 'yes'. Put the Skinwalker to sleep. Mark the character token that was pointed at with the Skinwalkers **Apperance** reminder. Mark the Skinwalker with the Skinwalker's **Evil** reminder if the Skinwalker shaked their head 'no' or with the **Good** reminder if they nodded their head 'yes'.
+
+Each time the Skinwalker or player marked **Shared Skin** is targeted by a Townsfolk ability that detects or affects characters or alignments, the Skinwalker or player marked **Shared Skin** register as the character marked **Apperance** and as good if the Skinwalker is marked with the **Good** reminder and as evil if the Skinwalker is marked with the **Evil** reminder. (Do whatever is appropriate, such as showing a good character token, nodding, giving finger signals, or allowing an ability to work that would normally only affect good, Townsfolk, or Outsider players.)
 
 # Gargoyle
 
