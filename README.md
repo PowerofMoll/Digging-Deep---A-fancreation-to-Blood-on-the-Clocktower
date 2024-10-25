@@ -80,8 +80,14 @@ If the Moonshiner dies, remove their **Drunk** reminder.
 
 # Skinwalker
 
-
 > You know a good player. Each night, choose a character & alignment you both register as to Townsfolk.
+
+*They said I couldn't become like you. I will prove to them. I will become you.*
+
+### **The Skinwalker takes the Apperance of someone else and shares it with another.**
+- The Skinwalker can appear as any character on the script and as both good and evil.
+- The Skinwalker makes both them and the other good player have to register as the chosen character and alignment.
+- If the player the Skinwalker knows becomes evil, the Skinwalker learns another.
 
 ### __How to run__
 While preparing the first night, put the **Shared Skin** reminder by any good character token. 
@@ -99,6 +105,11 @@ Each time the Skinwalker or player marked **Shared Skin** is targeted by a Towns
 
 > Each night, choose a player: players they nominate tomorrow might die tomorrow.
 
+### **The Gargoyle finds someone to follow, and kills their prey.**
+- The player nominated by the player chosen by the Gargoyle can die at any time during that day, not only when the nomination happens.
+- The Gargoyle can choose an evil player so they can direct the kill.
+- As a storyteller you can be inclined to make any kills the Gargoyle can do, generally it is more helpful to only kill if the kill will help the evil team.
+
 ### __How to run__
 Each night, wake the Gargoyle. They point at any player. Put the Gargoyle to sleep. Mark the chosen player with the **Watched** reminder. 
 
@@ -115,6 +126,11 @@ At dusk, remove the **Dying** reminder.
 
 > Evil players who nominate you swap characters with you. You can't die.
 
+### **The Vessel always houses someones soul but can swap which it holds.**
+- The Vessel cannot die, not during the day, nor during the night.
+- If the Vessel is nominated by an evil, swap the characters immediately but do not inform them until the night.
+- Evil players can nominate good players to fake out the swap.
+
 ### __How to run__
 If an evil player nominates the Vessel, mark both with the Vessels **Moved** reminder. Swap the character tokens of those players.
 
@@ -126,6 +142,11 @@ If the Vessel would die, they remain alive. If the Vessel is executed, declare t
 
 
 > If no Outsiders live, tongiht, choose 2 Townsfolk: they are poisoned. [-1 to +1 Outsider]
+
+### **The Wight hunts down those who don't belong to awaken.**
+- If the Wight chooses a player that isn't a Townsfolk, they choose again until 2 Townsfolk have been chosen.
+- If there are no Outsiders in play, the Wight wakes on the first night.
+- The Wight can add or remove 1 Outsider, but doesn't have to.
 
 ### __How to run__
 While setting up the game, before putting character tokens in the bag, you may add or remove one Outsider character token. 
