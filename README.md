@@ -15,9 +15,13 @@ Mining timing is a script focused around deaths and survivals during the day and
 
 ## Minions
 [Gargoyle](#gargoyle)
+
 [Skinwalker](#skinwalker)
+
 [Vessel](#vessel)
+
 [Wight](#wight)
+
 ## Demons
 
 
