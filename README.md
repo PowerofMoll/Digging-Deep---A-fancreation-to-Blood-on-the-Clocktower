@@ -13,6 +13,10 @@ Mining timing is a script focused around deaths and survivals during the day and
 
 [Moonshiner](#moonshiner)
 
+[Roamer](#roamer)
+
+[Counterfeiter](#counterfeiter)
+
 ## Minions
 [Gargoyle](#gargoyle)
 
@@ -77,6 +81,9 @@ If the player marked with the Moonshiners **Drunk** reminder dies, turns evil or
 
 If the Moonshiner dies, remove their **Drunk** reminder.
 
+# Roamer
+
+# Counterfeiter
 
 # Skinwalker
 
