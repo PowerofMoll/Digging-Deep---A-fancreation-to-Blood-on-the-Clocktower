@@ -85,7 +85,9 @@ If the Moonshiner dies, remove their **Drunk** reminder.
 
 # Counterfeiter
 
-# Skinwalker
+# Minion
+
+## Skinwalker
 
 > You know a good player. Each night, choose a character & alignment you both register as to Townsfolk.
 
@@ -107,7 +109,7 @@ Each night, wake the Skinwalker. The Skinwalker points to a character icon on th
 
 Each time the Skinwalker or player marked **Shared Skin** is targeted by a Townsfolk ability that detects or affects characters or alignments, the Skinwalker or player marked **Shared Skin** register as the character marked **Apperance** and as good if the Skinwalker is marked with the **Good** reminder and as evil if the Skinwalker is marked with the **Evil** reminder. (Do whatever is appropriate, such as showing a good character token, nodding, giving finger signals, or allowing an ability to work that would normally only affect good, Townsfolk, or Outsider players.)
 
-# Gargoyle
+## Gargoyle
 <img src="https://github.com/user-attachments/assets/1179e016-7b99-423c-bdc5-6f4c2f1914b9" alt="gargoyle_evil" width="300" height="300">
 
 > Each night, choose a player: players they nominate tomorrow might die tomorrow.
@@ -130,7 +132,7 @@ At dusk, remove the **Watched** reminder.
 
 At dusk, remove the **Dying** reminder.
 
-# Vessel
+## Vessel
 <img src="https://github.com/user-attachments/assets/5f8ee180-878b-47e3-b7b9-885d36a27093" alt="vessel_evil" width="300" height="300">
 
 > Evil players who nominate you swap characters with you. You can't die.
@@ -149,7 +151,7 @@ During that night, one at a time, wake each player with the **Moved** reminder, 
 
 If the Vessel would die, they remain alive. If the Vessel is executed, declare that this player is executed but remains alive. (Do not say why.)
 
-# Wight
+## Wight
 
 
 > If no Outsiders live, tongiht, choose 2 Townsfolk: they are poisoned. [-1 to +1 Outsider]
