@@ -14,7 +14,10 @@ Mining timing is a script focused around deaths and survivals during the day and
 [Moonshiner](#moonshiner)
 
 ## Minions
-
+[Gargoyle](#gargoyle)
+[Skinwalker](#skinwalker)
+[Vessel](#vessel)
+[Wight](#wight)
 ## Demons
 
 
@@ -69,3 +72,55 @@ While preparing the first night, mark one of the Demons good neighbours with the
 If the player marked with the Moonshiners **Drunk** reminder dies, turns evil or stops neighbouring the Demon, remove the Moonshiner's **Drunk** reminder. Mark one of the Demons good neighbours with the Moonshiner’s **Drunk** reminder.
 
 If the Moonshiner dies, remove their **Drunk** reminder.
+
+
+# Skinwalker
+
+
+> You start knowing a good player. Each night, choose a character & alignment you both register as to Townsfolk.
+
+### __How to run__
+
+
+# Gargoyle
+
+
+> Each night, choose a player: players they nominate tomorrow might die tomorrow.
+
+### __How to run__
+Each night, wake the Gargoyle. They point at any player. Put the Gargoyle to sleep. Mark the chosen player with the **Watched** reminder. 
+
+The next day, if the player marked **Watched** makes a nomination, mark the nominated player **Dying**. 
+
+At any time during the day you may decide that the player marked **Dying** dies. Immediately declare that the player has died.
+
+At dusk, remove the **Watched** reminder.
+
+At dusk, remove the **Dying** reminder.
+
+# Vessel
+
+
+> Evil players who nominate you swap characters with you. You can't die.
+
+### __How to run__
+If an evil player nominates the Vessel, mark both with the Vessels **Moved** reminder. Swap the character tokens of those players.
+
+During that night, one at a time, wake each player with the **Moved** reminder, show them the 'You Are' info token and their new character token, then put them to sleep. Remove any **Moved** reminders.
+
+If the Vessel would die, they remain alive. If the Vessel is executed, declare that this player is executed but remains alive. (Do not say why.)
+
+# Wight
+
+
+> If no Outsiders live, tongiht, choose 2 Townsfolk: they are poisoned. [-1 to +1 Outsider]
+
+### __How to run__
+While setting up the game, before putting character tokens in the bag, you may add or remove one Outsider character token. 
+- If you removed one, add a Townsfolk character token.
+- If you added one, remove a Townsfolk character token.
+
+If the last alive Outsider dies, mark the Wight with their **Awoken** reminder. 
+
+During that night, wake the Wight. They point at 2 Townsfolk players, (if they choose any players that are not Townsfolk, ask them to choose again.) Mark those 2 players poisoned with the Wights **Poisoned** reminders.
+
