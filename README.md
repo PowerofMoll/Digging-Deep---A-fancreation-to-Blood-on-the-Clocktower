@@ -8,6 +8,8 @@ Mining timing is a script focused around deaths and survivals during the day and
 
 # Outsiders
 
+
+
 # Minions
 
 # Demons
@@ -22,3 +24,10 @@ Mining timing is a script focused around deaths and survivals during the day and
 
 
 # Lapidary
+- You start knowing a character type & some that neighbour it clockwise or anticlockwise.
+"*such a beutiful gem you are*"
+
+**The Lapidary inspects some of what is around the mine.**
+- The Lapidary can learn any number of character types in a row.
+- It is reccomended to give between half and a third of the grimoire. Generally 3 or more for a better experience.
+- 
