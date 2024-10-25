@@ -2,7 +2,9 @@ Mining timing is a script focused around deaths and survivals during the day and
 
 
 # Townsfolk
-<img src="https://github.com/user-attachments/assets/5202bdda-d57f-45b3-9767-44358f033500" alt="lapidary_good" width="50" height="50">[Lapidary](#lapidary)
+<img src="https://github.com/user-attachments/assets/5202bdda-d57f-45b3-9767-44358f033500" alt="lapidary_good" width="100" height="100">
+
+[Lapidary](#lapidary)
 
 
 
