@@ -4,7 +4,7 @@ Mining timing is a script focused around deaths and survivals during the day and
 # Townsfolk
 <img src="https://github.com/user-attachments/assets/5202bdda-d57f-45b3-9767-44358f033500" alt="lapidary_good" width="100" height="100">
 
-[Lapidary](#lapidary)
+  [Lapidary](#lapidary)
 
 
 
@@ -49,6 +49,8 @@ Mining timing is a script focused around deaths and survivals during the day and
 - When a death is prevented, the storyteller can choose another to die but doesn't have to.
 - We reccomend using the ability during the earlier days, using it later can feel unfair as the players had little power to prevent it. 
 
+__How to run__
+At any time a player dies, you may decide that they don't. Do not declare that this happened. If you do, mark the Conservationist with the **No Ability** reminder. You may also decide that another player dies instead. If this is during the day, immediately declare that the other player has died. If this is during the night, remove the **Dead** reminder that was placed on the protected player and if you chose that another dies, mark them with that **Dead** reminder. Wait until dawn to declare which players died during the night. (Do not say how.)
 
 
 # Moonshiner
