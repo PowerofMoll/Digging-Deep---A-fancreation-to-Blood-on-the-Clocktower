@@ -46,7 +46,7 @@ Mining timing is a script focused around deaths and survivals during the day and
 
 *Leave us alone, don't break this down. Our home is on the line.*
 
-**The Conservationist tries to make sure the mining operation stops.**
+### **The Conservationist tries to make sure the mining operation stops.**
 - The Conservationist can prevent a player from dying at any time, day or night.
 - When a death is prevented, the storyteller can choose another to die but doesn't have to.
 - We reccomend using the ability during the earlier days, using it later can feel unfair as the players had little power to prevent it. 
