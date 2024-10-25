@@ -36,7 +36,7 @@ Mining timing is a script focused around deaths and survivals during the day and
 # Conservationist
 <img src="https://github.com/user-attachments/assets/0a38f8a5-8d94-4f24-81aa-9a55a937c946" alt="conservationist_good" width="300" height="300">
 
-> Once per game, if a player would die, they don`t & another might die instead.
+> Once per game, if a player would die, they don't & another might die instead.
 
 *Leave us alone, don't break this down. Our home is on the line.*
 
