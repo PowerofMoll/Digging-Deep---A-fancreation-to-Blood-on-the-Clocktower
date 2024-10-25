@@ -7,8 +7,9 @@ Mining timing is a script focused around deaths and survivals during the day and
 
 
 # Outsiders
+[Conservationist](#conservationist)
 
-
+[Moonshiner](#moonshiner)
 
 # Minions
 
@@ -33,3 +34,23 @@ Mining timing is a script focused around deaths and survivals during the day and
 - The Lapidary can learn any number of character types in a row.
 - It is reccomended to give between half and a third of the grimoire. Generally 3 or more for a better experience.
 - Show the types by showing numbers using your hand, 1 representing Townsfolk, 2 representing Outsider, 3 representing Minion and 4 representing Demon.
+
+
+# Conservationist
+
+- Once per game, if a player would die, they don`t & another might die instead.
+
+*Leave us alone, don't break this down. Our home is on the line.*
+
+**The Conservationist tries to make sure the mining operation stops.**
+- The Conservationist can prevent a player from dying at any time, day or night.
+- When a death is prevented, the storyteller can choose another to die but doesn't have to.
+- We reccomend using the ability during the earlier days, using it later can feel unfair as the players had little power to prevent it. 
+
+
+
+# Moonshiner
+
+- 1 of the Demons alive good neighbours is drunk.
+
+*Come take a sip, home made to heighten our spirits.
