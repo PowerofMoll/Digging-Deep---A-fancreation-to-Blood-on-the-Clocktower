@@ -22,6 +22,7 @@ Mining timing is a script focused around deaths and survivals during the day and
 
 
 # Lapidary
+![9f70465a-6776-4668-8c45-22832be16fd8](https://github.com/user-attachments/assets/8e8bfe12-af22-4c3e-b5b9-66bf0aab4b2a)
 - You start knowing a character type & some that neighbour it clockwise or anticlockwise.
 
 *such a beutiful gem you are*
