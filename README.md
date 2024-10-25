@@ -36,7 +36,7 @@ Mining timing is a script focused around deaths and survivals during the day and
 # Conservationist
 <img src="https://github.com/user-attachments/assets/0a38f8a5-8d94-4f24-81aa-9a55a937c946" alt="conservationist_good" width="300" height="300">
 
-- Once per game, if a player would die, they don`t & another might die instead.
+> Once per game, if a player would die, they don`t & another might die instead.
 
 *Leave us alone, don't break this down. Our home is on the line.*
 
@@ -61,4 +61,11 @@ At any time a player dies, you may decide that they don't. Do not declare that t
 - The Moonshiner only makes 1 player drunk at a time.
 - The 2 closest alive good neighbours of the Demon can be, skipping over dead or evil players.
 - If the drunk player dies, only then does a new player become drunk.
-- If the Moonshiner dies, the player is no longer drunk,
+- If the Moonshiner dies, the player is no longer drunk.
+
+### __How to run__
+While preparing the first night, mark one of the Demons good neighbours with the Moonshiner’s **Drunk** reminder. This player is drunk.
+
+If the player marked with the Moonshiners **Drunk** reminder dies, turns evil or stops neighbouring the Demon, remove the Moonshiner's **Drunk** reminder. Mark one of the Demons good neighbours with the Moonshiner’s **Drunk** reminder.
+
+If the Moonshiner dies, remove their **Drunk** reminder.
