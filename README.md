@@ -271,6 +271,7 @@ Each night, wake the Aurora. Point at a player and show their character, 3 times
 Each night except the first, the Aurora point at a player. That player dies - mark them with the **Dead** reminder. Put the Aurora to sleep.
 
 ## Wurm
+<img src="https://github.com/user-attachments/assets/35cbedc4-b0e0-4e4b-92da-58c81f743ecf" alt="wurm_evil" width="300" height="300">
 
 > Each night*, choose a player: they die. Your alive neighbours might die at any time.
 
