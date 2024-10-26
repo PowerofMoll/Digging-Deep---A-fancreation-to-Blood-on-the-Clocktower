@@ -6,7 +6,7 @@ Mining timing is a script focused around deaths and survivals during the day and
 <img src="https://github.com/user-attachments/assets/2a06f7a6-9531-4b20-ba9c-fb48c7f7be1c" alt="prospector_good" width="100" height="100">
 <img src="https://github.com/user-attachments/assets/5202bdda-d57f-45b3-9767-44358f033500" alt="lapidary_good" width="100" height="100">
 
-[&#0020; &#0020; Lapidary](#lapidary)
+[&#32; &#x20; Lapidary](#lapidary)
 [U+0020	U+0020	Prospector](#prospector)
 
 ## Outsiders
