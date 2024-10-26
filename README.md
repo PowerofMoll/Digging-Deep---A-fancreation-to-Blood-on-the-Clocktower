@@ -312,4 +312,12 @@ At dusk, remove the **Mundane Weapons** reminder.
 
 ### The Palingenesi reforms upon its death.
 - If the player who knows the Palingenesi dies, an alive player learns it that night.
-- 
+- As a storyteller you have an important decition to make as for whether you make an evil player learn it is in-play. Allowing it to turn more than 2 players is highly advice against. 
+- If the game enters a situation were the good team is unable to win, end the game there and allow the player who knows the Palingenesi to win with evil.
+
+- ### How to run
+Each night except the first, wake the Palingenesi. They point at any player. That player dies - mark them with the **Dead** reminder. Put the Palingenesi to sleep.
+
+If the player who knows the Palingenesi is in play turns dies while the Palingensi is alive, wake a new player and show them the Palingensi character token.
+
+
