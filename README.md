@@ -64,7 +64,7 @@ Mining timing is a script focused around deaths and survivals during the day and
 ## Demons
 [Aurora](#aurora)
 
-[Wyrm](#wyrm)
+[Wurm](#wyrm)
 
 [Rakshasa](#rakshasa)
 
@@ -257,8 +257,43 @@ During that night, wake the Wight. They point at 2 Townsfolk players, (if they c
 
 ## Aurora
 
-## Wyrm
+> Each night, you learn 3 players & their characters. Each night*, choose a player: they die.
+
+*The northern light shines brightly over the mountain. It watches over us.*
+
+### The Aurora's light shines brightly revealing those whose life the Aurora can claim.
+- The Aurora learns a character and which player is it.
+- The Aurora can't kill on the first night but still learns characters.
+
+### __How to run__
+Each night, wake the Aurora. Point at a player and show their character, 3 times. If it is the first night put the Aurora to sleep.
+
+Each night except the first, the Aurora point at a player. That player dies - mark them with the **Dead** reminder. Put the Aurora to sleep.
+
+## Wurm
+
+> Each night*, choose a player: they die. Your alive neighbours might die at any time.
+
+*These terrifying creatures burrow beneath the ground, listening for the sounds of footsteps above. The only mercy offered by these creatures is the tell-tale hiss of their approach, thus allowing would-be victims a moment to prepare for the oncoming attack.*
+
+### The Wurms powerful body can smash and kill anyone.
+- As a storyteller generally only kill one of the Wurms neighbours if there is another reason to explain it.
+- The Wurm should be used fairly, ending the game or making it unwinnable for the good team to win.
+- The Wurm can kill any alive neighbour, skipping any dead neighbours.
+
+### __How to run__
+Each night except the first, wake the Wurm. They point at any player. That player dies - mark them with the **Dead** reminder. Put the Wurm to sleep.
+
+At any time, you may decide that one of the Wurms alive neighbours die. If this is during the day, immediately declare that that player has died. If this is during the night, mark them with the **Dead** reminder and wait until dawn to declare which players died during the night. (Do not say how.)
 
 ## Rakshasa
 
+> Each night*, choose a player: they die. You can't die to executions by Townsfolk, except if 3 players live. [+1 Outsider]
+
+*You don't stand a chance against me.*
+
+### **T**
+
 ## Palingenesi
+
+> Each night*, choose a player: they die. 1 alive player knows you are in play. If you die, they become an evil Palingenesi.
