@@ -85,7 +85,7 @@ If the Moonshiner dies, remove their **Drunk** reminder.
 
 # Counterfeiter
 
-<h1 style="font-size: 50px">**Minion**</h1>
+<h1 style="font-size: 64px">Minion</h1>
 
 # Skinwalker
 
