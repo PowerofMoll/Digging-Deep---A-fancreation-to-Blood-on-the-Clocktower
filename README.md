@@ -68,6 +68,8 @@ Mining timing is a script focused around deaths and survivals during the day and
 
 [Rakshasa](#rakshasa)
 
+<img src="https://github.com/user-attachments/assets/cceb3386-1e9b-4032-99d1-d8627dbf62e3" alt="palingenesi_evil" width="100" height="100">
+
 [Palingenesi](#palingensi)
 
 
@@ -304,6 +306,7 @@ If the Rakshasa is executed while marked with **Mundane Weapons**, declare that 
 At dusk, remove the **Mundane Weapons** reminder.
 
 ## Palingenesi
+<img src="https://github.com/user-attachments/assets/cceb3386-1e9b-4032-99d1-d8627dbf62e3" alt="palingenesi_evil" width="300" height="300">
 
 > Each night*, choose a player: they die. 1 alive player knows you are in play. If you die, they become an evil Palingenesi.
 
