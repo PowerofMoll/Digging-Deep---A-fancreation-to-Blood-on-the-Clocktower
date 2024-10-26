@@ -27,7 +27,10 @@ Mining timing is a script focused around deaths and survivals during the day and
 [Wight](#wight)
 
 ## Demons
-
+[Aurora](#aurora)
+[Wyrm](#wyrm)
+[Rakshasa](#rakshasa)
+[Palingenesi](#palingensi)
 
 
 
@@ -107,7 +110,7 @@ At dawn remove the **Hunting Tonight** reminder.
 ## Counterfeiter
 <img src="https://github.com/user-attachments/assets/116e9ad4-a5ef-4191-be58-6725cd19bc22" alt="counterfeiter_good" width="300" height="300">
 
-> 2 players can't register correctly to Townsfolk. If you die, tonight, guess 2 players per night you lived: you learn correct guesses.
+> 2 players can't register as their alignment or character to Townsfolk. If you die, tonight, guess them per night: learn correct guesses.
 
 *\[insert flavour\]*
 
@@ -212,3 +215,12 @@ If the last alive Outsider dies, mark the Wight with their **Awoken** reminder.
 
 During that night, wake the Wight. They point at 2 Townsfolk players, (if they choose any players that are not Townsfolk, ask them to choose again.) Mark those 2 players poisoned with the Wights **Poisoned** reminders.
 
+# Demon
+
+## Aurora
+
+## Wyrm
+
+## Rakshasa
+
+## Palingenesi
