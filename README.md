@@ -3,14 +3,45 @@ Mining timing is a script focused around deaths and survivals during the day and
 
 ## Townsfolk
 
+<img src="https://github.com/user-attachments/assets/cb90fba9-a1ed-43d7-a3f9-593c166de713" alt="technician_good" width="100" height="100">
+
+> [Technician](#technician)
+
+> [Arbitor](#arbitor)
+
+<img src="https://github.com/user-attachments/assets/5b71b71d-de69-4b61-94a1-2e801677a855" alt="technician_good" width="100" height="100">
+
+> [Geologist](#geologist)
+
+> [Operator](#operator)
+
 <img src="https://github.com/user-attachments/assets/2a06f7a6-9531-4b20-ba9c-fb48c7f7be1c" alt="prospector_good" width="100" height="100">
+
+> [Lapidary](#lapidary)  
+
 <img src="https://github.com/user-attachments/assets/5202bdda-d57f-45b3-9767-44358f033500" alt="lapidary_good" width="100" height="100">
 
-<pre>
-[  Lapidary  ](#lapidary)  
-</pre>pre>
+ > [Prospector](#prospector)
 
-  [U+0020	U+0020	Prospector](#prospector)
+<img src="https://github.com/user-attachments/assets/910b1377-bf01-4e84-bea3-85fe5c2326ca" alt="demolitionist_good" width="100" height="100">
+
+> [Demolitionist](#demolitionist)
+
+> [Driller](#driller)
+
+<img src="https://github.com/user-attachments/assets/4c264bea-e1f3-4273-8e87-9d62f9cf0355" alt="demolitionist_good" width="100" height="100">
+
+> [Overman](#overman)
+
+> [Surveyor](#surveyor)
+
+<img src="https://github.com/user-attachments/assets/cd79b14b-58d6-4f98-99e6-e108466cc66f" alt="panner_good" width="100" height="100">
+
+> [Panner](#panner)
+
+<img src="https://github.com/user-attachments/assets/c89355a6-742d-4992-b3e3-97d1d6be30a1" alt="spotter_good" width="100" height="100">
+
+> [Spotter](#spotter)
 
 ## Outsiders
 [Conservationist](#conservationist)
