@@ -28,8 +28,11 @@ Mining timing is a script focused around deaths and survivals during the day and
 
 ## Demons
 [Aurora](#aurora)
+
 [Wyrm](#wyrm)
+
 [Rakshasa](#rakshasa)
+
 [Palingenesi](#palingensi)
 
 
