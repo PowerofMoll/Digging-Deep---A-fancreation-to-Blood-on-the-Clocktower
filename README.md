@@ -8,7 +8,7 @@ Mining timing is a script focused around deaths and survivals during the day and
 
 > [Lapidary             ](#lapidary)
 <p>"    "</p>
-> [                Prospector](#prospector)
+> [Prospector](#prospector)
 
 ## Outsiders
 [Conservationist](#conservationist)
