@@ -308,7 +308,7 @@ At dusk, remove the **Mundane Weapons** reminder.
 
 > Each night*, choose a player: they die. 1 alive player knows you are in play. If you die, they become an evil Palingenesi.
 
-*Entry 5712: The Palingenesi in an entity found in 1962 in a cave, named after its ability to reform upon destruction. Burning, Crushing, Disolving, and Slashing are just a few methods we have tested, none have worked. We are trying all we can. It won't be contained. I will probably die before the end of the month. My death will hopefully contain it for enough time for a way to destroy it to be found. Someone had to be the sacrifice.*
+*Entry 5712: The Palingenesi in an entity found in 1662 in a cave, named after its ability to reform upon destruction. Burning, Crushing, Disolving, and Slashing are just a few methods we have tested, none have worked. We are trying all we can. It won't be contained. I will probably die before the end of the month. My death will hopefully contain it for enough time for a way to destroy it to be found. Someone had to be the sacrifice.*
 
 ### The Palingenesi reforms upon its death.
 - If the player who knows the Palingenesi dies, an alive player learns it that night.
