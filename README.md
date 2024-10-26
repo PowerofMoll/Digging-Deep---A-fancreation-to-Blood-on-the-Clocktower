@@ -43,8 +43,9 @@ Mining timing is a script focused around deaths and survivals during the day and
 - It is reccomended to give between half and a third of the grimoire. Generally 3 or more for a better experience.
 - Show the types by showing numbers using your hand, 1 representing Townsfolk, 2 representing Outsider, 3 representing Minion and 4 representing Demon.
 
+# Outsider
 
-# Conservationist
+## Conservationist
 <img src="https://github.com/user-attachments/assets/0a38f8a5-8d94-4f24-81aa-9a55a937c946" alt="conservationist_good" width="300" height="300">
 
 > Once per game, if a player would die, they don't & another might die instead.
@@ -61,7 +62,7 @@ Mining timing is a script focused around deaths and survivals during the day and
 At any time a player dies, you may decide that they don't. Do not declare that this happened. If you do, mark the Conservationist with the **No Ability** reminder. You may also decide that another player dies instead. If this is during the day, immediately declare that the other player has died. If this is during the night, remove the **Dead** reminder that was placed on the protected player and if you chose that another dies, mark them with that **Dead** reminder. Wait until dawn to declare which players died during the night. (Do not say how.)
 
 
-# Moonshiner
+## Moonshiner
 <img src="https://github.com/user-attachments/assets/772aba6f-9074-497a-b405-a367736c5181" alt="moonshiner_good" width="300" height="300">
 
 > 1 of the Demons alive good neighbours is drunk.
@@ -81,13 +82,13 @@ If the player marked with the Moonshiners **Drunk** reminder dies, turns evil or
 
 If the Moonshiner dies, remove their **Drunk** reminder.
 
-# Roamer
+## Roamer
 
-# Counterfeiter
+## Counterfeiter
 
-<h1 style="font-size: 64px">Minion</h1>
+# Minion
 
-# Skinwalker
+## Skinwalker
 
 > You know a good player. Each night, choose a character & alignment you both register as to Townsfolk.
 
@@ -109,7 +110,7 @@ Each night, wake the Skinwalker. The Skinwalker points to a character icon on th
 
 Each time the Skinwalker or player marked **Shared Skin** is targeted by a Townsfolk ability that detects or affects characters or alignments, the Skinwalker or player marked **Shared Skin** register as the character marked **Apperance** and as good if the Skinwalker is marked with the **Good** reminder and as evil if the Skinwalker is marked with the **Evil** reminder. (Do whatever is appropriate, such as showing a good character token, nodding, giving finger signals, or allowing an ability to work that would normally only affect good, Townsfolk, or Outsider players.)
 
-# Gargoyle
+## Gargoyle
 <img src="https://github.com/user-attachments/assets/1179e016-7b99-423c-bdc5-6f4c2f1914b9" alt="gargoyle_evil" width="300" height="300">
 
 > Each night, choose a player: players they nominate tomorrow might die tomorrow.
@@ -132,7 +133,7 @@ At dusk, remove the **Watched** reminder.
 
 At dusk, remove the **Dying** reminder.
 
-# Vessel
+## Vessel
 <img src="https://github.com/user-attachments/assets/5f8ee180-878b-47e3-b7b9-885d36a27093" alt="vessel_evil" width="300" height="300">
 
 > Evil players who nominate you swap characters with you. You can't die.
@@ -151,7 +152,7 @@ During that night, one at a time, wake each player with the **Moved** reminder, 
 
 If the Vessel would die, they remain alive. If the Vessel is executed, declare that this player is executed but remains alive. (Do not say why.)
 
-# Wight
+## Wight
 
 
 > If no Outsiders live, tongiht, choose 2 Townsfolk: they are poisoned. [-1 to +1 Outsider]
