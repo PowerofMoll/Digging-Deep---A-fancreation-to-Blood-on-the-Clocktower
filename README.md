@@ -34,14 +34,14 @@ Mining timing is a script focused around deaths and survivals during the day and
 # Lapidary
 <img src="https://github.com/user-attachments/assets/5202bdda-d57f-45b3-9767-44358f033500" alt="lapidary_good" width="300" height="300">
 
-> You start knowing a character type & some that neighbour it clockwise or anticlockwise.
+> On your 1st day, you may visit the Storyteller to privately learn a character type & some that neighbour it clockwise or anticlockwise.
 
 *such a beutiful gem you are*
 
 **The Lapidary inspects some of what is around the mine.**
 - The Lapidary can learn any number of character types in a row.
 - It is reccomended to give between half and a third of the grimoire. Generally 3 or more for a better experience.
-- Show the types by showing numbers using your hand, 1 representing Townsfolk, 2 representing Outsider, 3 representing Minion and 4 representing Demon.
+- Learning about some character types is a lot stronger, if you show the Demon it is generally reccomended to show less other players.
 
 # Outsider
 
