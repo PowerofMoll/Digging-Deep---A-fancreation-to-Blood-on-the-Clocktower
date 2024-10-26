@@ -303,7 +303,6 @@ If the Rakshasa is executed while marked with **Mundane Weapons**, declare that 
 
 At dusk, remove the **Mundane Weapons** reminder.
 
-
 ## Palingenesi
 
 > Each night*, choose a player: they die. 1 alive player knows you are in play. If you die, they become an evil Palingenesi.
@@ -316,13 +315,10 @@ At dusk, remove the **Mundane Weapons** reminder.
 - If the game enters a situation were the good team is unable to win, end the game there and allow the player who knows the Palingenesi to win with evil.
 
 ### How to run
-On their first night, wake any player. Show them the Palingenesi character token. Put that player to sleep.
-
+On the Palingenesi's first night, wake any player. Show them the Palingenesi character token. Put that player to sleep.
 
 Each night except the first, wake the Palingenesi. They point at any player. That player dies - mark them with the **Dead** reminder. Put the Palingenesi to sleep.
 
-Wake any good player. Show them the Widow character token. Put that good player to sleep.
+If the Palingenesi dies, the player marked **Know** turns evil and becomes the Palingenesi. (The new Palingenesi now repeats the first paragraph)
 
 If the player who knows the Palingenesi is in play dies while the Palingensi is alive, remove **Know** reminder, wake a new player and show them the Palingensi character token, mark them with the **Know** reminder.
-
-
