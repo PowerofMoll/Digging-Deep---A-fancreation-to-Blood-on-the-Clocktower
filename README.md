@@ -84,14 +84,25 @@ If the Moonshiner dies, remove their **Drunk** reminder.
 
 ## Roamer
 
-> If an evil player is executed, tonight, they may guess you: if correct, they choose a player: they die tomorrow.
+> If an evil player is executed, tonight, they may guess you: if correct, a player dies tomorrow.
 
 *Round and round the place we go. Finding friend and many foe.*
 
 ### **The Roamer travels around rousing monsters from their sleep.**
 - The executed evil player may guess even if they did not die.
 - The evil player wakes immediately to guess.
-- If the Roamer dies, no players can die from it's ability then on.
+- The Roamer can kill a dead or protected player to sink the kill though this should generally only be done if it would help evil.
+- If the Roamer dies, no players can die from it's ability then on, even guesses made when the Roamer lived.
+
+### __How to run__
+
+If an evil player is executed, mark them as **Hunting Tonight**.
+
+During that night, wake the player marked **Hunting Tonight**, they point at a player. Put them to sleep. If they pointed at the Roamer, mark the Roamer **Monsters roused**.
+
+If the Roamer is marked **Monsters Roused**, at any point during the day choose a player to die. Immediately declare that the player has died. Remove the **Monsters Roused** reminder. 
+
+At dawn remove the **Hunting Tonight** reminder.
 
 ## Counterfeiter
 
