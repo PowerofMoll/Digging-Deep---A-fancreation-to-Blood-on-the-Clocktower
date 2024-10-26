@@ -4,12 +4,10 @@ Mining timing is a script focused around deaths and survivals during the day and
 ## Townsfolk
 
 <img src="https://github.com/user-attachments/assets/2a06f7a6-9531-4b20-ba9c-fb48c7f7be1c" alt="prospector_good" width="100" height="100">
-
-[Lapidary](#lapidary)
-
 <img src="https://github.com/user-attachments/assets/5202bdda-d57f-45b3-9767-44358f033500" alt="lapidary_good" width="100" height="100">
 
-[Prospector](#prospector)
+[\_\_Lapidary\_\_](#lapidary)
+[\_\_Prospector\_\_](#prospector)
 
 ## Outsiders
 [Conservationist](#conservationist)
