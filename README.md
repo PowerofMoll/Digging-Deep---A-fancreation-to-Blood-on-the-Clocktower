@@ -315,9 +315,14 @@ At dusk, remove the **Mundane Weapons** reminder.
 - As a storyteller you have an important decition to make as for whether you make an evil player learn it is in-play. Allowing it to turn more than 2 players is highly advice against. 
 - If the game enters a situation were the good team is unable to win, end the game there and allow the player who knows the Palingenesi to win with evil.
 
-- ### How to run
+### How to run
+On their first night, wake any player. Show them the Palingenesi character token. Put that player to sleep.
+
+
 Each night except the first, wake the Palingenesi. They point at any player. That player dies - mark them with the **Dead** reminder. Put the Palingenesi to sleep.
 
-If the player who knows the Palingenesi is in play turns dies while the Palingensi is alive, wake a new player and show them the Palingensi character token.
+Wake any good player. Show them the Widow character token. Put that good player to sleep.
+
+If the player who knows the Palingenesi is in play dies while the Palingensi is alive, remove **Know** reminder, wake a new player and show them the Palingensi character token, mark them with the **Know** reminder.
 
 
