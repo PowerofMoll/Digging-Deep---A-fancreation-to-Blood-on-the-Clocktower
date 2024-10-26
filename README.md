@@ -84,7 +84,20 @@ If the Moonshiner dies, remove their **Drunk** reminder.
 
 ## Roamer
 
+> If an evil player is executed, tonight, they may guess you: if correct, they choose a player: they die tomorrow.
+
+*Round and round the place we go. Finding friend and many foe.*
+
+### **The Roamer travels around rousing monsters from their sleep.**
+- The executed evil player may guess even if they did not die.
+- The evil player wakes immediately to guess.
+- If the Roamer dies, no players can die from it's ability then on.
+
 ## Counterfeiter
+
+> 2 players can't register correctly to Townsfolk. If you die, tonight, guess 2 players per night you lived: you learn correct guesses.
+
+*\[insert flavour\]*
 
 # Minion
 
