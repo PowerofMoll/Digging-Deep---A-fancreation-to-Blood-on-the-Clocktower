@@ -96,16 +96,26 @@ Mining timing is a script focused around deaths and survivals during the day and
 
 *Such beutiful gems. A little amethyst, small pieces of ruby, and one sizable emerald.*
 
-**The Lapidary inspects some of what is around the mine.**
+### **The Lapidary inspects some of what is around the mine.**
 - The Lapidary can learn any number of character types in a row.
 - It is reccomended to give between half and a third of the grimoire. Generally 3 or more for a better experience.
 - Learning about some character types is a lot stronger, if you show the Demon it is generally reccomended to show less other players.
 
 ## Prospector
 
+> Each night*, you learn the character you nominated today. If an evil player died since dawn, this info is arbitrary.
+
+*I've struck gold!!!*
+
+### The Prospectors can learn the characters of players they nominate, unless an evil player recently died.
+- The Prospector is shown the token of the player they nominated yesterday. If they didn't nominate, they don't wake.
+- If an evil player died during the day or night, the Prospectors can be shown any character token.
+
 ## Demolitionist
 
 ## Driller
+
+
 
 ## Overman
 
