@@ -79,7 +79,7 @@ Mining timing is a script focused around deaths and survivals during the day and
 
 > On your 1st day, you may visit the Storyteller to privately learn a character type & some that neighbour it clockwise or anticlockwise.
 
-*Such beutiful gems. A little amethyst, small piexes of ruby, and one sizable emerald.*
+*Such beutiful gems. A little amethyst, small pieces of ruby, and one sizable emerald.*
 
 **The Lapidary inspects some of what is around the mine.**
 - The Lapidary can learn any number of character types in a row.
