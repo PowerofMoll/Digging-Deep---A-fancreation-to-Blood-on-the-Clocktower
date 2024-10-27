@@ -111,6 +111,9 @@ Mining timing is a script focused around deaths and survivals during the day and
 - The Prospector is shown the token of the player they nominated yesterday. If they didn't nominate, they don't wake.
 - If an evil player died during the day or night, the Prospectors can be shown any character token.
 
+### How to run
+
+
 ## Demolitionist
 
 ## Driller
