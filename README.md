@@ -169,6 +169,7 @@ During that night, wake the Counterfeiter, they point at 2 players per night (on
 # Minion
 
 ## Skinwalker
+<img src="https://github.com/user-attachments/assets/a93d874f-22e7-4ff0-a088-9c03021e8b3f" alt="gargoyle_evil" width="300" height="300">
 
 > You know a good player. Each night, choose a character & alignment you both register as to Townsfolk.
 
