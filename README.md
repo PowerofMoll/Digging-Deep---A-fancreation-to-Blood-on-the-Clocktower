@@ -72,7 +72,22 @@ Mining timing is a script focused around deaths and survivals during the day and
 
 [Palingenesi](#palingensi)
 
+## Fabled
 
+[Forge](#forge)
+
+## Travellers
+
+
+# Townsfolk
+
+## Technician
+
+## Arbitor
+
+## Geologist
+
+## Operator
 
 # Lapidary
 <img src="https://github.com/user-attachments/assets/5202bdda-d57f-45b3-9767-44358f033500" alt="lapidary_good" width="300" height="300">
@@ -85,6 +100,18 @@ Mining timing is a script focused around deaths and survivals during the day and
 - The Lapidary can learn any number of character types in a row.
 - It is reccomended to give between half and a third of the grimoire. Generally 3 or more for a better experience.
 - Learning about some character types is a lot stronger, if you show the Demon it is generally reccomended to show less other players.
+
+## Prospector
+
+## Demolitionist
+
+## Driller
+
+## Overman
+
+## Surveyor
+
+## Panner
 
 # Outsider
 
