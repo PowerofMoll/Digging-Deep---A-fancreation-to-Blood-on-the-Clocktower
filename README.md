@@ -102,6 +102,7 @@ Mining timing is a script focused around deaths and survivals during the day and
 - Learning about some character types is a lot stronger, if you show the Demon it is generally reccomended to show less other players.
 
 ## Prospector
+<img src="https://github.com/user-attachments/assets/97f99d6c-d6b3-49c0-810d-1069d606f4c4" alt="prospector_good" width="300" height="300">
 
 > Each night*, you learn the character you nominated today. If an evil player died since dawn, this info is arbitrary.
 
@@ -112,7 +113,15 @@ Mining timing is a script focused around deaths and survivals during the day and
 - If an evil player died during the day or night, the Prospectors can be shown any character token.
 
 ### How to run
+Each night except the first, if a player is marked **Gold**, wake the Prospector and show them the character token of the player marked **Gold**. Put the Prospector to sleep.
 
+If the Prospector nominates a player, mark that player **Gold**.
+
+If an evil player dies, mark the Prospector with their **Fools Gold** reminder.
+
+At dawn remove the **Gold** reminder.
+
+At dawn remove the **Fools Gold** reminder.
 
 ## Demolitionist
 
