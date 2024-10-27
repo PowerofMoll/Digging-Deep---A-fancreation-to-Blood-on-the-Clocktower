@@ -160,7 +160,7 @@ At dawn remove the **Fools Gold** reminder.
 
 ## Driller
 
-> Once per game, at night, choose a character (not Demon): they can't survive tomorrow.
+> Once per game, at night, choose a character (not Demon): they die tomorrow.
 
 ## Overman
 
