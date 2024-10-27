@@ -90,6 +90,8 @@ Mining timing is a script focused around deaths and survivals during the day and
 > Each night, choose a player: their opposing neighbours can't die until dusk.
 
 ## Geologist
+<img src="https://github.com/user-attachments/assets/383fa907-1080-4fd3-9ae9-6ad4e188e056" alt="geologist_good" width="300" height="300">
+
 
 > Each night, choose 2 players: you learn 1 of them that is good. If both are evil, this info is arbitrary
 
