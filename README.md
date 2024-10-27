@@ -83,13 +83,31 @@ Mining timing is a script focused around deaths and survivals during the day and
 
 ## Technician
 
+> Each night, choose 2 players: you learn the character type of 1 of them.
+
 ## Arbitor
+
+> Each night, choose a player: their opposing neighbours can't die until dusk.
 
 ## Geologist
 
+> Each night, choose 2 players: you learn 1 of them that is good. If both are evil, this info is arbitrary
+
+*This is an amazing earth, the minerals here will yeild well.*
+
+### The Geologist can find out which of 2 players is more likely to be good.
+- The Geologist chooses 2 players and learns one of them.
+- If at least 1 registers as good, they must be shown.
+- If both register as evil, either can be learned.
+
+### How to run
+Each night, wake the Geologist. They point at 2 players. Point at 1 of them that is good, or either is both are evil. Put the Geologist to sleep.
+
 ## Operator
 
-# Lapidary
+> Each night*, you learn a character which would've died but didn't since dusk.
+
+## Lapidary
 <img src="https://github.com/user-attachments/assets/5202bdda-d57f-45b3-9767-44358f033500" alt="lapidary_good" width="300" height="300">
 
 > On your 1st day, you may visit the Storyteller to privately learn a character type & some that neighbour it clockwise or anticlockwise.
@@ -125,15 +143,29 @@ At dawn remove the **Fools Gold** reminder.
 
 ## Demolitionist
 
+> Once per game, during the day, publicly choose 2 players: if 1 dies, the other does too.
+
+*Boom*
+
 ## Driller
 
-
+> Once per game, at night, choose a character (not Demon): they can't survive tomorrow.
 
 ## Overman
 
+> If you die, tonight, learn a good player per night.
+
 ## Surveyor
 
+> If one of your alive neighbours would die, another player might die instead.
+
 ## Panner
+
+> If you die, publicly choose 2 players: if both are good, the 1st time each dies, they don't.
+
+## Spotter
+
+> A good player can't die, if they would: their clockwise alive good neighbour can't die instead.
 
 # Outsider
 
