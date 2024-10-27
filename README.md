@@ -19,7 +19,7 @@ Mining timing is a script focused around deaths and survivals during the day and
 
 > [Lapidary](#lapidary)  
 
-<img src="https://github.com/user-attachments/assets/5202bdda-d57f-45b3-9767-44358f033500" alt="lapidary_good" width="100" height="100">
+<img src="https://github.com/user-attachments/assets/be98805b-de0c-42b1-8ad8-99a031ea9485" alt="lapidary_good" width="100" height="100">
 
  > [Prospector](#prospector)
 
@@ -119,7 +119,7 @@ Each night, wake the Geologist. They point at 2 players. Point at 1 of them that
 > Each night*, you learn a character which would've died but didn't since dusk.
 
 ## Lapidary
-<img src="https://github.com/user-attachments/assets/5202bdda-d57f-45b3-9767-44358f033500" alt="lapidary_good" width="300" height="300">
+<img src="https://github.com/user-attachments/assets/be98805b-de0c-42b1-8ad8-99a031ea9485" alt="lapidary_good" width="300" height="300">
 
 > On your 1st day, you may visit the Storyteller to privately learn a character type & some that neighbour it clockwise or anticlockwise.
 
