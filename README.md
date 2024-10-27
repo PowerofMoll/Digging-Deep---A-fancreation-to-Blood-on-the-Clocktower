@@ -124,6 +124,7 @@ While preparing the first night, mark one of the Demons good neighbours with the
 If the player marked with the Moonshiners **Drunk** reminder dies, turns evil or stops neighbouring the Demon, remove the Moonshiner's **Drunk** reminder. Mark one of the Demons good neighbours with the Moonshiner’s **Drunk** reminder.
 
 ## Roamer
+<img src="https://github.com/user-attachments/assets/e11f14d1-42e2-4d4f-be42-6449bf5337a5" alt="moonshiner_good" width="300" height="300">
 
 > If an evil player is executed, tonight, they may guess you: if correct, a player dies tomorrow.
 
