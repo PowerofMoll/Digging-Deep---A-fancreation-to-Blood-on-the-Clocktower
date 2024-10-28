@@ -1,3 +1,7 @@
+[*Main >*](https://github.com/PowerofMoll/Mining-Timing---A-fancreation-to-Blood-on-the-Clocktower/blob/main/README.md)
+[_Minion >_](https://github.com/PowerofMoll/Mining-Timing---A-fancreation-to-Blood-on-the-Clocktower/blob/main/Minion/README.md)
+[_Wraith_](https://github.com/PowerofMoll/Mining-Timing---A-fancreation-to-Blood-on-the-Clocktower/blob/main/Minion/Wraith/README.md)
+
 ## Wraith
 
 > If no Outsiders live, tongiht, choose 2 Townsfolk: they are poisoned. [-1 to +1 Outsider]
