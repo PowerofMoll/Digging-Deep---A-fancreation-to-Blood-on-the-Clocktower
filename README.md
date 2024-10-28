@@ -27,6 +27,8 @@ Mining timing is a script focused around deaths and survivals during the day and
 
 > [Demolitionist](#demolitionist)
 
+<img src="https://github.com/user-attachments/assets/ee7b31d1-07f9-466a-8771-baa5699852be" alt="driller_good" width="100" height="100">
+
 > [Driller](#driller)
 
 > [Storeman](#storeman)
@@ -201,6 +203,8 @@ During the day, the Demolitionist can declare that they wish to use their abilit
 If a player marked **Charge** dies, the other does so too. If this is during the day. Immediately decare that the player has died. If this is during the night, mark them with the **Dead** reminder and wait until dawn to declare which players died during the night. (Do not say how.)
 
 ## Driller
+
+<img src="https://github.com/user-attachments/assets/ee7b31d1-07f9-466a-8771-baa5699852be" alt="driller_good" width="300" height="300">
 
 > Once per game, at night, choose a good character: they die tomorrow.
 
