@@ -15,3 +15,4 @@
 ### How to run
 While preparing the first night, put the **Can't die** reminder by any good character token.
 
+If the player marked **Can't die** would be marked dead, but wasn't 
