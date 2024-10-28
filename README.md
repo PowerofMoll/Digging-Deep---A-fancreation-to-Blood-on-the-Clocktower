@@ -93,9 +93,6 @@ Digging Down is a script focused around deaths and survivals during the day and 
 
 
 
-## Surveyor
-
-> If one of your alive neighbours would die, another player might die instead.
 
 ## Panner
 
