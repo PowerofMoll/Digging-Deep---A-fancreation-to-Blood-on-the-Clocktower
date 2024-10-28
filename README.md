@@ -15,11 +15,11 @@ Mining timing is a script focused around deaths and survivals during the day and
 
 > [Operator](#operator)
 
-<img src="https://github.com/user-attachments/assets/2a06f7a6-9531-4b20-ba9c-fb48c7f7be1c" alt="prospector_good" width="100" height="100">
+<img src="https://github.com/user-attachments/assets/be98805b-de0c-42b1-8ad8-99a031ea9485" alt="lapidary_good" width="100" height="100">
 
 > [Lapidary](#lapidary)  
 
-<img src="https://github.com/user-attachments/assets/be98805b-de0c-42b1-8ad8-99a031ea9485" alt="lapidary_good" width="100" height="100">
+<img src="https://github.com/user-attachments/assets/2a06f7a6-9531-4b20-ba9c-fb48c7f7be1c" alt="prospector_good" width="100" height="100">
 
  > [Prospector](#prospector)
 
