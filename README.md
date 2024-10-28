@@ -83,22 +83,6 @@ Digging Down is a script focused around deaths and survivals during the day and 
 ## Travellers
 
 
-# Townsfolk
-
-
-
-
-
-
-
-
-
-
-
-## Spotter
-
-> A good player can't die, if they would: their clockwise alive good neighbour can't die instead.
-
 # Outsider
 
 ## Conservationist
