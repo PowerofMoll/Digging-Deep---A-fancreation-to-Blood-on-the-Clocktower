@@ -190,7 +190,7 @@ At dawn remove the **Fools Gold** reminder.
 
 > Once per game, during the day, publicly choose 2 players: if 1 dies, the other does too.
 
-*Boom*
+*3! 2! 1! Boom!!!*
 
 ### The Demolitionist links 2 people together so if 1 dies the other blows up too.
 - The Demolitionist clearly chooses 2 players to link. (it can be themselves)
