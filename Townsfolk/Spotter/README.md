@@ -5,3 +5,11 @@
 ## Spotter
 
 > A good player can't die, if they would: their clockwise alive good neighbour can't die instead.
+
+*You are not allowed to die under my watch!*
+
+### The Spotter prevents good players from dying.
+-  A good player can't die, the Spotter does not know who. If that player dies their clockwise player can't die instead, skipping dead and evil players.
+-  If the good player who can't die becomes evil or dies (ex. while the spotter is drunk), the clockwise good player can't die instead.
+
+### How to run
