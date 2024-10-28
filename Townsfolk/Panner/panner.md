@@ -1,3 +1,5 @@
+
+
 ## Panner
 
 > When you learn that you died, publicly choose 2 players: if both are good, the 1st time each dies, they don't.
