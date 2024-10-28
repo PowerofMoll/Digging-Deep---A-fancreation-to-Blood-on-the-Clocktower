@@ -270,9 +270,9 @@ During that night, wake the Overman, point at a good player per night. Put the O
 - If one or both are evil, nothing happens.
 
 ### How to run
-When the Panner player is declared dead, they must declare that they are the Panner and then point at two players. (Give them time.) If both are good mark them **Protected**.
+When the Panner player is declared dead, they must declare that they are the Panner and then point at two players. (Give them time.) If both are good mark them **Extra Life**.
 
-
+If a player marked **Extra Life** would die, they remain alive and you remove the **Extra Life** reminder. If a player marked **Extra Life** is executed, declare that the marked player is executed but remains alive. (Do not say why.) Remove the **Extra Life** reminder.
 
 ## Spotter
 
