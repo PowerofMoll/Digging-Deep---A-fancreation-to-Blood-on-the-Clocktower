@@ -6,7 +6,7 @@
 
 <img src="https://github.com/user-attachments/assets/a93d874f-22e7-4ff0-a088-9c03021e8b3f" alt="gargoyle_evil" width="300" height="300">
 
-> You know a good player. Each night, choose a character & alignment you both register as to Townsfolk.
+> You know a good player. Each night, choose a character & alignment you both register as until you choose again to Townsfolk.
 
 *They said I couldn't become like you. I will prove them wrong. I will become you.*
 
