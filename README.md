@@ -44,37 +44,37 @@ Mining timing is a script focused around deaths and survivals during the day and
 > [Spotter](#spotter)
 
 ## Outsiders
-[Conservationist](#conservationist)
+> [Conservationist](#conservationist)
 
-[Moonshiner](#moonshiner)
+> [Moonshiner](#moonshiner)
 
-[Roamer](#roamer)
+> [Roamer](#roamer)
 
-[Counterfeiter](#counterfeiter)
+> [Counterfeiter](#counterfeiter)
 
 ## Minions
-[Gargoyle](#gargoyle)
+> [Gargoyle](#gargoyle)
 
-[Skinwalker](#skinwalker)
+> [Skinwalker](#skinwalker)
 
-[Vessel](#vessel)
+> [Vessel](#vessel)
 
-[Wight](#wight)
+> [Wight](#wight)
 
 ## Demons
-[Aurora](#aurora)
+> [Aurora](#aurora)
 
-[Wurm](#wyrm)
+> [Wurm](#wyrm)
 
-[Rakshasa](#rakshasa)
+> [Rakshasa](#rakshasa)
 
 <img src="https://github.com/user-attachments/assets/cceb3386-1e9b-4032-99d1-d8627dbf62e3" alt="palingenesi_evil" width="100" height="100">
 
-[Palingenesi](#palingensi)
+> [Palingenesi](#palingensi)
 
 ## Fabled
 
-[Forge](#forge)
+> [Forge](#forge)
 
 ## Travellers
 
