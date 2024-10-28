@@ -1,3 +1,7 @@
+[*Main >*](https://github.com/PowerofMoll/Mining-Timing---A-fancreation-to-Blood-on-the-Clocktower/blob/main/README.md)
+[_Demon >_](https://github.com/PowerofMoll/Mining-Timing---A-fancreation-to-Blood-on-the-Clocktower/blob/main/Demon/README.md)
+[_Rakshasa_](https://github.com/PowerofMoll/Mining-Timing---A-fancreation-to-Blood-on-the-Clocktower/blob/main/Demon/Rakshasa/README.md)
+
 ## Rakshasa
 
 > Each night*, choose a player: they die. You can't die to executions by Townsfolk, except if 3 players live. [+1 Outsider]
