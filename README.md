@@ -208,9 +208,34 @@ If a player marked **Charge** dies, the other does so too. If this is during the
 
 > Once per game, at night, choose a player: you learn & gain their ability. If they are evil, you are drunk.
 
+*Take a look at what we've got.*
+
+### The Storeman follows anothers lead in their task.
+- The Storeman may choose another player once.
+- They learn that players character and gain their ability.
+- If the chosen player is evil, they are drunk and told any character and don't get an ability, but wake them as if they did.
+
+### How to run
+Each night, wake the Storeman. They either shake their head no or point at any player.
+
+If they shake their head no, nothing happens. Put the Storeman to sleep.
+
+If they point at a player, if that player is evil mark the Storeman as **Poisoned**. Show the chosen players character token (any if the Storeman is poisoned). Put the Storeman to sleep. Mark the learned character token with **Gained Ability**. Mark the Storeman with the **No Ability** reminder and remove their night token from the night sheet.
+
 ## Overman
 
 > If you die, tonight, learn a good player per night.
+
+*There is nothing going on with the mine. I am the owner, don't you dare go against my judgement.*
+
+### The Overman finds who to trust when they realise problems are really happening.
+- The Overman wakes to learn information if they die, during the day or night.
+- The Overman learns an equal number of good players to the night number, even if they were created later in the game.
+
+### How to run
+If the Overman dies, mark them **Crumbling**.
+
+During that night, wake the Overman, point at a good player per night. Put the Overman to sleep. 
 
 ## Surveyor
 
