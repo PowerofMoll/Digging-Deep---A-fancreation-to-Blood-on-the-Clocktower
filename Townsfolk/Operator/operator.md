@@ -1,3 +1,7 @@
+[*Main >*](https://github.com/PowerofMoll/Mining-Timing---A-fancreation-to-Blood-on-the-Clocktower/blob/main/README.md)
+[_Townsfolk >_](https://github.com/PowerofMoll/Mining-Timing---A-fancreation-to-Blood-on-the-Clocktower/blob/main/Townsfolk/Townsfolk)
+[_Operator_](https://github.com/PowerofMoll/Mining-Timing---A-fancreation-to-Blood-on-the-Clocktower/blob/main/Townsfolk/Operator/Summary)
+
 ## Operator
 
 > Each night*, you learn a character which would've died but didn't since dusk or that none did.
