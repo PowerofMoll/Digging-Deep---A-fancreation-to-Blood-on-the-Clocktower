@@ -1,3 +1,7 @@
+[*Main >*](https://github.com/PowerofMoll/Mining-Timing---A-fancreation-to-Blood-on-the-Clocktower/blob/main/README.md)
+[_Demon >_](https://github.com/PowerofMoll/Mining-Timing---A-fancreation-to-Blood-on-the-Clocktower/blob/main/Demon/README.md)
+[_Wurm_](https://github.com/PowerofMoll/Mining-Timing---A-fancreation-to-Blood-on-the-Clocktower/blob/main/Demon/Wurm/README.md)
+
 ## Wurm
 <img src="https://github.com/user-attachments/assets/35cbedc4-b0e0-4e4b-92da-58c81f743ecf" alt="wurm_evil" width="300" height="300">
 
