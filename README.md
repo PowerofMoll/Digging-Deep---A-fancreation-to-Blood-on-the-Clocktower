@@ -5,7 +5,9 @@ Digging Down is a script focused around deaths and survivals during the day and 
 
 <img src="https://github.com/user-attachments/assets/cb90fba9-a1ed-43d7-a3f9-593c166de713" alt="technician_good" width="150" height="150">
 
+<p align="center">
 - [Technician](https://github.com/PowerofMoll/Mining-Timing---A-fancreation-to-Blood-on-the-Clocktower/blob/main/Townsfolk/Technician/README.md)
+</p>
 
 -  [Arbitor](https://github.com/PowerofMoll/Mining-Timing---A-fancreation-to-Blood-on-the-Clocktower/blob/main/Townsfolk/Arbitor/README.md)
 
@@ -17,7 +19,7 @@ Digging Down is a script focused around deaths and survivals during the day and 
 
 <img src="https://github.com/user-attachments/assets/be98805b-de0c-42b1-8ad8-99a031ea9485" alt="lapidary_good" width="150" height="150">
 
-- <text-align: center;>[Lapidary](https://github.com/PowerofMoll/Mining-Timing---A-fancreation-to-Blood-on-the-Clocktower/blob/main/Townsfolk/Lapidary/README.md)  
+- [Lapidary](https://github.com/PowerofMoll/Mining-Timing---A-fancreation-to-Blood-on-the-Clocktower/blob/main/Townsfolk/Lapidary/README.md)  
 
 <img src="https://github.com/user-attachments/assets/2a06f7a6-9531-4b20-ba9c-fb48c7f7be1c" alt="prospector_good" width="150" height="150">
 
