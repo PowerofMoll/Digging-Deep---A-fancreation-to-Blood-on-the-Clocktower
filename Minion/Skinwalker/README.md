@@ -1,3 +1,7 @@
+[*Main >*](https://github.com/PowerofMoll/Mining-Timing---A-fancreation-to-Blood-on-the-Clocktower/blob/main/README.md)
+[_Minion >_](https://github.com/PowerofMoll/Mining-Timing---A-fancreation-to-Blood-on-the-Clocktower/blob/main/Minion/README.md)
+[_Skinwalker_](https://github.com/PowerofMoll/Mining-Timing---A-fancreation-to-Blood-on-the-Clocktower/blob/main/Minion/Skinwalker/README.md)
+
 ## Skinwalker
 
 <img src="https://github.com/user-attachments/assets/a93d874f-22e7-4ff0-a088-9c03021e8b3f" alt="gargoyle_evil" width="300" height="300">
