@@ -1,3 +1,7 @@
+[*Main >*](https://github.com/PowerofMoll/Mining-Timing---A-fancreation-to-Blood-on-the-Clocktower/blob/main/README.md)
+[_Townsfolk >_](https://github.com/PowerofMoll/Mining-Timing---A-fancreation-to-Blood-on-the-Clocktower/blob/main/Townsfolk/Townsfolk)
+[_Lapidary_](https://github.com/PowerofMoll/Mining-Timing---A-fancreation-to-Blood-on-the-Clocktower/blob/main/Townsfolk/Lapidary/Summary)
+
 ## Lapidary
 <img src="https://github.com/user-attachments/assets/be98805b-de0c-42b1-8ad8-99a031ea9485" alt="lapidary_good" width="300" height="300">
 
