@@ -1,6 +1,6 @@
 [*Main >*](https://github.com/PowerofMoll/Mining-Timing---A-fancreation-to-Blood-on-the-Clocktower/blob/main/README.md)
 [_Townsfolk >_](https://github.com/PowerofMoll/Mining-Timing---A-fancreation-to-Blood-on-the-Clocktower/blob/main/Townsfolk/Townsfolk)
-[_Demolitionist_](https://github.com/PowerofMoll/Mining-Timing---A-fancreation-to-Blood-on-the-Clocktower/blob/main/Townsfolk/Demolitionist/Summary)
+[_Demolitionist_](https://github.com/PowerofMoll/Mining-Timing---A-fancreation-to-Blood-on-the-Clocktower/blob/main/Townsfolk/Demolitionist/demolitionist.md)
 
 ## Demolitionist
 <img src="https://github.com/user-attachments/assets/9e9ee61c-2c8a-4b86-bd58-3813f6ade2c8" alt="boomdandy_good" width="300" height="300">
