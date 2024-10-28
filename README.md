@@ -57,7 +57,7 @@ Digging Down is a script focused around deaths and survivals during the day and 
 
 > [Counterfeiter](https://github.com/PowerofMoll/Mining-Timing---A-fancreation-to-Blood-on-the-Clocktower/blob/main/Outsider/Counterfeiter/README.md)
 
-## [Minions](https://github.com/PowerofMoll/Mining-Timing---A-fancreation-to-Blood-on-the-Clocktower/blob/main/Minion/Minions.md)
+## [Minions](https://github.com/PowerofMoll/Mining-Timing---A-fancreation-to-Blood-on-the-Clocktower/blob/main/Minion/README.md)
 
 <img src="https://github.com/user-attachments/assets/4777e34e-0780-450a-ad5d-201f9d37df4f" alt="skinwalker_evil" width="100" height="100">
 
