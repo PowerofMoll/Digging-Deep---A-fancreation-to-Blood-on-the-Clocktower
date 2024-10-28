@@ -1,3 +1,7 @@
+[*Main >*](https://github.com/PowerofMoll/Mining-Timing---A-fancreation-to-Blood-on-the-Clocktower/blob/main/README.md)
+[_Outsider >_](https://github.com/PowerofMoll/Mining-Timing---A-fancreation-to-Blood-on-the-Clocktower/blob/main/Outsider/README.md)
+[_Moonshiner_](https://github.com/PowerofMoll/Mining-Timing---A-fancreation-to-Blood-on-the-Clocktower/blob/main/Outsider/Moonshiner/README.md)
+
 ## Moonshiner
 <img src="https://github.com/user-attachments/assets/772aba6f-9074-497a-b405-a367736c5181" alt="moonshiner_good" width="300" height="300">
 
