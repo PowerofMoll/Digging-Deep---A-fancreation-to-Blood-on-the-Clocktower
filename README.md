@@ -47,7 +47,8 @@ Digging Down is a script focused around deaths and survivals during the day and 
 
 > [Spotter](https://github.com/PowerofMoll/Mining-Timing---A-fancreation-to-Blood-on-the-Clocktower/blob/main/Townsfolk/Spotter/spotter.md)
 
-## Outsiders
+## [Outsiders](https://github.com/PowerofMoll/Mining-Timing---A-fancreation-to-Blood-on-the-Clocktower/blob/main/Outsider/Outsiders.md)
+
 > [Conservationist](https://github.com/PowerofMoll/Mining-Timing---A-fancreation-to-Blood-on-the-Clocktower/blob/main/Outsider/Conservationist/conservationist.md)
 
 > [Moonshiner](https://github.com/PowerofMoll/Mining-Timing---A-fancreation-to-Blood-on-the-Clocktower/blob/main/Outsider/Moonshiner/moonshiner.md)
@@ -56,7 +57,7 @@ Digging Down is a script focused around deaths and survivals during the day and 
 
 > [Counterfeiter](https://github.com/PowerofMoll/Mining-Timing---A-fancreation-to-Blood-on-the-Clocktower/blob/main/Outsider/Counterfeiter/counterfeiter.md)
 
-## Minions
+## [Minions](https://github.com/PowerofMoll/Mining-Timing---A-fancreation-to-Blood-on-the-Clocktower/blob/main/Minion/Minions.md)
 
 > [Skinwalker](https://github.com/PowerofMoll/Mining-Timing---A-fancreation-to-Blood-on-the-Clocktower/blob/main/Minion/Skinwalker/skinwalker.md)
 
@@ -66,7 +67,7 @@ Digging Down is a script focused around deaths and survivals during the day and 
 
 > [Wraith](https://github.com/PowerofMoll/Mining-Timing---A-fancreation-to-Blood-on-the-Clocktower/blob/main/Minion/Wraith/wraith.md)
 
-## Demons
+## [Demons](https://github.com/PowerofMoll/Mining-Timing---A-fancreation-to-Blood-on-the-Clocktower/blob/main/Demon/Demons.md)
 > [Aurora](https://github.com/PowerofMoll/Mining-Timing---A-fancreation-to-Blood-on-the-Clocktower/blob/main/Demon/Aurora/aurora.md)
 
 > [Wurm](https://github.com/PowerofMoll/Mining-Timing---A-fancreation-to-Blood-on-the-Clocktower/blob/main/Demon/Wurm/wurm.md)
