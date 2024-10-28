@@ -1,7 +1,7 @@
 Digging Down is a script focused around deaths and survivals during the day and an important contemplation of wether you want to die or not. It was created during Clocktober of 2024 by Moll (@mollofpower) and Indigo (@indigocha0s).
 
 
-## [Townsfolk](https://github.com/PowerofMoll/Mining-Timing---A-fancreation-to-Blood-on-the-Clocktower/blob/main/Townsfolk/Townsfolk)
+## [Townsfolk](https://github.com/PowerofMoll/Mining-Timing---A-fancreation-to-Blood-on-the-Clocktower/blob/main/Townsfolk/Townsfolk.md)
 
 <img src="https://github.com/user-attachments/assets/cb90fba9-a1ed-43d7-a3f9-593c166de713" alt="technician_good" width="100" height="100">
 
