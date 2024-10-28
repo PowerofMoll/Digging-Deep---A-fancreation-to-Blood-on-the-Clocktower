@@ -15,4 +15,4 @@
 ### How to run
 While preparing the first night, put the **Can't die** reminder by any good character token.
 
-If the player marked **Can't die** would be marked dead, but wasn't 
+If the player marked **Can't Die** would die, they remain alive and remove the **Can't Die** reminder, place it next to the good character token of the alive player 1 step clockwise from the previous. If a player marked **Can't Die** is executed, declare that the marked player is executed but remains alive. (Do not say why.) Remove the **Can't Die** reminder, place it next to the good character token of the alive player 1 step clockwise from the previous.
