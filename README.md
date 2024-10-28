@@ -31,7 +31,7 @@ Mining timing is a script focused around deaths and survivals during the day and
 
 > [Storeman](#storeman)
 
-<img src="https://github.com/user-attachments/assets/4c264bea-e1f3-4273-8e87-9d62f9cf0355" alt="demolitionist_good" width="100" height="100">
+<img src="https://github.com/user-attachments/assets/4c264bea-e1f3-4273-8e87-9d62f9cf0355" alt="overman_good" width="100" height="100">
 
 > [Overman](#overman)
 
@@ -223,6 +223,7 @@ If they shake their head no, nothing happens. Put the Storeman to sleep.
 If they point at a player, if that player is evil mark the Storeman as **Poisoned**. Show the chosen players character token (any if the Storeman is poisoned). Put the Storeman to sleep. Mark the learned character token with **Gained Ability**. Mark the Storeman with the **No Ability** reminder and remove their night token from the night sheet.
 
 ## Overman
+<img src="https://github.com/user-attachments/assets/4c264bea-e1f3-4273-8e87-9d62f9cf0355" alt="overman_good" width="300" height="300">
 
 > If you die, tonight, learn a good player per night.
 
