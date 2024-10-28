@@ -3,15 +3,15 @@ Digging Down is a script focused around deaths and survivals during the day and 
 
 ## [Townsfolk](https://github.com/PowerofMoll/Mining-Timing---A-fancreation-to-Blood-on-the-Clocktower/blob/main/Townsfolk/README.md)
 
-<img src="https://github.com/user-attachments/assets/cb90fba9-a1ed-43d7-a3f9-593c166de713" alt="technician_good" width="100" height="100">
+<img src="https://github.com/user-attachments/assets/cb90fba9-a1ed-43d7-a3f9-593c166de713" alt="technician_good" width="150" height="150">
 
-> [Technician](https://github.com/PowerofMoll/Mining-Timing---A-fancreation-to-Blood-on-the-Clocktower/blob/main/Townsfolk/Technician/README.md)
+- [Technician](https://github.com/PowerofMoll/Mining-Timing---A-fancreation-to-Blood-on-the-Clocktower/blob/main/Townsfolk/Technician/README.md)
 
 -  [Arbitor](https://github.com/PowerofMoll/Mining-Timing---A-fancreation-to-Blood-on-the-Clocktower/blob/main/Townsfolk/Arbitor/README.md)
 
-<img src="https://github.com/user-attachments/assets/5b71b71d-de69-4b61-94a1-2e801677a855" alt="technician_good" width="100" height="100">
+<img src="https://github.com/user-attachments/assets/5b71b71d-de69-4b61-94a1-2e801677a855" alt="technician_good" width="150" height="150">
 
-> [Geologist](https://github.com/PowerofMoll/Mining-Timing---A-fancreation-to-Blood-on-the-Clocktower/blob/main/Townsfolk/Geologist/README.md)
+- [Geologist](https://github.com/PowerofMoll/Mining-Timing---A-fancreation-to-Blood-on-the-Clocktower/blob/main/Townsfolk/Geologist/README.md)
 
 > [Operator](https://github.com/PowerofMoll/Mining-Timing---A-fancreation-to-Blood-on-the-Clocktower/blob/main/Townsfolk/Operator/README.md)
 
