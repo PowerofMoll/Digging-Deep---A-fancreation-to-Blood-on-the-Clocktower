@@ -98,6 +98,19 @@ Each night, wake the Technician. They point at 2 players. Give a finger signal 1
 
 > Each night, choose a player: their opposing neighbours can't die until dusk.
 
+*Stop. You shall not fight. If one of you starts to even move in a direction or think the thought of fighting, you will face me.*
+
+### The Arbitor makes sure those under their watch cannot fight with their neighbours.
+- The Arbitor chooses a player each night.
+- Their neighbours who are not on that players alignment cannot die until dusk.
+
+### How to run
+Each night, wake the Arbitor. They point at a player. Put the Arbitor to sleep. For each of their neighbours who are not on their alignment, mark them with **Protected**.
+
+If a player marked **Protected** would die, they remain alive. If a player marked **Protected** is executed, declare that the marked player is executed but remains alive. (Do not say why.)
+
+At dusk remove any **Protected** reminders.
+
 ## Geologist
 <img src="https://github.com/user-attachments/assets/383fa907-1080-4fd3-9ae9-6ad4e188e056" alt="geologist_good" width="300" height="300">
 
