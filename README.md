@@ -29,6 +29,8 @@ Mining timing is a script focused around deaths and survivals during the day and
 
 > [Driller](#driller)
 
+> [Storeman](#storeman)
+
 <img src="https://github.com/user-attachments/assets/4c264bea-e1f3-4273-8e87-9d62f9cf0355" alt="demolitionist_good" width="100" height="100">
 
 > [Overman](#overman)
@@ -201,6 +203,10 @@ If a player marked **Charge** dies, the other does so too. If this is during the
 ## Driller
 
 > Once per game, at night, choose a character (not Demon): they die tomorrow.
+
+## Storeman
+
+> Once per game, at night, choose a player: you learn & gain their ability. If they are evil, you are drunk.
 
 ## Overman
 
