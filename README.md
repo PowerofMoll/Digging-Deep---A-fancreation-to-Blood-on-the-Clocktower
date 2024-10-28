@@ -262,6 +262,10 @@ During that night, wake the Overman, point at a good player per night. Put the O
 
 > If you die, publicly choose 2 players: if both are good, the 1st time each dies, they don't.
 
+*I got rid of the glittering boulder for this? It's so... so useless without a lucky lunch.* 
+
+### The Panner 
+
 ## Spotter
 
 > A good player can't die, if they would: their clockwise alive good neighbour can't die instead.
