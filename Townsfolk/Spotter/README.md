@@ -13,3 +13,5 @@
 -  If the good player who can't die becomes evil or dies (ex. while the spotter is drunk), the clockwise good player can't die instead.
 
 ### How to run
+While preparing the first night, put the **Can't die** reminder by any good character token.
+
