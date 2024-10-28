@@ -1,6 +1,6 @@
 [*Main >*](https://github.com/PowerofMoll/Mining-Timing---A-fancreation-to-Blood-on-the-Clocktower/blob/main/README.md)
-[_Townsfolk >_](https://github.com/PowerofMoll/Mining-Timing---A-fancreation-to-Blood-on-the-Clocktower/blob/main/Townsfolk/Townsfolk.md)
-[_Geologist_](https://github.com/PowerofMoll/Mining-Timing---A-fancreation-to-Blood-on-the-Clocktower/blob/main/Townsfolk/Geologist/geologist.md)
+[_Townsfolk >_](https://github.com/PowerofMoll/Mining-Timing---A-fancreation-to-Blood-on-the-Clocktower/blob/main/Townsfolk/README.md)
+[_Geologist_](https://github.com/PowerofMoll/Mining-Timing---A-fancreation-to-Blood-on-the-Clocktower/blob/main/Townsfolk/Geologist/README.md)
 
 ## Geologist
 <img src="https://github.com/user-attachments/assets/383fa907-1080-4fd3-9ae9-6ad4e188e056" alt="geologist_good" width="300" height="300">
