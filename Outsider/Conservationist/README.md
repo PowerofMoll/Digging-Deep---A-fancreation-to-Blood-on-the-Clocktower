@@ -1,3 +1,7 @@
+[*Main >*](https://github.com/PowerofMoll/Mining-Timing---A-fancreation-to-Blood-on-the-Clocktower/blob/main/README.md)
+[_Outsider >_](https://github.com/PowerofMoll/Mining-Timing---A-fancreation-to-Blood-on-the-Clocktower/blob/main/Outsider/README.md)
+[_Conservationist_](https://github.com/PowerofMoll/Mining-Timing---A-fancreation-to-Blood-on-the-Clocktower/blob/main/Outsider/Conservationist/README.md)
+
 ## Conservationist
 <img src="https://github.com/user-attachments/assets/0a38f8a5-8d94-4f24-81aa-9a55a937c946" alt="conservationist_good" width="300" height="300">
 
