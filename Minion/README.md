@@ -20,17 +20,11 @@
 - [Wraith](https://github.com/PowerofMoll/Mining-Timing---A-fancreation-to-Blood-on-the-Clocktower/blob/main/Minion/Wraith/README.md)
 
 <style>
-table {
-    border-collapse: collapse;
-}
-table, th, td {
-   border: none;
-}
-blockquote {
-    border-left: none;
-    padding-left: 10px;
+td, th {
+   border: none!important;
 }
 </style>
+
 
 | First Header  | Second Header |
 | ------------- | :-----------: |
