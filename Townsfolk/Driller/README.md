@@ -6,7 +6,7 @@
 
 <img src="https://github.com/user-attachments/assets/ee7b31d1-07f9-466a-8771-baa5699852be" alt="driller_good" width="300" height="300">
 
-> Once per game, at night, choose a good character: they die tomorrow.
+> Once per game, at night, choose a good character: they die tomorrow day.
 
 *We are almost though, just a little bit more.*
 
