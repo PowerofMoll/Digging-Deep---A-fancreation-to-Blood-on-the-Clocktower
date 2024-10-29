@@ -21,6 +21,6 @@
 
 
 	<div class="small-6 medium-6 large-2 columns">
-		[[File:icon_washerwoman.png|250px|thumb|center|link=Washerwoman]]
-		<p style="text-align: center; font-family: Trade Gothic LT Std; font-size: 18px;">{{Good|Washerwoman}}</p>
+		[[File:https://github.com/user-attachments/assets/c4f2c66b-bec8-4755-8ae5-40ac8e99ea40|250px|thumb|center|link=https://github.com/PowerofMoll/Mining-Timing---A-fancreation-to-Blood-on-the-Clocktower/blob/main/Minion/Wraith/README.md]]
+		<p style="text-align: center; font-family: Trade Gothic LT Std; font-size: 18px;">{{Good|Wraith}}</p>
 	</div>
