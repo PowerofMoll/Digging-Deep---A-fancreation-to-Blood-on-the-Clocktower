@@ -1,3 +1,7 @@
+#write table, 
+#write th, 
+#write td { border: none }
+
 [*Main >*](https://github.com/PowerofMoll/Mining-Timing---A-fancreation-to-Blood-on-the-Clocktower/blob/main/README.md)
 [_Minions_](https://github.com/PowerofMoll/Mining-Timing---A-fancreation-to-Blood-on-the-Clocktower/blob/main/Minion/README.md)
 
@@ -19,9 +23,7 @@
 
 - [Wraith](https://github.com/PowerofMoll/Mining-Timing---A-fancreation-to-Blood-on-the-Clocktower/blob/main/Minion/Wraith/README.md)
 
-#write table, 
-#write th, 
-#write td { border: none }
+
 
 
 | First Header  | Second Header |
