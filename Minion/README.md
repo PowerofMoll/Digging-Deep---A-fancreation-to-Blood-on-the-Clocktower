@@ -24,3 +24,5 @@
 		[[File:https://github.com/user-attachments/assets/c4f2c66b-bec8-4755-8ae5-40ac8e99ea40|250px|thumb|center|link=https://github.com/PowerofMoll/Mining-Timing---A-fancreation-to-Blood-on-the-Clocktower/blob/main/Minion/Wraith/README.md]]
 		<p style="text-align: center; font-family: Trade Gothic LT Std; font-size: 18px;">{{Good|Wraith}}</p>
 	</div>
+
+[[{{{1}}}|<span data-role="{{{1}}}" style="font-weight: bold; color:#3297F4;">{{{1}}}</span>]]
