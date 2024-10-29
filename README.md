@@ -79,7 +79,7 @@ Digging Down is a script focused around deaths and survivals during the day and 
 
 - [Vessel](https://github.com/PowerofMoll/Mining-Timing---A-fancreation-to-Blood-on-the-Clocktower/blob/main/Minion/Vessel/README.md)
 
-<img src="https://github.com/user-attachments/assets/3c74b28f-1dac-4867-b21d-2eae5466a0ad" alt="wraith_evil" width="150" height="150">
+<img src="https://github.com/user-attachments/assets/73c2a4fe-1e16-45b1-a93c-333532fec7ca" alt="wraith_evil" width="150" height="150">
 
 - [Wraith](https://github.com/PowerofMoll/Mining-Timing---A-fancreation-to-Blood-on-the-Clocktower/blob/main/Minion/Wraith/README.md)
 
@@ -100,5 +100,4 @@ Digging Down is a script focused around deaths and survivals during the day and 
 - [Forge](https://github.com/PowerofMoll/Mining-Timing---A-fancreation-to-Blood-on-the-Clocktower/blob/main/Fabled/Forge/forge.md)
 
 ## Travellers
-
 
