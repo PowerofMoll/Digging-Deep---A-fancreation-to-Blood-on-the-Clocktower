@@ -20,9 +20,7 @@
 - [Wraith](https://github.com/PowerofMoll/Mining-Timing---A-fancreation-to-Blood-on-the-Clocktower/blob/main/Minion/Wraith/README.md)
 
 
-[[{{{1}}}|<span data-role="{{{1}}}" style="font-weight: bold; color:#3297F4;">{{{1}}}</span>]]
 
-__NOTOC__
 <div class="row">
 
 	<div class="small-12 large-3 large-push-9 columns" style='margin: 0 auto; text-align: center'>
