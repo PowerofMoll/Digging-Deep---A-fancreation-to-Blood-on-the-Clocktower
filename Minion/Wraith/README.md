@@ -4,6 +4,8 @@
 
 ## Wraith
 
+https://github.com/user-attachments/assets/3c74b28f-1dac-4867-b21d-2eae5466a0ad
+
 > If no Outsiders live, tongiht, choose 2 Townsfolk: they are poisoned. [-1 to +1 Outsider]
 
 *You will not see the light of day.*
