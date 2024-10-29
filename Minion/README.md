@@ -16,7 +16,7 @@
 
 - [Vessel](https://github.com/PowerofMoll/Mining-Timing---A-fancreation-to-Blood-on-the-Clocktower/blob/main/Minion/Vessel/README.md)
 
-<img src="https://github.com/user-attachments/assets/b5ce3f36-7e82-43bd-9062-ba08bbf9362b" alt="wraith_evil" width="150" height="150">
+<img src="https://github.com/user-attachments/assets/3c74b28f-1dac-4867-b21d-2eae5466a0ad" alt="wraith_evil" width="150" height="150">
 
 - [Wraith](https://github.com/PowerofMoll/Mining-Timing---A-fancreation-to-Blood-on-the-Clocktower/blob/main/Minion/Wraith/README.md)
 
