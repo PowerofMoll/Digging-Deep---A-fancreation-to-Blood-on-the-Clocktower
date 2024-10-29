@@ -4,6 +4,8 @@
 
 ## Rakshasa
 
+<img src="https://github.com/user-attachments/assets/3bed916d-e0f0-4aed-aa57-d16629322904" alt="rakshasa_evil" width="300" height="300">
+
 > Each night*, choose a player: they die. You can't die to executions by Townsfolk, except if 3 players live. [+1 Outsider]
 
 *You don't stand a chance against me.*
