@@ -4,7 +4,7 @@
 
 ## Wraith
 
-<img src="https://github.com/user-attachments/assets/3c74b28f-1dac-4867-b21d-2eae5466a0ad" alt="wraith_evil" width="150" height="150">
+<img src="https://github.com/user-attachments/assets/3c74b28f-1dac-4867-b21d-2eae5466a0ad" alt="wraith_evil" width="300" height="300">
 
 > If no Outsiders live, tongiht, choose 2 Townsfolk: they are poisoned. [-1 to +1 Outsider]
 
