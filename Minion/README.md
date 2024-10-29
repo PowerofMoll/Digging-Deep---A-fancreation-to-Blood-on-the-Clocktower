@@ -23,9 +23,9 @@
 td, th {
    border: none;
 }
+</style>
 
 | First Header  | Second Header |
 | ------------- | :-----------: |
 | Content Cell  | <img src="https://github.com/user-attachments/assets/3993c31a-de1e-4e01-be73-63118b2b1ce9" alt="vessel_evil" width="150" height="150"> |
 | Content Cell  | [Vessel](https://github.com/PowerofMoll/Mining-Timing---A-fancreation-to-Blood-on-the-Clocktower/blob/main/Minion/Vessel/README.md) |
-</style>
