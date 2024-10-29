@@ -25,7 +25,6 @@ td, th {
 }
 </style>
 
-
 | First Header  | Second Header |
 | ------------- | :-----------: |
 | Content Cell  | <img src="https://github.com/user-attachments/assets/3993c31a-de1e-4e01-be73-63118b2b1ce9" alt="vessel_evil" width="150" height="150"> |
