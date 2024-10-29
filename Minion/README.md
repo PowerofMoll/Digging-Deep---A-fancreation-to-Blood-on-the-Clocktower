@@ -25,4 +25,4 @@
 		<p style="text-align: center; font-family: Trade Gothic LT Std; font-size: 18px;">{{Good|Wraith}}</p>
 	</div>
 
-[[{{{1}}}|<span data-role="{{{1}}}" style="font-weight: bold; color:#3297F4;">{{{1}}}</span>]]
+$Good = [[{{{1}}}|<span data-role="{{{1}}}" style="font-weight: bold; color:#3297F4;">{{{1}}}</span>]]
