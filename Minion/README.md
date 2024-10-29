@@ -20,22 +20,7 @@
 - [Wraith](https://github.com/PowerofMoll/Mining-Timing---A-fancreation-to-Blood-on-the-Clocktower/blob/main/Minion/Wraith/README.md)
 
 
-			<span style="display: block; color: black; font-size: 20px; text-align: center; margin-top: 10px;">Information</span>
-
-			<table style="width: 90%; margin: 0 auto;">
-				<tr>
-					<td>Type</td>
-					<td>[[Character Types#Townsfolk|Townsfolk]]</td>
-				</tr>
-				<tr>
-					<td>Artist</td>
-					<td>Chloe McDougall</td>			
-				</tr>
-				<tr>
-					<td>Revealed</td>
-					<td>24/05/2020</td>			
-				</tr>
-			</table>
-
-			<p class='flavour'>"Welcome, one and all, to the greatest show on earth."</p>
-
+	<div class="small-6 medium-6 large-2 columns">
+		[[File:icon_washerwoman.png|250px|thumb|center|link=Washerwoman]]
+		<p style="text-align: center; font-family: Trade Gothic LT Std; font-size: 18px;">{{Good|Washerwoman}}</p>
+	</div>
