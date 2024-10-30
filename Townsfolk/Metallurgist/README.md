@@ -4,7 +4,7 @@
 
 ## Metallurgist
 
-<img src="https://github.com/user-attachments/assets/6ff037eb-4a27-436a-a09f-098475ae6da9" alt="metallurgist_good" width="300" height="300">
+<img src="https://github.com/user-attachments/assets/33b58c76-4d9a-4338-a790-5779beb6d17e" alt="metallurgist_good" width="300" height="300">
 
 > Each night*, you learn a character which would've died but didn't since dusk or that none did.
 
