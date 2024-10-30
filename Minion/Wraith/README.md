@@ -6,12 +6,12 @@
 
 <img src="https://github.com/user-attachments/assets/73c2a4fe-1e16-45b1-a93c-333532fec7ca" alt="wraith_evil" width="300" height="300">
 
-> If no Outsiders live, tongiht, choose 2 Townsfolk: they are poisoned. [-1 to +1 Outsider]
+> If no Outsiders live, tongiht, choose 2 players: they are poisoned. [-1 to +1 Outsider]
 
 *You will not see the light of day.*
 
 ### **The Wraith hunts down those who don't belong to awaken.**
-- If the Wight chooses a player that isn't a Townsfolk, they choose again until 2 Townsfolk have been chosen.
+- When there are no Outsiders alive, the Wraith wakes and chooses 2 players to be poisoned.
 - If there are no Outsiders in play, the Wight wakes on the first night.
 - The Wight can add or remove 1 Outsider, but doesn't have to.
 
