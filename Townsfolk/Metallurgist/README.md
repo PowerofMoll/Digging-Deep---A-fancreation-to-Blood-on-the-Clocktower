@@ -4,6 +4,8 @@
 
 ## Metallurgist
 
+<img src="https://github.com/user-attachments/assets/6ff037eb-4a27-436a-a09f-098475ae6da9" alt="metallurgist_good" width="300" height="300">
+
 > Each night*, you learn a character which would've died but didn't since dusk or that none did.
 
 *Nothing passes by my watch, I know the system. It is like fibres building up my being. I am the one who can utelise it the best. Stand below my feet fellow workers.*
