@@ -33,7 +33,7 @@ Digging Down is a script focused around deaths and survivals during the day and 
 
 <img src="https://github.com/user-attachments/assets/42392d0d-2edd-49f5-bf9c-2d667b004c23" alt="storeman_good" width="150" height="150">
 
-- [Storeman](https://github.com/PowerofMoll/Mining-Timing---A-fancreation-to-Blood-on-the-Clocktower/blob/main/Townsfolk/Driller/README.md)
+- [Storeman](https://github.com/PowerofMoll/Mining-Timing---A-fancreation-to-Blood-on-the-Clocktower/blob/main/Townsfolk/Storeman/README.md)
 
 <img src="https://github.com/user-attachments/assets/4c264bea-e1f3-4273-8e87-9d62f9cf0355" alt="overman_good" width="150" height="150">
 
