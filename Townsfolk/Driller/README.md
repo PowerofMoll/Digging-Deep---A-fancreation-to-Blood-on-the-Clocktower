@@ -20,3 +20,6 @@ Each night, wake the Driller. They either shake their head no or point at any To
 
 If they pointed to an icon of a character that is in play, mark any players of that character with the **"Accident"** reminder.
 
+At any time during the day decide that the player marked **"Accident"** dies. Immediately declare that the player has died.
+
+At dusk remove any **"Accident"** reminders.
