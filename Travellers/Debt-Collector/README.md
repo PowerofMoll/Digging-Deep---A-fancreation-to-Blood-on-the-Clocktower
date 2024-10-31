@@ -9,7 +9,8 @@
 *I welcome you my friend. My friend death.*
 
 ### The Debt Collector punishes those who don't keep their promises to them.
-- Players may make a promise to the Debt Collector either publicly or privately, for them to be eligeble, the Debt Collector, storyteller and player making the promise. If the Debt Collector has found that they have broken the promise, they have to know, just suspecting isn't enough, they may state as such to the storyteller, either publicly or privately. The Storyteller may then kill the player who broke the promise. If a Demon, a Minion becomes the same Demon first.
+- Players may make a promise to the Debt Collector either publicly or privately, for them to be eligeble, the Debt Collector, storyteller and player making the promise. If the Debt Collector has found that they have broken the promise, they have to know, just suspecting isn't enough, they may state as such to the storyteller, either publicly or privately. That player dies immediately.
+The Storyteller may then kill the player who broke the promise. If a Demon, a Minion becomes the same Demon first.
 - Make sure promises aren't unclear, the game ends up being a lot less fun if you have to argue on the pedantics of a promise.
 - As a storyteller we reccomend killing at any they catch the deal.
 - If players are trying to pressure the Debt Collector to publicly declare having caught a deal, you may choose to not count it, if so, tell them this as your earliest opportunity.
