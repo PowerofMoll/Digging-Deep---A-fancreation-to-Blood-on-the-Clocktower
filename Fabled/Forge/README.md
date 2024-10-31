@@ -8,7 +8,7 @@
 
 *A fate will be smithed together, made from iron and blood.*
 
-### The Forge keeps the game going at a reasonable pace even with many deaths during the day, while providing the Demon with a boon in response.
+### The Forge keeps the game going at a reasonable pace.
 - At the start of each night, the storyteller may choose that the Demon doesn't have their ability for that night and day, instead they choose a player to be poisoned until the end of that day.
 - We recommend using the Forge sparingly, generally decide before the game how often you are intending to use it based on the bag. It is not intended to be used as a balancing tools for players actions during the game.
 - Generally don't use the Forge when the Demon does not wake. Also avoid using the ability in games that are already having few deaths as the Forge can make the game slower. Using the Forge when few players live risks players feeling like their win was stolen, so using it earlier in the game is generally recommended.
