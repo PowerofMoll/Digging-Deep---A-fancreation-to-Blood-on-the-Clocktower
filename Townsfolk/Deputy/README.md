@@ -4,8 +4,6 @@
 
 ## Deputy
 
-<img src="https://github.com/user-attachments/assets/b96a8d7b-12a6-4024-a904-9f2eec382ba0" alt="deputy_good" width="300" height="300">
-
 <img src="https://github.com/user-attachments/assets/3e1779e2-0d52-4663-b96d-4a7c00c98a54" alt="deputy1_good" width="300" height="300">
 
 > Each night, choose a player: their opposing neighbours can't die until dusk.
