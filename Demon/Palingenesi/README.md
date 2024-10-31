@@ -5,7 +5,7 @@
 ## Palingenesi
 <img src="https://github.com/user-attachments/assets/cceb3386-1e9b-4032-99d1-d8627dbf62e3" alt="palingenesi_evil" width="300" height="300">
 
-> Each night*, choose a player: they die. 1 alive player knows you are in play. If you die, they become an evil Palingenesi.
+> Each night*, choose a player: they die. 1 alive player knows you are in play. If you die, they become an evil Palingenesi. [-1 Minion]
 
 *Entry 5712: The Palingenesi in an entity found in 1662 in a cave, named after its ability to reform upon destruction. Burning, Crushing, Disolving, and Slashing are just a few methods we have tested, none have worked. We are trying all we can. It won't be contained. I will probably die before the end of the month. My death will hopefully contain it for enough time for a way to destroy it to be found. Someone had to be the sacrifice.*
 
