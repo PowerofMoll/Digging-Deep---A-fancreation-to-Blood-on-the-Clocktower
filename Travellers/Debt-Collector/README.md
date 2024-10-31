@@ -3,3 +3,6 @@
 [_Debt Collector_](https://github.com/PowerofMoll/Mining-Timing---A-fancreation-to-Blood-on-the-Clocktower/blob/main/Travellers/Debt-Collector/README.md)
 
 ## Debt Collect
+
+
+### How to run
