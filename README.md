@@ -115,4 +115,7 @@ Digging Down is a script focused around deaths and survivals during the day and 
 
 - [Adversary](https://github.com/PowerofMoll/Mining-Timing---A-fancreation-to-Blood-on-the-Clocktower/blob/main/Travellers-and-Fabled/Adversary/README.md)
 
+- [Adversary](https://github.com/PowerofMoll/Mining-Timing---A-fancreation-to-Blood-on-the-Clocktower/blob/main/Travellers/Adversary/README.md)
+
+
 
