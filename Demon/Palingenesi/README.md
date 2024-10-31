@@ -15,6 +15,8 @@
 - If the game enters a situation were the good team is unable to win, end the game there and allow the player who knows the Palingenesi to win with evil.
 
 ### How to run
+While setting up the game, before putting the character tokens in the bag, remove one Minion character token and add one Townsfolk character token. (_If there are no Outsider tokens to remove, do not add a Townsfolk token._)
+
 On the Palingenesi's first night, wake any player. Show them the Palingenesi character token. Put that player to sleep.
 
 Each night except the first, wake the Palingenesi. They point at any player. That player dies - mark them with the **Dead** reminder. Put the Palingenesi to sleep.
