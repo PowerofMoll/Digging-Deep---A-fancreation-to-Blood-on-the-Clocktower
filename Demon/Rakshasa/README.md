@@ -15,6 +15,8 @@
 - The Rakshasa adds an Outsider so the good team still has a chance to win before final day.
 
 ### How to run
+While setting up the game, before putting character tokens in the bag, add one extra Outsider character token and remove one Townsfolk character token.
+
 Each night except the first, wake the Rakshasa. They point at any player. That player dies - mark them with the **Dead** reminder. Put the Rakshasa to sleep.
 
 If a Townsfolk nominates the Rakshasa, mark the Rakshasa with **Mundane Weapons**.
