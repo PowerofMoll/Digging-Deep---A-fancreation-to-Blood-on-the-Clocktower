@@ -6,6 +6,8 @@
 
 > You and the other Adversary have the same ability. On your 1st day, you learn a part of it. If one dies, the other does too. [2 opposing Adversaries]
 
+*Is that another challenger? Finally. It's been ages since I've had a good fight.*
+
 ### The Adversary has one of their own, but they hold a key to understanding themselves.
 - The Adversaries both have the same ability, this can be any ability, one in clocktower, from a homebrew, or completely original. The Adversary knows a part of their ability, the other Adversary knows a part as well, these don't neccecarily have to be different, but you are recommended to.
 - The Adversary can only enter play as 2, if only 1 player wants to travel, they cannot travel as the Adversary.
