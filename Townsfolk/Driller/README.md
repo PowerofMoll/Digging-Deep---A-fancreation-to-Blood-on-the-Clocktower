@@ -16,10 +16,6 @@
 - The Driller can't choose evil characters.
 
 ### How to run
-Each night, wake the Driller. They either shake their head no or point at any Townsfolk icon or any Outsider icon on their character sheet. Put the Driller to sleep.
+Each night, wake the Driller. They point at any player, then point at any character icon on their character sheet. Put the Driller to sleep. If the chosen player is the chosen character icon, mark the player of that character with the **"Accident"** reminder.
 
-If they pointed to an icon of a character that is in play, mark any players of that character with the **"Accident"** reminder.
-
-At any time during the day decide that the player marked **"Accident"** dies. Immediately declare that the player has died.
-
-At dusk remove any **"Accident"** reminders.
+At any time during the day decide that the player marked **"Accident"** dies. Immediately declare that the player has died & remove the **"Accident"** reminder.
