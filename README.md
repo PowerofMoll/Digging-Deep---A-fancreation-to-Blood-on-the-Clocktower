@@ -109,13 +109,20 @@ Digging Down is a script focused around deaths and survivals during the day and 
 
 ## Fabled
 
-- [Forge](https://github.com/PowerofMoll/Mining-Timing---A-fancreation-to-Blood-on-the-Clocktower/blob/main/Travellers-and-Fabled/Forge/README.md)
+- [Forge](https://github.com/PowerofMoll/Mining-Timing---A-fancreation-to-Blood-on-the-Clocktower/blob/main/Fabled/Forge/README.md)
 
 ## Travellers
 
-- [Adversary](https://github.com/PowerofMoll/Mining-Timing---A-fancreation-to-Blood-on-the-Clocktower/blob/main/Travellers and Fabled/Adversary/README.md)
+- [Greenhorn](https://github.com/PowerofMoll/Mining-Timing---A-fancreation-to-Blood-on-the-Clocktower/blob/main/Travellers/Greenhorn/README.md)
 
 - [Adversary](https://github.com/PowerofMoll/Mining-Timing---A-fancreation-to-Blood-on-the-Clocktower/blob/main/Travellers/Adversary/README.md)
+
+- [Appraiser](https://github.com/PowerofMoll/Mining-Timing---A-fancreation-to-Blood-on-the-Clocktower/blob/main/Travellers/Appraiser/README.md)
+
+- [Debt Collector](https://github.com/PowerofMoll/Mining-Timing---A-fancreation-to-Blood-on-the-Clocktower/blob/main/Travellers/Debt-Collector/README.md)
+
+- [Brawler](https://github.com/PowerofMoll/Mining-Timing---A-fancreation-to-Blood-on-the-Clocktower/blob/main/Travellers/Brawler/README.md)
+
 
 
 
