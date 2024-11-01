@@ -8,6 +8,8 @@
 
 > Players may make promises to you. Players you catch breaking them: might die. Demons who do swap characters with a Minion first.
 
+> Players may privately make promises to you. Players you catch breaking them: die.
+
 *I welcome you my friend. My friend death.*
 
 ### The Debt Collector punishes those who don't keep their promises to them.
