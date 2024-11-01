@@ -4,6 +4,8 @@
 
 ## Forge
 
+<img src="https://github.com/user-attachments/assets/d07b4872-a738-42ea-aed3-5d5bbec1b808" alt="forge_evil" width="300" height="300">
+
 > Each night, the Demon might learn this & have the ability "Each night, choose a player: they are poisoned until dusk." instead of their own until dusk. 
 
 *A fate will be smithed together, made from iron and blood.*
