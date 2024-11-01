@@ -115,6 +115,8 @@ Digging Down is a script focused around deaths and survivals during the day and 
 
 - [Greenhorn](https://github.com/PowerofMoll/Mining-Timing---A-fancreation-to-Blood-on-the-Clocktower/blob/main/Travellers/Greenhorn/README.md)
 
+<img src="https://github.com/user-attachments/assets/58ceada5-2fcb-4468-a8df-cf2af564bff2" alt="adversary_evil" width="150" height="150">
+
 - [Adversary](https://github.com/PowerofMoll/Mining-Timing---A-fancreation-to-Blood-on-the-Clocktower/blob/main/Travellers/Adversary/README.md)
 
 - [Appraiser](https://github.com/PowerofMoll/Mining-Timing---A-fancreation-to-Blood-on-the-Clocktower/blob/main/Travellers/Appraiser/README.md)
