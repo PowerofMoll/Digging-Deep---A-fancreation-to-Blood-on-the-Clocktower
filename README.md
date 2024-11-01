@@ -5,6 +5,8 @@ Digging Down is a script focused around deaths and survivals during the day and 
 
 <img src="https://github.com/user-attachments/assets/cb90fba9-a1ed-43d7-a3f9-593c166de713" alt="technician_good" width="150" height="150">
 
+<img src="https://i.imgur.com/LTxWOcB" alt="technician_good" width="150" height="150">
+
 - [Technician](https://github.com/PowerofMoll/Mining-Timing---A-fancreation-to-Blood-on-the-Clocktower/blob/main/Townsfolk/Technician/README.md)
 
 <img src="https://github.com/user-attachments/assets/3e1779e2-0d52-4663-b96d-4a7c00c98a54" alt="deputy1_good" width="150" height="150">
