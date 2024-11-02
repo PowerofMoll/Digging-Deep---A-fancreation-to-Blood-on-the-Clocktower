@@ -4,6 +4,8 @@
 
 ## Storeman
 
+<img src="https://github.com/user-attachments/assets/42392d0d-2edd-49f5-bf9c-2d667b004c23" alt="storeman_good" width="300" height="300">
+
 > Once per game, at night, choose a player: you learn & gain their ability. If they are evil, you are poisoned.
 
 *Take a look at what we've got.*
