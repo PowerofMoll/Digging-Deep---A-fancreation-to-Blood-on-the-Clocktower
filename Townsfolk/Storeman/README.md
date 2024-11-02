@@ -4,7 +4,7 @@
 
 ## Storeman
 
-> Once per game, at night, choose a player: you learn & gain their ability. If they are evil, you are drunk.
+> Once per game, at night, choose a player: you learn & gain their ability. If they are evil, you are poisoned.
 
 *Take a look at what we've got.*
 
