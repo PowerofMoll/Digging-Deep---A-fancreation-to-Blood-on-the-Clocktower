@@ -5,7 +5,7 @@
 ## Moonshiner
 <img src="https://github.com/user-attachments/assets/772aba6f-9074-497a-b405-a367736c5181" alt="moonshiner_good" width="300" height="300">
 
-> 1 of the Demons alive good neighbours is drunk.
+> 1 of the Demon's alive good neighbours is drunk.
 
 *Come take a sip, homemade to heighten our spirits.*
 
