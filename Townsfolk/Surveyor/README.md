@@ -4,6 +4,8 @@
 
 ## Surveyor
 
+<img src="https://github.com/user-attachments/assets/ab89804d-6658-4082-a0f0-c9c6769a00ad" alt="surveyor_good" width="300" height="300">
+
 > If one of your alive neighbours would die, another player might die instead.
 
 *Welcome to the new land. This is our place to deplete. Cash is soon come!*
