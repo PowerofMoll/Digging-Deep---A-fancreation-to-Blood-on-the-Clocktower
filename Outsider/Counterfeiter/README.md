@@ -7,7 +7,7 @@
 
 > 2 players can't register as their alignment or character to Townsfolk. If you die, tonight, guess them per night: learn correct guesses.
 
-*\[insert flavour\]*
+*A part of me for a part of you. Oh, you actually agreed to that? Here have a part of me, an empty part.*
 
 ### **The Counterfeiter fakes 2 players but tries to rectify their mistakes at the last moment in their lives.**
 - The players who can't register correctly can register as any character but their own and as any alignment but their own.
