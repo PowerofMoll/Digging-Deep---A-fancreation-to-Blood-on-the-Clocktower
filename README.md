@@ -19,7 +19,7 @@ Digging Down is a script focused around deaths and survivals during the day and 
 
 - [Metallurgist](https://github.com/PowerofMoll/Mining-Timing---A-fancreation-to-Blood-on-the-Clocktower/blob/main/Townsfolk/Metallurgist/README.md)
 
-<img src="https://github.com/user-attachments/assets/be98805b-de0c-42b1-8ad8-99a031ea9485" alt="lapidary_good" width="150" height="150">
+<img src="https://github.com/user-attachments/assets/b8cc4dcb-569a-47d1-af7c-79492e5388c5" alt="lapidary_good" width="150" height="150">
 
 - [Lapidary](https://github.com/PowerofMoll/Mining-Timing---A-fancreation-to-Blood-on-the-Clocktower/blob/main/Townsfolk/Lapidary/README.md)  
 
