@@ -4,6 +4,8 @@
 
 ## Technician
 
+<img src="https://github.com/user-attachments/assets/cb90fba9-a1ed-43d7-a3f9-593c166de713" alt="technician_good" width="300" height="300">
+
 > Each night, choose 2 players: you learn the character type of 1 of them.
 
 *On the job sir!!*
