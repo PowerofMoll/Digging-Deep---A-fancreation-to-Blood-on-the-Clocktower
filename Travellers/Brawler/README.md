@@ -4,6 +4,8 @@
 
 ## Brawler
 
+<img src="https://github.com/user-attachments/assets/5533696a-5930-4c53-b616-2ea7a4f8edc6" alt="brawler_base" width="300" height="300">
+
 > You may nominate any number of times & players who have already been nominated. Players you nominate might be poisoned until dawn.
 
 *Crush your drink and grab a chair, it’s time for a bar fight!*
