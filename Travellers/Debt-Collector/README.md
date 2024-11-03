@@ -4,7 +4,7 @@
 
 ## Debt Collect
 
-<img src="https://github.com/user-attachments/assets/40e6173e-ff47-4eec-9879-7a9bc2eeb72f" alt="debt-collector_evil" width="300" height="300">
+<img src="https://github.com/user-attachments/assets/40e6173e-ff47-4eec-9879-7a9bc2eeb72f" alt="debt-collector_base" width="300" height="300">
 
 > Players may privately make promises to you. Players you catch breaking them: die.
 
