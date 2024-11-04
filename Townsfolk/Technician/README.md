@@ -25,3 +25,6 @@ The Technician chooses the Panner and the Gargoyle, they learn the Panner becaus
 The Technician chooses the Skinwalker who chose Gargoyle and good that night and the Lapidary.
 They learn the Skinwalker because they are registering as good.
 ```
+```
+The Technician chooses the Aurora and the Vessel. They learn the Aurora because both are evil.
+```
