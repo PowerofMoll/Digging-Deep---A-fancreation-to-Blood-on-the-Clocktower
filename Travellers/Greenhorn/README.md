@@ -4,6 +4,8 @@
 
 ## Greenhorn
 
+<img src="https://github.com/user-attachments/assets/ba62e46f-efbb-45ce-9eca-fddcfa2803f5" alt="greenhorn_base" width="300" height="300">
+
 ### The Greenhorn has just moved in and have just gotten a job.
 - The Greenhorn gains the ability of any Townsfolk, in-play or not.
 - The Greenhorn has acts as if they have that ability for all purposes.
