@@ -10,7 +10,7 @@
 
 *Nothing passes by my watch, I know the system. It is like fibres building up my being. I am the one who can utelise it the best. Stand below my feet fellow workers.*
 
-### The Metallurgist sees the inner working of how the system is working.
+### The Metallurgist knows those who didn't melt down.
 - The Metallurgist learns the characters of player whose death was prevented by an ability or due to being dead.
 - If no characters death was prevented, the Operator learns a no.
 
