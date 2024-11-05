@@ -8,7 +8,7 @@
 
 > Each day, you may publicly choose 2 players: today, they may only vote if both agree & can`t vote for each other.
 
-"You two look like you would pair perfectly together."
+*You two look like you would pair perfectly together.*
 
 ### The Appraiser forces two to work as one.
 - The Appraiser may choose 2 people each day, for that day, those people may not vote on eachother, nor vote if the other disagrees.
