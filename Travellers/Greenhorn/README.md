@@ -14,5 +14,5 @@
 - If the Greenhorn has an in-play ability that would wake. Wake them after the in-play Townsfolk has woken and gone to sleep.
 
 ### How to run
-During the first night after the Greenhorn enters play, wake the Greenhorn. Show them the **You Are** info token, then a Townsfolk token. In the Grimoire on the Townsfolk token (if not-in-play place the token in the grimoire), and mark them with **Job** reminder. That player remains the Apprentice but gains the ability of their character token.
+During the first night after the Greenhorn enters play, wake the Greenhorn. Show them the **You Are** info token, then a Townsfolk token. In the Grimoire on the Townsfolk token (if not-in-play place the token in the grimoire), and mark them with **Job** reminder. That player remains the Greenhorn but gains the ability of their character token.
 
