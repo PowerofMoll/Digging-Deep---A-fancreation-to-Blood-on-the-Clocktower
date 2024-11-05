@@ -6,6 +6,11 @@ Digging Deep is a fan creation for blood on the clocktower with unique character
 This script was developed during a community created event called Clocktober were a character was made each day for a month. All abilities here are made by by Moll (@mollofpower) and Indigo (@indigocha0s).
 
 
+
+Blood on the Clocktower is an original game designed by Steven Medway and published by The Pandemonium Institute.
+
+Neither me (Moll) nor Indigo are affiliated with The Pandemonium Institute in any official way.
+
 ### [Changelog](https://github.com/PowerofMoll/Mining-Timing---A-fancreation-to-Blood-on-the-Clocktower/blob/main/Changelog/README.md)
 
 ## [Townsfolk](https://github.com/PowerofMoll/Mining-Timing---A-fancreation-to-Blood-on-the-Clocktower/blob/main/Townsfolk/README.md)
