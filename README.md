@@ -1,4 +1,9 @@
-Digging Down is a script focused around deaths and survivals during the day and an important contemplation of wether you want to die or not. It was created during Clocktober of 2024 by Moll (@mollofpower) and Indigo (@indigocha0s).
+
+Digging Deep is a fan creation for blood on the clocktower with unique characters and art. It offers a wide variety of mechanics to interact with, death survival and surviving the day standing on the forefront. Take care in the important decition of whether you want to die or not, it might let you reap great rewards. 
+
+
+
+This script was developed during a community created event called Clocktober were a character was made each day for a month. All abilities here are made by by Moll (@mollofpower) and Indigo (@indigocha0s).
 
 
 ## [Townsfolk](https://github.com/PowerofMoll/Mining-Timing---A-fancreation-to-Blood-on-the-Clocktower/blob/main/Townsfolk/README.md)
