@@ -4,6 +4,8 @@
 
 ## Appraiser
 
+<img src="https://github.com/user-attachments/assets/c00023da-c495-47eb-a3a2-129e175c658f" alt="adversary_base" width="300" height="300">
+
 > Each day, you may publicly choose 2 players: today, they may only vote if both agree & can`t vote for each other.
 
 ### The Appraiser forces two to work as one.
