@@ -18,3 +18,13 @@
 ### How to run
 Each night, wake the Geologist. They point at 2 players. Point at 1 of them that is good, or either is both are evil. Put the Geologist to sleep.
 
+```
+The Geologist chooses the Panner and the Gargoyle, they learn the Panner because it is good.
+```
+```
+The Geologist chooses the Skinwalker who chose Gargoyle and good that night and the Lapidary.
+The Geologist learns the Skinwalker because they are registering as good.
+```
+```
+The Geologist chooses the Aurora and the Vessel. They learn the Aurora because both are evil.
+```
