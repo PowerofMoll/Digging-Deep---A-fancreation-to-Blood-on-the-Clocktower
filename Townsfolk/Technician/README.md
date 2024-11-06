@@ -18,17 +18,9 @@
 Each night, wake the Technician. They point at 2 players. Give a finger signal 1, 2, 3 or 4 for 1 of their character types. 1 = Townsfolk, 2 = Outsider, 3 = Minion and 4 = Demon. Put the Technician to sleep.
 
 ### Examples
-| The Technician chooses the Moonshiner and the Vessel and learns a 3, because one of them is a Minion. |
 
-```
-The Technician chooses the Moonshiner and the Vessel and learns a 3, because one of them
-is a Minion.
-```
-```
-The Technician chooses the Prospector and the Adversary and learns a 5 because one of them
-is a Traveller and it would be unfair to confirm the other player as Townsfolk.
-```
-```
-The Technician chooses the Aurora and the Skinwalker who chose Metallurgist and good, they
-learn 1 because the Skinwalker registers as a Townsfolk.
-```
+> The Technician chooses the Moonshiner and the Vessel and learns a 3, because one of them is a Minion.
+
+> The Technician chooses the Prospector and the Adversary and learns a 5 because one of them is a Traveller and it would be unfair to confirm the other player as Townsfolk.
+
+> The Technician chooses the Aurora and the Skinwalker who chose Metallurgist and good, they learn 1 because the Skinwalker registers as a Townsfolk.
