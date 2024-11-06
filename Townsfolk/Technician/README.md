@@ -18,3 +18,4 @@
 Each night, wake the Technician. They point at 2 players. Give a finger signal 1, 2, 3 or 4 for 1 of their character types. 1 = Townsfolk, 2 = Outsider, 3 = Minion and 4 = Demon. Put the Technician to sleep.
 
 ### Examples
+```
