@@ -18,3 +18,8 @@
 When the Panner player is declared dead, they must declare that they are the Panner and then point at two players. (Give them time.) If both are good mark them **Extra Life**.
 
 If a player marked **Extra Life** would die, they remain alive and you remove the **Extra Life** reminder. If a player marked **Extra Life** is executed, declare that the marked player is executed but remains alive. (Do not say why.) Remove the **Extra Life** reminder.
+
+### Examples
+> The Panner is executed and die, they choose the Deputy and the Wraith. The next day the Deputy is executed and die as the Panner didn’t choose 2 good players.
+
+> The Panner dies at night, at dawn, when everyone learns who died, they choose the Counterfeiter and the Conservationist. The Conservationist is executed that day but does not die due to the Panner having chosen them and another good player.
