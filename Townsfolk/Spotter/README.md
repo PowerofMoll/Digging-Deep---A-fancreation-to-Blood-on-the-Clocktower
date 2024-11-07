@@ -18,3 +18,8 @@
 While preparing the first night, put the **Can't die** reminder by any good character token.
 
 If the player marked **Can't Die** would die, they remain alive and remove the **Can't Die** reminder, place it next to the good character token of the alive player 1 step clockwise from the previous. If a player marked **Can't Die** is executed, declare that the marked player is executed but remains alive. (Do not say why.) Remove the **Can't Die** reminder, place it next to the good character token of the alive player 1 step clockwise from the previous.
+
+### Examples
+> The Spotter neighbours the Driller clockwise. The Driller is executed but does not die due to being protected from the Spotter. That night the Spotter is chosen by the Demon and does not die due to being protected from the Spotter..
+
+> The Gargoyle neighbours the Geologist clockwise. The Panner neighbours the Gargoyle clockwise. The Geologist is executed but does not die due to the Spotters ability. The next day the Panner is executed but does not die due to the Gargoyles ability.
