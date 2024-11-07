@@ -18,3 +18,8 @@
 During the day, the Demolitionist can declare that they wish to use their ability. If so, the Demolitionist points at any 2 players. They are marked with the Demolitionists **Charge** reminder. The Demolitionist loses their ability — put the Demolitionist's **No Ability** reminder token by the Demolitionist token.
 
 If a player marked **Charge** dies, the other does so too. If this is during the day. Immediately decare that the player has died. If this is during the night, mark them with the **Dead** reminder and wait until dawn to declare which players died during the night. (Do not say how.)
+
+### Examples
+> The Demolitionist publicly chooses themselves and the Gargoyle. That day the Demolitionist is executed, both the Demolitionist and the Gargoyle dies.
+
+> The Demolitionist publicly chooses the Overman and the Vessel. That day the Vessel is executed and no one dies, as the Vessel can’t die and since they don’t the Overman doesn’t die either.
