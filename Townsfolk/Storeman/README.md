@@ -21,3 +21,10 @@ Each night, wake the Storeman. They either shake their head no or point at any p
 If they shake their head no, nothing happens. Put the Storeman to sleep.
 
 If they point at a player, if that player is evil mark the Storeman as **Poisoned**. Show the chosen players character token (any if the Storeman is poisoned). Put the Storeman to sleep. Mark the learned character token with **Gained Ability**. Mark the Storeman with the **No Ability** reminder and remove their night token from the night sheet.
+
+### Examples
+> The Storeman chooses the Technician, they wake later that night to choose 2 players for the Technician ability.
+
+> The Storeman chooses the Vessel, they learn Roamer. As they become poisoned as soon as they choose an evil player.
+
+> The Storeman chooses the Counterfeiter registering falsely due to their own ability, the Storeman learns Geologist. The Storeman is poisoned as the Counterfeiter registers falsely. The Storeman wakes later that night to choose 2 players for the Geologist ability.
