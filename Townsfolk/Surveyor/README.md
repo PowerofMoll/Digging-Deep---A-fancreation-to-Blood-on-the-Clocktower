@@ -17,3 +17,8 @@
 
 ### How to run
 If one of the Surveyors alive neighbours would die, you may choose that another player dies instead. If this is during the day announce that the player that didn't die, didn't. (do not say why) If this is during the night, move the **Dead** reminder placed on the neighbour onto another player, that player dies. (Do not say why they die or that this happened.)
+
+### Examples
+> The Surveyor neighbours the Spotter. The Wurm chooses the Spotter, the Demolitionist dies instead of the Spotter as the Spotter is trusted and their ability is protecting the Surveyor which is helpful to the good team.
+
+> The Surveyor neighbours the Conservationist. The Moonshiner  is executed and dies, because there isn’t a Wraith and their death would make a player no longer drunk.
