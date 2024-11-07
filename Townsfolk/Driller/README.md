@@ -19,3 +19,10 @@
 Each night, wake the Driller. They point at any player, then point at any character icon on their character sheet. Put the Driller to sleep. If the chosen player is the chosen character icon, mark the player of that character with the **"Accident"** reminder.
 
 At any time during the day decide that the player marked **"Accident"** dies. Immediately declare that the player has died & remove the **"Accident"** reminder.
+
+### Examples
+> The Driller chooses the Prospector and the Prospector character. At dusk that day the Deputy is executed and dies as well as the Prospector.
+
+> The Driller chooses the Gargoyle and the Moonshiner character. That day only the player that is executed dies. Because the Gargoyle isn’t the Moonshiner.
+
+> The Driller chooses the Spotter who is protecting themselves and the Spotter character. That day the Spotter would die, but doesn’t due to their ability and the protection moves.
