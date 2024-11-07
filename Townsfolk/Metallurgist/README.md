@@ -21,3 +21,9 @@ If a player would be marked dead, but wasn't (due to an ability or due to being 
 
 At dawn remove any **Prevented** reminders.
 
+### Examples
+> The Vessel is executed, but does not die. The Metallurgist learns Vessel that night.
+
+> No one is executed, that night the Demon chooses the dead Surveyor. The Metallurgist learns Surveyor that night.
+
+> The Palingenesi is executed and dies. That night the new Palingenesi chooses the Roamer. The Metallurgist learns a 0.
