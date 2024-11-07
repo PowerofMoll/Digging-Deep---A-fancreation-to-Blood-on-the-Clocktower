@@ -5,6 +5,8 @@
 
 ## Panner
 
+<img src="https://github.com/user-attachments/assets/cd79b14b-58d6-4f98-99e6-e108466cc66f" alt="panner_good" width="300" height="300">
+
 > When you learn that you died, publicly choose 2 players: if both are good, the 1st time each dies, they don't.
 
 *I got rid of the glittering boulder for this? It's so... so useless without a lucky lunch.* 
