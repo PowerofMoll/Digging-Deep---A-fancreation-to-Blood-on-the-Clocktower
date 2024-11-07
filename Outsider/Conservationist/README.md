@@ -18,3 +18,4 @@
 
 At any time a player dies, you may decide that they don't. Do not declare that this happened. If you do, mark the Conservationist with the **No Ability** reminder. You may also decide that another player dies instead. If this is during the day, immediately declare that the other player has died. If this is during the night, remove the **Dead** reminder that was placed on the protected player and if you chose that another dies, mark them with that **Dead** reminder. Wait until dawn to declare which players died during the night. (Do not say how.)
 
+### Examples
