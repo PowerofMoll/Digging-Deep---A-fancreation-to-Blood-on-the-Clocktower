@@ -17,3 +17,8 @@
 If the Overman dies, mark them **Crumbling**.
 
 During that night, wake the Overman, point at a good player per night. Put the Overman to sleep. 
+
+### Examples
+> The Overman dies on day 1. That night they learn the Storeman,
+
+> On the 3rd day the Skinwalker chooses Aurora and good and the Overman dies, The Overman learns the Skinwalker, the Spotter and Moonshiner.
