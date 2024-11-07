@@ -24,3 +24,11 @@ At dawn remove the **Gold** reminder.
 
 At dawn remove the **Fools Gold** reminder.
 
+### Examples
+> The Prospector nominates the Technician. That night they learn Technician.
+
+> The Prospector nominates the Rakshasa. That day the Wraith is executed and dies. That ngith the Prospector learns Storeman, as that is what the Rakshasa is bluffing.
+
+> The Prospector doesn’t nominate. That night they don’t wake.
+
+> The Prospector nominates the Skinwalker. The Skinwalker chooses Overman and good. That night the Prospector learns Overman because the Skinwalker is registering as such.
