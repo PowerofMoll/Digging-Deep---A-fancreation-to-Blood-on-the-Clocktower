@@ -16,3 +16,10 @@
 
 ### How to run
 During the first day, if the Lapidary requests a private chat with you, take them away from the circle so you cannot be overheard. Whisper some character types one at a time that neighbour eachother. (If you cannot haven't decided on some right away, either take your time or ask them to come back in a few minutes.)
+
+### Examples
+> The Wurm sits next to the Driller and the Demolitionist. On the first day the Lapidary learns Townsfolk, Demon and Townsfolk.
+
+> The Skinwalker neighbours the Roamer and the Technician. The Skinwalker knows the Roamer and chooses the Gargoyle and good. On the 1st day the Lapidary learns Townsfolk, Minion and Minion.
+
+> The Metallurgist neighbours the Spotter and the Panner, the Panner neighbours the Storeman, the Storeman neighbours the Deputy. On the 1st day the Lapidary learns Townsfolk, Townsfolk, Townsfolk, Townsfolk and Townsfolk.
