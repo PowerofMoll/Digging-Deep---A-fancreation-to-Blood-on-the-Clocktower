@@ -6,7 +6,7 @@
 
 <img src="https://github.com/user-attachments/assets/33b58c76-4d9a-4338-a790-5779beb6d17e" alt="metallurgist_good" width="300" height="300">
 
-> Each night*, you learn a character which would've died but didn't since dusk or that none did.
+> Each night*, you learn a character that would’ve died since dawn but didn’t. (or that 0 did.)
 
 *Nothing passes by my watch, I know the system. It is like fibres building up my being. I am the one who can utelise it the best. Stand below my feet fellow workers.*
 
