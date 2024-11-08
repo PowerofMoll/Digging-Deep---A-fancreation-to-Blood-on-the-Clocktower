@@ -10,7 +10,7 @@
 
 *On the job sir!!*
 
-### The Technician can see how players interact with the system.
+#### The Technician can see how players interact with the system.
 - The Technician chooses 2 players each night and learns 1, 2, 3 or 4.
 - The number has to be of one of the players chosens character type. 1 = Townsfolk, 2 = Outsider, 3 = Minion and 4 = Demon. 
 
