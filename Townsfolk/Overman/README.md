@@ -21,4 +21,5 @@ During that night, wake the Overman, point at a good player per night. Put the O
 ### Examples
 > The Overman dies on day 1. That night they learn the Storeman,
 
-> On the 3rd day the Skinwalker chooses Aurora and good and the Overman dies, The Overman learns the Skinwalker, the Spotter and Moonshiner.
+> On the 3rd day the Skinwalker chooses Chorus and good and the Overman dies, The Overman learns the Skinwalker, the Spotter and Moonshiner.
+
