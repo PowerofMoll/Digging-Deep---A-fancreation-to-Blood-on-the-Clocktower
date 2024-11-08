@@ -24,3 +24,8 @@ During that night, wake the player marked **Hunting Tonight**, they point at a p
 If the Roamer is marked **Monsters Roused**, at any point during the day choose a player to die. Immediately declare that the player has died. Remove the **Monsters Roused** reminder. 
 
 At dawn remove the **Hunting Tonight** reminder.
+
+### Examples
+> The Vessel is executed and doesn’t die, that night they guess that the Roamer is the Roamer. After 3 nominations the next day, the Surveyor dies.
+
+> The Wraith is executed and dies, that night they guess that the Prospector is the Roamer. Tomorrow nothing special happens.
