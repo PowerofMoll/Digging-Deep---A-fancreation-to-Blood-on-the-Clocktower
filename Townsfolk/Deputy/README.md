@@ -22,6 +22,6 @@ If a player marked **Protected** would die, they remain alive. If a player marke
 At dusk remove any **Protected** reminders.
 
 ### Examples
-> The Deputy chooses the Aurora, that day the Roamer who neighbours the Aurora is executed but does not die.
+> The Deputy chooses the Chorus, that day the Roamer who neighbours the Chorus is executed but does not die.
 
 > The Deputy chooses the Panner and the Rakshasa chooses the Counterfeiter who neighbours the Panner, the Counterfeiter dies because it shares the same alignment with the Panner.
