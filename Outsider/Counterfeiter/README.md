@@ -22,3 +22,8 @@ Each time a player marked with the Counterfeiter's **Fake** reminder is targeted
 If the Counterfeiter dies, mark them **Regretting**.
 
 During that night, wake the Counterfeiter, they point at 2 players per night (one at a time). For each that is marked **Fake** give a 'yes' hand signal and point to them. Put the Counterfeiter to sleep. 
+
+### Example
+> The Metallurgist and the Vessel are marked fake from the Counterfeiters ability. The Vessel is executed and does not die. That night the Metallurgist learns Spotter, as the Vessel is registering falsely.
+
+> The Moonshiner neighbours the Technician and the Counterfeiter. The Moonshiner and the Counterfeiter are marked fake from the Counterfeiters ability. The Technician is not drunk as the Counterfeiter cannot make a player register falsely to the Moonshiners ability.
