@@ -25,3 +25,9 @@ At dusk, remove the **Watched** reminder.
 
 At dusk, remove the **Dying** reminder.
 
+### Examples
+> The Gargoyle chooses the Gargoyle. That day the Gargoyle nominates the Counterfeiter, that dusk the Counterfeiter dies.
+
+> The Gargoyle chooses the Lapidary. That day the Lapidary does not nominate. The next day the Lapidary nominates the Moonshiner, who doesn’t die.
+
+> The Surveyor neighbours the Metallurgist. The Gargoyle chooses the Surveyor. That day the Surveyor nominates the Metallurgist, The Overman dies immediately as the Surveyor is making another player than their neighbour die.
