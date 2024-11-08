@@ -21,7 +21,7 @@ While preparing the first night, mark one of the Demons good neighbours with the
 If the player marked with the Moonshiners **Drunk** reminder dies, turns evil or stops neighbouring the Demon, remove the Moonshiner's **Drunk** reminder. Mark one of the Demons good neighbours with the Moonshiner’s **Drunk** reminder.
 
 ### Examples
-> The Technician neighbours the Aurora & is drunk due to the Moonshiner. They choose the Panner and the Gargoyle and learn a 4 since they are drunk.
+> The Technician neighbours the Chorus & is drunk due to the Moonshiner. They choose the Panner and the Gargoyle and learn a 4 since they are drunk.
 
 > The Gargoyle neighbours the Geologist and the Wurm, the Geologist is drunk due to the moonshiner. They choose the Moonshiner and the Wurm and learn the Wurm since they are drunk.
 
