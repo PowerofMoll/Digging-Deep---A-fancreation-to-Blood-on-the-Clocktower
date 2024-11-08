@@ -14,11 +14,12 @@
 - The Technician chooses 2 players each night and learns 1, 2, 3 or 4.
 - The number has to be of one of the players chosens character type. 1 = Townsfolk, 2 = Outsider, 3 = Minion and 4 = Demon. 
 
-## How to run
+### How to run
+-----
 Each night, wake the Technician. They point at 2 players. Give a finger signal 1, 2, 3 or 4 for 1 of their character types. 1 = Townsfolk, 2 = Outsider, 3 = Minion and 4 = Demon. Put the Technician to sleep.
 
-## Examples
-
+### Examples
+-----
 > The Technician chooses the Moonshiner and the Vessel and learns a 3, because one of them is a Minion.
 
 > The Technician chooses the Prospector and the Adversary and learns a 5 because one of them is a Traveller and it would be unfair to confirm the other player as Townsfolk.
