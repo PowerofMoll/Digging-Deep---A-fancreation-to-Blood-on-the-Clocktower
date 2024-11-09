@@ -6,7 +6,7 @@
 
 <img src="https://github.com/user-attachments/assets/c89355a6-742d-4992-b3e3-97d1d6be30a1" alt="spotter_good" width="300" height="300">
 
-> A good player can't die, if they would: their clockwise alive good neighbour can't die instead.
+> An alive good player can't die. After they would have died, their clockwise alive good neighbour can't die instead.
 
 *You are not allowed to die under my watch!*
 
