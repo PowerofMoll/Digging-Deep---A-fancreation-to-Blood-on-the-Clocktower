@@ -5,7 +5,7 @@
 ## Vessel
 <img src="https://github.com/user-attachments/assets/5f8ee180-878b-47e3-b7b9-885d36a27093" alt="vessel_evil" width="300" height="300">
 
-> Evil players who nominate you swap characters with you. You can't die.
+> Evil players (not Travellers) who nominate you swap characters with you, unless 3 players live. You can't die.
 
 *You are now stuck with me. Keep me company. This is going to be so fun.*
 
