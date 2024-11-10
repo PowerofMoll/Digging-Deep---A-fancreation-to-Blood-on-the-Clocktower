@@ -22,4 +22,4 @@ While setting up the game, before putting character tokens in the bag, you may a
 
 If the last alive Outsider dies, mark the Wraith with their **Awoken** reminder. 
 
-During that night, wake the Wraith. They point at 2 Townsfolk players, (if they choose any players that are not Townsfolk, ask them to choose again.) Mark those 2 players poisoned with the Wraith **Poisoned** reminders.
+During that night, wake the Wraith. They point at 2 Townsfolk players, (if they choose any players that are not Townsfolk, ask them to choose again.) Mark those 2 players poisoned with the Wraith **Poisoned** reminders. Remove the **Awoken** reminder.
