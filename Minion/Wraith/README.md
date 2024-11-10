@@ -6,7 +6,7 @@
 
 <img src="https://github.com/user-attachments/assets/73c2a4fe-1e16-45b1-a93c-333532fec7ca" alt="wraith_evil" width="300" height="300">
 
-> If no Outsiders live, tonight, choose 2 players: they are poisoned. [-1 to +1 Outsider]
+> The 1st night no Outsiders live, choose 2 player: they are poisoned. [-1 or +1 Outsider]
 
 *You will not see the light of day.*
 
