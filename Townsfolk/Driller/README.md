@@ -6,7 +6,7 @@
 
 <img src="https://github.com/user-attachments/assets/ee7b31d1-07f9-466a-8771-baa5699852be" alt="driller_good" width="300" height="300">
 
-> Each night, choose a player & guess their good character: if correct, they die tomorrow.
+> Each night, choose a player & guess their good character: if correct, they die before dusk.
 
 *We are almost though, just a little bit more.*
 
