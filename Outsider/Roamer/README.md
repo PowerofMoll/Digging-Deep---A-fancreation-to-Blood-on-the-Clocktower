@@ -5,7 +5,7 @@
 ## Roamer
 <img src="https://github.com/user-attachments/assets/e11f14d1-42e2-4d4f-be42-6449bf5337a5" alt="moonshiner_good" width="300" height="300">
 
-> If an evil player is executed, tonight, they may guess you: if correct, a player dies tomorrow.
+> If an evil player is executed, tonight, they may guess you: if correct, a player dies before dusk.
 
 *Round and round the place we go. Finding friend and many foe.*
 
