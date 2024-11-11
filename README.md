@@ -1,14 +1,10 @@
-Digging Deep offers a wide variety of mechanics to interact with, death survival and surviving the day standing on the forefront. Take care in the important decition of whether you want to die or not and when. 
+_Welcome! That was what the sign said, I came looking for work, I came to live a good life. The mine was reaping good hauls, a massive gold mine below, sometimes there was fools gold, but even that could be sold off to someone who didn't know the difference. We dug to deep. We have uncovered horrible things that should never see the light of day. An unkillable creature, if it can even be called that, maybe more a virus or a liquid drug. It is hard to say really. Something slithering in the belows with a mighty tail swinging around. Just this week we have lost 4 workers when it interupted the explosive charge. We have been able to keep the happenings under wraps, but people are getting suspicious. A mystical song has been playing. it is impossible to hide or hide from. The foxfolk, someone roaming around the town and cave, few who have met them have survived, we only have small records from some, we sent out a troupe with muskets and grenades, to get rid of it once and for all. When we found the wounded soldiers they told recollections of how it hadn't even made a scratch. We are in far deeper than we might be able to make it out from. But we will not stop, we don't have much time, but with the time we have. We have to stop them. We need to bring peace to this town, or else what will befall whats outside of here... All of this because we were Digging Deep, too Deep._
+
+Digging Deep offers a wide variety of mechanics to interact with, death survival and surviving the day standing on the forefront. Take care in the important decition of whether you want to die or not and when. Outsiders have big roles to play for winning the game, wanting to both lead the town and stay quiet to avoid the Wraith rising. Beware of the Minions and Demons, even your best friend can turn against you at any moment.
 
 Digging Deep is a fan creation for blood on the clocktower with unique characters and art. It was developed during a community created event called Clocktober were a character was made each day for a month. All abilities here are made by by Moll (@mollofpower) and Indigo (@indigocha0s) and all art has been made by Moll (@mollofpower)
 
 Digging Deep offers new mechanics to interact with, swapping characters, deaths during the day, execution survival and misregistration filling a major part of the void of information build the base for your experience. Make sure to look out for the Vessel, Demolitionist, Rakshasa and Counterfeiter.
-
-*Blood on the Clocktower is an original game designed by Steven Medway and published by The Pandemonium Institute.*
-
-*Neither me (Moll) nor Indigo are affiliated with The Pandemonium Institute in any official way.*
-
-*We, the creators of this homebrew (Moll and Indigo) agree to the terms outlined in the Creativity, Copyright, & Design Terms V1.1 by The Pandemonium Institute.*
 
 ## [Extras](https://github.com/PowerofMoll/Mining-Timing---A-fancreation-to-Blood-on-the-Clocktower/blob/main/Extras/README.md)
 - [Changelog](https://github.com/PowerofMoll/Mining-Timing---A-fancreation-to-Blood-on-the-Clocktower/blob/main/Extras/Changelog/README.md)
@@ -150,7 +146,5 @@ Digging Deep offers new mechanics to interact with, swapping characters, deaths 
 <img src="https://github.com/user-attachments/assets/5533696a-5930-4c53-b616-2ea7a4f8edc6" alt="brawler_base" width="150" height="150">
 
 - [Brawler](https://github.com/PowerofMoll/Mining-Timing---A-fancreation-to-Blood-on-the-Clocktower/blob/main/Travellers/Brawler/README.md)
-
-
 
 
