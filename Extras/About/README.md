@@ -1,4 +1,6 @@
-
+[*Main >*](https://github.com/PowerofMoll/Mining-Timing---A-fancreation-to-Blood-on-the-Clocktower/blob/main/README.md)
+[*Extras >*](https://github.com/PowerofMoll/Mining-Timing---A-fancreation-to-Blood-on-the-Clocktower/blob/main/Extras/README.md)
+[*About*](https://github.com/PowerofMoll/Mining-Timing---A-fancreation-to-Blood-on-the-Clocktower/blob/main/Extras/About/README.md)
 
 ### Blood on the Clocktower
 *Blood on the Clocktower is an original game designed by Steven Medway and published by The Pandemonium Institute.*
