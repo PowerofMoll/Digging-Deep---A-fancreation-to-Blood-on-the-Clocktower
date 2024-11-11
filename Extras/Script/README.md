@@ -4,7 +4,9 @@
 
 
 ### Script Images:
-![1](https://github.com/user-attachments/assets/7e88e737-db47-4ed5-ba17-d7079eca7f94)
-![2](https://github.com/user-attachments/assets/4ddcbedc-d883-4ec7-9555-15befa7ef270)
-![3](https://github.com/user-attachments/assets/096aa907-b562-44d7-8805-2013c9e035c6)
 
+![1](https://github.com/user-attachments/assets/aecbb1b1-05dd-4dbf-a0a9-328a00d5705e)
+
+![2](https://github.com/user-attachments/assets/b1dc026b-e7fc-405d-961b-950c9a005fc4)
+
+![3](https://github.com/user-attachments/assets/d4aea35a-7fcd-403d-bc28-272b05a783e9)
