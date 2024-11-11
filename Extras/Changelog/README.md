@@ -1,5 +1,5 @@
 [*Main >*](https://github.com/PowerofMoll/Mining-Timing---A-fancreation-to-Blood-on-the-Clocktower/blob/main/README.md)
-[_Extras_](https://github.com/PowerofMoll/Mining-Timing---A-fancreation-to-Blood-on-the-Clocktower/blob/main/Extras/README.md)
+[_Extras >_](https://github.com/PowerofMoll/Mining-Timing---A-fancreation-to-Blood-on-the-Clocktower/blob/main/Extras/README.md)
 [_Changelog_](https://github.com/PowerofMoll/Mining-Timing---A-fancreation-to-Blood-on-the-Clocktower/blob/main/Extras/Changelog/README.md)
 
 This is a collection of the changes to this script since its original release.
