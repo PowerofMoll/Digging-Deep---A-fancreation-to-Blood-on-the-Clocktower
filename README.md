@@ -15,7 +15,7 @@ This script was developed during a community created event called Clocktober wer
 
 ### [Changelog](https://github.com/PowerofMoll/Mining-Timing---A-fancreation-to-Blood-on-the-Clocktower/blob/main/Changelog/README.md)
 
-### [Script Images]((https://github.com/PowerofMoll/Mining-Timing---A-fancreation-to-Blood-on-the-Clocktower/blob/main/Script/README.md))
+### [Script Images]((https://github.com/PowerofMoll/Mining-Timing---A-fancreation-to-Blood-on-the-Clocktower/blob/main/Script/README.md)
 
 ## [Townsfolk](https://github.com/PowerofMoll/Mining-Timing---A-fancreation-to-Blood-on-the-Clocktower/blob/main/Townsfolk/README.md)
 
