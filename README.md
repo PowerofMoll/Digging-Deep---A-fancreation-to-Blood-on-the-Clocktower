@@ -13,9 +13,9 @@ This script was developed during a community created event called Clocktober wer
 *We, the creators of this homebrew (Moll and Indigo) agree to the terms outlined in the Creativity, Copyright, & Design Terms V1.1 by The Pandemonium Institute.*
 
 ## [Extras](https://github.com/PowerofMoll/Mining-Timing---A-fancreation-to-Blood-on-the-Clocktower/blob/main/Extras/README.md)
-- [Changelog](https://github.com/PowerofMoll/Mining-Timing---A-fancreation-to-Blood-on-the-Clocktower/blob/main/Changelog/README.md)
+- [Changelog](https://github.com/PowerofMoll/Mining-Timing---A-fancreation-to-Blood-on-the-Clocktower/blob/main/Extras/Changelog/README.md)
 
-- [Script Images](https://github.com/PowerofMoll/Mining-Timing---A-fancreation-to-Blood-on-the-Clocktower/blob/main/Script/README.md)
+- [Script Images](https://github.com/PowerofMoll/Mining-Timing---A-fancreation-to-Blood-on-the-Clocktower/blob/main/Extras/Script/README.md)
 
 ## [Townsfolk](https://github.com/PowerofMoll/Mining-Timing---A-fancreation-to-Blood-on-the-Clocktower/blob/main/Townsfolk/README.md)
 
