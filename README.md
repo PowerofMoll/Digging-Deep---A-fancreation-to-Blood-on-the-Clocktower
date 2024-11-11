@@ -6,7 +6,7 @@ Digging Deep is a fan creation for blood on the clocktower with unique character
 
 Digging Deep offers new mechanics to interact with, swapping characters, deaths during the day, execution survival and misregistration filling a major part of the void of information build the base for your experience. Make sure to look out for the Vessel, Demolitionist, Rakshasa and Counterfeiter.
 
-<img src="https://github.com/user-attachments/assets/0831b218-145b-49fb-bbe0-3ffa9cc24f8b" alt="Script Logo" width="500" height="500" align="center">
+<img src="https://github.com/user-attachments/assets/0831b218-145b-49fb-bbe0-3ffa9cc24f8b" alt="Script Logo" width="591" height="591" align="center">
 
 ## [Extras](https://github.com/PowerofMoll/Mining-Timing---A-fancreation-to-Blood-on-the-Clocktower/blob/main/Extras/README.md)
 - [About](https://github.com/PowerofMoll/Mining-Timing---A-fancreation-to-Blood-on-the-Clocktower/blob/main/Extras/About/README.md)
