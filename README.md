@@ -1,10 +1,8 @@
+Digging Deep offers a wide variety of mechanics to interact with, death survival and surviving the day standing on the forefront. Take care in the important decition of whether you want to die or not and when. 
 
-Digging Deep is a fan creation for blood on the clocktower with unique characters and art. It offers a wide variety of mechanics to interact with, death survival and surviving the day standing on the forefront. Take care in the important decition of whether you want to die or not, it might let you reap great rewards. 
+Digging Deep is a fan creation for blood on the clocktower with unique characters and art. It was developed during a community created event called Clocktober were a character was made each day for a month. All abilities here are made by by Moll (@mollofpower) and Indigo (@indigocha0s) and all art has been made by Moll (@mollofpower)
 
-
-
-This script was developed during a community created event called Clocktober were a character was made each day for a month. All abilities here are made by by Moll (@mollofpower) and Indigo (@indigocha0s).
-
+Digging Deep offers new mechanics to interact with, swapping characters, deaths during the day, execution survival and misregistration filling a major part of the void of information build the base for your experience. Make sure to look out for the Vessel, Demolitionist, Rakshasa and Counterfeiter.
 
 *Blood on the Clocktower is an original game designed by Steven Medway and published by The Pandemonium Institute.*
 
