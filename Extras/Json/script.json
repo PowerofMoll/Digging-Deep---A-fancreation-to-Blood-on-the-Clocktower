@@ -1,0 +1,434 @@
+[ {
+"id":
+"_meta", "author":
+"", "name":
+  "", "logo":
+  "https://i.ibb.co/h2ZM2KG/script-image-2-crop-drop-2.png",
+  "firstNight":
+  [
+    "adversary_digging-deep",
+    "greenhorn_digging-deep",
+    "minioninfo",
+    "demoninfo",
+    "forge_digging-deep",
+    "wraith_digging-deep",
+    "skinwalker_digging-deep",
+    "gargoyle_digging-deep",
+    "palingenesi_digging-deep",
+    "chorus_digging-deep",
+    "storeman_digging-deep",
+    "deputy_digging-deep",
+    "technician_digging-deep",
+    "driller_digging-deep",
+    "geologist_digging-deep",
+    "dawn"
+    ],
+  "otherNight":
+  [
+    "dusk",
+    "adversary_digging-deep",
+    "greenhorn_digging-deep",
+    "forge_digging-deep",
+    "wraith_digging-deep",
+    "skinwalker_digging-deep",
+    "gargoyle_digging-deep",
+    "storeman_digging-deep",
+    "deputy_digging-deep",
+    "chorus_digging-deep",
+    "wurm_digging-deep",
+    "rakshasa_digging-deep",
+    "palingenesi_digging-deep",
+    "roamer_digging-deep",
+    "demolitionist_digging-deep",
+    "overman_digging-deep",
+    "counterfeiter_digging-deep",
+    "technician_digging-deep",
+    "driller_digging-deep",
+    "geologist_digging-deep",
+    "metallurgist_digging-deep",
+    "prospector_digging-deep",
+    "dawn"
+    ]
+}
+, {
+"id":
+"technician_digging-deep", "image":
+["https://i.ibb.co/F5bjqxt/technician-good-crop-drop.png", "https://i.ibb.co/RHg6zDD/technician-evil-crop-drop.png"], "firstNightReminder":
+"The Technician points at 2 players. Give a finger signal for 1 of their character types. (1 = Townsfolk, 2 = Outsider...)", "otherNightReminder":
+"The Technician points at 2 players. Give a finger signal for 1 of their character types. (1 = Townsfolk, 2 = Outsider...)", "reminders":
+[], "name":
+"Technician", "team":
+"townsfolk", "ability":
+"Each night, choose 2 players: you learn the character type of 1 of them.", "firstNight":
+16, "otherNight":
+16, "flavor":
+  "On the job sir!!"
+}
+, {
+"id":
+"deputy_digging-deep", "image":
+["https://i.ibb.co/kM3GFVc/lawman-good-1-crop-drop.png", "https://i.ibb.co/bLPPH60/lawman-evil-1-crop-drop.png"], "firstNightReminder":
+"The Deputy points at a player.", "otherNightReminder":
+"The Deputy points at a player.", "reminders":
+["Protected", "Protected"], "name":
+"Deputy", "team":
+"townsfolk", "ability":
+"Each night, choose a player: their opposing neighbours can't die until dusk.", "firstNight":
+16, "otherNight":
+16, "flavor":
+  "Stop. You shall not fight. If one of you starts to even move in a direction or think the thought of fighting, you will face me."
+}
+, {
+"id":
+"driller_digging-deep", "image":
+["https://i.ibb.co/KWzpH59/driller-good-crop-drop.png", "https://i.ibb.co/gTmcvw8/driller-evil-crop-drop.png"], "firstNightReminder":
+"The Driller points to a player, and a character on their sheet.", "otherNightReminder":
+"The Driller points to a player, and a character on their sheet.", "reminders":
+["\"Accident\""], "name":
+"Driller", "team":
+"townsfolk", "ability":
+"Each night, choose a player & guess their good character: if correct, they die before dusk.", "firstNight":
+16, "otherNight":
+16, "flavor":
+  "We are almost though, just a little bit more."
+}
+, {
+"id":
+"geologist_digging-deep", "image":
+["https://i.ibb.co/N7zWvXw/geologist-evil-1-crop-drop.png", "https://i.ibb.co/6HK0Zcy/geologist-good-1-crop-drop.png"], "firstNightReminder":
+"The Geologist points at 2 players. Point at the one of them that is good.", "otherNightReminder":
+"The Geologist points at 2 players. Point at the one of them that is good.", "reminders":
+[], "name":
+"Geologist", "team":
+"townsfolk", "ability":
+"Each night, choose 2 players: you learn 1 of them that is good. If both are evil, this info is arbitrary", "firstNight":
+16, "otherNight":
+16, "flavor":
+  "This is an amazing earth, the minerals here will yeild well."
+}
+, {
+"id":
+"metallurgist_digging-deep", "image":
+["https://i.ibb.co/9G8hgTT/metallurgist-good-crop-drop-2.png", "https://i.ibb.co/2j0fm6G/metallurgist-evil-crop-drop-2.png"], "otherNightReminder":
+"Show a token marked \"Prevented\".", "reminders":
+["Prevented", "Prevented", "Prevented", "Prevented", "Prevented"], "name":
+"Metallurgist", "team":
+"townsfolk", "ability":
+"Each night*, you learn a character which would've died but didn't since dawn or that none did.", "otherNight":
+16, "flavor":
+  "Nothing passes by my watch, I know the system. It is like fibres building up my being. I am the one who can utelise it the best. Stand below my feet fellow workers."
+}
+, {
+"id":
+"prospector_digging-deep", "image":
+["https://i.ibb.co/4dXGRYJ/prospector-good-crop-drop.png", "https://i.ibb.co/vVqDp6V/prospector-evil-crop-drop.png"], "otherNightReminder":
+"If the Prospector nominated yesterday: show the character token of the player they nominated yesterday.", "reminders":
+["Fools Gold", "Gold"], "name":
+"Prospector", "team":
+"townsfolk", "ability":
+"Each night*, you learn the character you nominated today. If an evil player died since dawn, this info is arbitrary.", "otherNight":
+16, "flavor":
+  "I've struck gold!!!"
+}
+, {
+"id":
+"lapidary_digging-deep", "image":
+["https://i.ibb.co/NFc30Wd/lapidary-good-2-crop-drop-2.png", "https://i.ibb.co/HxqFFWv/lapidary-evil-2-crop-drop-2.png"], "reminders":
+[], "name":
+"Lapidary", "team":
+"townsfolk", "ability":
+"On your 1st day, you may visit the Storyteller to privately learn the order of character types of some neighbouring players.", "flavor":
+  "Such beutiful gems. A little amethyst, small pieces of ruby, and one sizable emerald."
+}
+, {
+"id":
+"demolitionist_digging-deep", "image":
+["https://i.ibb.co/cCJKJ2j/demolitionist-good-crop-drop.png", "https://i.ibb.co/NZM2QvN/demolitionist-evil-crop-drop.png"], "otherNightReminder":
+"If one of the players the Demonlitionist chose died tonight, the other dies too.", "reminders":
+["Charge", "Charge", "Dead", "No Ability"], "name":
+"Demolitionist", "team":
+"townsfolk", "ability":
+"Once per game, during the day, publicly choose 2 players: if 1 dies, the other does too.", "otherNight":
+16, "flavor":
+  "3! 2! 1! Boom!!!"
+}
+, {
+"id":
+"storeman_digging-deep", "image":
+["https://i.ibb.co/q0x9fcJ/storeman-good-crop-drop.png", "https://i.ibb.co/bLPPH60/lawman-evil-1-crop-drop.png"], "firstNightReminder":
+"The Storeman either shows a 'no' head signal, or points to a players. If the Storeman chose a player, show them that players character token.", "otherNightReminder":
+"If the Storeman has not yet used their ability: the Storeman either shows a 'no' head signal, or points to a players. If the Storeman chose a player, show them that players character token.", "reminders":
+["Gained Ability", "No Ability", "Poisoned"], "name":
+"Storeman", "team":
+"townsfolk", "ability":
+"Once per game, at night, choose a player: you learn & gain their ability. If they are evil, you are poisoned.", "firstNight":
+16, "otherNight":
+16, "flavor":
+  "Take a look at what we've got."
+}
+, {
+"id":
+"overman_digging-deep", "image":
+["https://i.ibb.co/XXK9vjY/overman-good-crop-drop-5.png", "https://i.ibb.co/y8T6DLG/overman-evil-crop-drop-5.png"], "otherNightReminder":
+"If the Overman died today or tonight: wake them. For each night in the game, point at a good player.", "reminders":
+["Crumbling"], "name":
+"Overman", "team":
+"townsfolk", "ability":
+"If you die, tonight, learn a good player per night.", "otherNight":
+16, "flavor":
+  "There is nothing going on with the mine. I am the owner, don't you dare go against my judgement."
+}
+, {
+"id":
+"surveyor_digging-deep", "image":
+["https://i.ibb.co/G3QKG2m/surveyor-good-crop-drop.png", "https://i.ibb.co/7Xt85YT/surveyor-evil-crop-drop.png"], "reminders":
+[], "name":
+"Surveyor", "team":
+"townsfolk", "ability":
+"If one of your alive neighbours would die, another player might die instead.", "flavor":
+  "Welcome to the new land. This is our place to deplete. Cash is soon come!"
+}
+, {
+"id":
+"spotter_digging-deep", "image":
+["https://i.ibb.co/zPgfsSS/hardhat-good-1-crop-drop.png", "https://i.ibb.co/Fm8wx0n/hardhat-evil-1-crop-drop.png"], "reminders":
+["Can't die"], "name":
+"Spotter", "team":
+"townsfolk", "ability":
+"An alive good player can't die. After they would have died, their clockwise alive good neighbour can't die instead.", "flavor":
+  "You are not allowed to die under my watch!"
+}
+, {
+"id":
+"panner_digging-deep", "image":
+["https://i.ibb.co/jfC1Y7h/panner-good-crop-drop.png", "https://i.ibb.co/pKYcFmd/panner-evil-crop-drop.png"], "reminders":
+["Extra Life", "Extra Life"], "name":
+"Panner", "team":
+"townsfolk", "ability":
+"When you learn that you died, publicly choose 2 players: if both are good, the 1st time each dies, they don't.", "flavor":
+  "I got rid of the glittering boulder for this? It's so... so useless without a lucky lunch."
+}
+, {
+"id":
+"conservationist_digging-deep", "image":
+["https://i.ibb.co/Kh6HkbL/conservationist-good-1-crop-drop.png", "https://i.ibb.co/hcMMsBn/conservationist-evil-1-crop-drop.png"], "reminders":
+["No Ability"], "name":
+"Conservationist", "team":
+"outsider", "ability":
+"Once per game, if a player would die, they don't & another might die instead.", "flavor":
+  "Leave us alone, don't break this down. Our home is on the line."
+}
+, {
+"id":
+"moonshiner_digging-deep", "image":
+["https://i.ibb.co/RHR4qsr/moonshiner-good-crop-drop.png", "https://i.ibb.co/qmptmGS/moonshiner-evil-crop-drop.png"], "reminders":
+["Drunk"], "name":
+"Moonshiner", "team":
+"outsider", "ability":
+"1 of the Demon's alive good neighbours is drunk.", "flavor":
+  "Come take a sip, homemade to heighten our spirits."
+}
+, {
+"id":
+"roamer_digging-deep", "image":
+["https://i.ibb.co/qxLbnXf/Roamer-good-crop-drop.png", "https://i.ibb.co/vH7qpHT/Roamer-evil-crop-drop.png"], "otherNightReminder":
+"If an evil player was executed today, they point to a player.", "reminders":
+["Hunting Tonight", "Monsters Roused"], "name":
+"Roamer", "team":
+"outsider", "ability":
+"If an evil player is executed, tonight, they may guess you: if correct, a player dies before dusk.", "otherNight":
+16, "flavor":
+  "Round and round the place we go. Finding friend and many foe."
+}
+, {
+"id":
+"counterfeiter_digging-deep", "image":
+["https://i.ibb.co/wMX8QwR/counterfeit-good-crop-drop.png", "https://i.ibb.co/mHtyC1w/counterfeit-evil-crop-drop.png"], "otherNightReminder":
+"If the Counterfeiter died today or tonight: wake them. For each night in the game, they point at 2 players: if they point at a player marked **Fake**, give the 'yes' head signal and point at them.", "reminders":
+["Fake", "Fake", "Regretting"], "name":
+"Counterfeiter", "team":
+"outsider", "ability":
+"2 players can't register as their alignment or character to Townsfolk. If you die, tonight, guess them per night: learn correct guesses.", "otherNight":
+16, "flavor":
+  "A part of me for a part of you. Oh, you actually agreed to that? Here have a part of me, an empty part."
+}
+, {
+"id":
+"skinwalker_digging-deep", "image":
+["https://i.ibb.co/6YMXFFc/skinwalker-evil-crop-drop.png", "https://i.ibb.co/m02YyFP/skinwalker-good-crop-drop.png"], "firstNightReminder":
+"Point at a good player. The Skinwalker points at a character on their script.", "otherNightReminder":
+"The Skinwalker points at a character on their script.", "reminders":
+["Shared Skin", "Apperance", "Good", "Evil"], "name":
+"Skinwalker", "team":
+"minion", "ability":
+"You know a good player. Each night, choose a character & alignment you both register as until you choose again to Townsfolk.", "firstNight":
+16, "otherNight":
+16, "flavor":
+  "They said I couldn't become like you. I will prove them wrong. I will become you."
+}
+, {
+"id":
+"gargoyle_digging-deep", "image":
+["https://i.ibb.co/NjRQTnG/gargoyle-evil-crop-drop.png", "https://i.ibb.co/k90mTrJ/gargoyle-good-crop-drop.png"], "firstNightReminder":
+"The Gargoyle points at a player.", "otherNightReminder":
+"The Gargoyle points at a player.", "reminders":
+["Watched", "Dying"], "name":
+"Gargoyle", "team":
+"minion", "ability":
+"Each night, choose a player: players they nominate tomorrow might die before dusk.", "firstNight":
+16, "otherNight":
+16, "flavor":
+  "Nothing misses my watch."
+}
+, {
+"id":
+"wraith_digging-deep", "image":
+["https://i.ibb.co/2SGKJVm/wraith-evil-2-crop-drop-2.png", "https://i.ibb.co/xSfTz7N/wraith-good-2-crop-drop-2.png"], "firstNightReminder":
+"If no Outsiders live, the Wraith points at 2 players: mark them poisoned.", "otherNightReminder":
+"If no Outsiders live and the Wraith hasn't woken yet, the Wraith points at 2 players: mark them poisoned.", "reminders":
+["Poisoned", "Poisoned"], "name":
+"Wraith", "team":
+"minion", "setup":
+true, "ability":
+"The 1st night no Outsiders live, choose 2 player: they are poisoned. [-1 or +1 Outsider]", "firstNight":
+16, "otherNight":
+16, "flavor":
+  "You will not see the light of day."
+}
+, {
+"id":
+"vessel_digging-deep", "image":
+["https://i.ibb.co/5rbHTZ3/vessel-evil-crop-drop.png", "https://i.ibb.co/ZcF5NTz/vessel-goodcrop-drop.png"], "reminders":
+["Moved", "Moved", "Moved", "Moved"], "name":
+"Vessel", "team":
+"minion", "ability":
+"Evil players (not Travellers) who nominate you swap characters with you, unless 3 players live. You can't die.", "flavor":
+  "You are now stuck with me. Keep me company. This is going to be so fun."
+}
+, {
+"id":
+"chorus_digging-deep", "image":
+["https://i.ibb.co/k67wkyC/chorus-evil-1-crop-drop.png", "https://i.ibb.co/yBmKF0z/chorus-good-1-crop-drop.png"], "firstNightReminder":
+"3 times: point to a player and show their character token.", "otherNightReminder":
+"3 times: point to a player and show their character token. The Chorus points to a player. That player dies.", "reminders":
+[], "name":
+"Chorus", "team":
+"demon", "ability":
+"Each night, you learn 3 players & their characters. Each night*, choose a player: they die.", "firstNight":
+16, "otherNight":
+16, "flavor":
+  "A dark song shines through the days and nights."
+}
+, {
+"id":
+"wurm_digging-deep", "image":
+["https://i.ibb.co/NWVfMj3/wyrm-evil-1-crop-drop-1.png", "https://i.ibb.co/SfBJ1B3/wyrm-good-1-crop-drop-1.png"], "otherNightReminder":
+"The Wurm points to a player. That player dies.", "reminders":
+["Dead", "Dead", "Dead"], "name":
+"Wurm", "team":
+"demon", "ability":
+"Each night*, choose a player: they die. Your alive neighbours might die at any time.", "otherNight":
+16, "flavor":
+  "These terrifying creatures burrow beneath the ground, listening for the sounds of footsteps above. The only mercy offered by these creatures is the tell-tale hiss of their approach, thus allowing would-be victims a moment to prepare for the oncoming attack."
+}
+, {
+"id":
+"rakshasa_digging-deep", "image":
+["https://i.ibb.co/mH55rC0/rakshasa-evil-1-crop-drop.png", "https://i.ibb.co/kSQtNjM/rakshasa-good-1-crop-drop.png"], "otherNightReminder":
+"The Rakshasa points to a player. That player dies.", "reminders":
+["Dead", "Mundane Weapons"], "setup":
+true, "name":
+"Rakshasa", "team":
+"demon", "ability":
+"Each night*, choose a player: they die. You can't die to executions by Townsfolk, except if 3 players live. [+1 Outsider]", "otherNight":
+16, "flavor":
+  "You don't stand a chance against me."
+}
+, {
+"id":
+"palingenesi_digging-deep", "image":
+["https://i.ibb.co/zS3wR8X/palingenesis-2-evil-crop-drop.png", "https://i.ibb.co/DzmxB5G/palingenesis-2-good-crop-drop.png"], "firstNightReminder":
+"Wake a good player. Show the 'These characters are in play' card, then the Palingensi character token.", "otherNightReminder":
+"If no alive player know the Palingenisi is in play: wake a good player. Show the 'These characters are in play' card, then the Palingensi character token. The Palingenesi points to a player. That player dies.", "reminders":
+["Know", "Dead"], "setup":
+true, "name":
+"Palingensi", "team":
+"demon", "ability":
+"Each night*, choose a player: they die. 1 alive player knows you are in play. If you die, they become an evil Palingenesi. [-1 Minion]", "firstNight":
+16, "otherNight":
+16, "flavor":
+  "Entry 5712: The Palingenesi in an entity found in 1662 in a cave, named after its ability to reform upon destruction. Burning, Crushing, Disolving, and Slashing are just a few methods we have tested, none have worked. We are trying all we can. It won't be contained. I will probably die before the end of the month. My death will hopefully contain it for enough time for a way to destroy it to be found. Someone had to be the sacrifice."
+}
+, {
+"id":
+"forge_digging-deep", "image":
+["https://i.ibb.co/fdN8cgP/forge-2-crop-drop.png"], "firstNightReminder":
+"You may show the Demon the **This Character Selected You** info card then the Forge. If so, the Demon points to a player.", "otherNightReminder":
+"You may show the Demon the **This Character Selected You** info card then the Forge. If so, the Demon points to a player.", "reminders":
+["Forged", "Poisoned"], "name":
+"Forge", "team":
+"fabled", "ability":
+"Each night, the Demon might learn this & have the ability \"Each night, choose a player: they are poisoned until dusk.\" instead of their own until dusk.", "firstNight":
+16, "otherNight":
+16, "flavor":
+  "A fate will be smithed together, made from iron and blood."
+}
+, {
+"id":
+"greenhorn_digging-deep", "image":
+["https://i.ibb.co/h98sG34/greenhorn-base-1-crop-drop.png", "https://i.ibb.co/jwcfVJt/greenhorn-good-1-crop-drop.png", "https://i.ibb.co/vvykRP2/greenhorn-evil-1-crop-drop.png"], "firstNightReminder":
+"Show a Townsfolk token. Tonight, wake the Greenhorn as the character they learned would.", "otherNightReminder":
+"Tonight, wake the Greenhorn as the character they learned would.", "reminders":
+["Job", "?", "?", "?"], "name":
+"Greenhorn", "team":
+"traveler", "ability":
+"On your 1st night, you learn & gain a Townsfolk ability.", "firstNight":
+16, "otherNight":
+16, "flavor":
+  "It said welcome on a sign and I didn't like my old job, pefect opportunity for something new!"
+}
+, {
+"id":
+"adversary_digging-deep", "image":
+["https://i.ibb.co/Wgj0RwB/adversary-base-2-crop-drop.png", "https://i.ibb.co/kQCBCG4/adversary-good-2-crop-drop.png", "https://i.ibb.co/yyxCxkc/adversary-evil-2-crop-drop.png"], "firstNightReminder":
+"Tonight, wake the Adversary as their ability would.", "otherNightReminder":
+" ", "reminders":
+["?", "?", "?", "?", "?", "?"], "name":
+"Adversary", "team":
+"traveler", "ability":
+"You and the other Adversary have the same ability. On your 1st day, you learn a part of it. If one dies, the other does too. [2 opposing Adversaries]", "firstNight":
+16, "otherNight":
+16, "flavor":
+  "Is that another challenger? Finally. It's been ages since I've had a good fight."
+}
+, {
+"id":
+"appraiser_digging-deep", "image":
+["https://i.ibb.co/ZT5kLpy/appraiser-base-crop-drop.png", "https://i.ibb.co/HBLLRmT/appraiser-good-crop-drop.png", "https://i.ibb.co/1mn4qfs/appraiser-evil-crop-drop.png"], "reminders":
+["Linked", "Linked"], "name":
+"Appraiser", "team":
+"traveler", "ability":
+"Each day, you may publicly choose 2 players: today, they may only vote if both agree & can`t vote for each other.", "flavor":
+  "You two look like you would pair perfectly together."
+}
+, {
+"id":
+"debt-collector_digging-deep", "image":
+["https://i.ibb.co/P4xFtC6/debt-collector-base-crop-drop.png", "https://i.ibb.co/MZNxcHt/debt-collector-good-crop-drop.png", "https://i.ibb.co/qp6Skyp/debt-collector-evil-crop-drop.png"], "reminders":
+["Debt", "Debt", "Debt", "Debt", "Debt"], "name":
+"Debt Collector", "team":
+"traveler", "ability":
+"Players may privately make promises to you. Players you catch breaking them: die.", "flavor":
+  "I welcome you my friend. My friend death."
+}
+, {
+"id":
+"brawler_digging-deep", "image":
+["https://i.ibb.co/Qcd90wX/brawler-base-crop-drop.png", "https://i.ibb.co/fNmL9S0/brawler-good-crop-drop.png", "https://i.ibb.co/6gLLv53/brawler-evil-crop-drop.png"], "reminders":
+["Poisoned", "Poisoned", "Poisoned"], "name":
+"Brawler", "team":
+"traveler", "ability":
+"You may nominate any number of times & players who have already been nominated. Players you nominate might be drunk until dawn.", "flavor":
+  "Crush your drink and grab a chair, it’s time for a bar fight!."
+}
+]
