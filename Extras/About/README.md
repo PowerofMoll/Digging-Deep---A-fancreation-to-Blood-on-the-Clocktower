@@ -10,7 +10,7 @@
 *We, the creators of this homebrew (Moll and Indigo) agree to the terms outlined in the Creativity, Copyright, & Design Terms V1.1 by The Pandemonium Institute.*
 
 ### Were to find us
-Both me and Indigo can be found on discord @mll and @indigochaos respectively. 
+Both me and Indigo can be found on discord, @omll and @indigochaos respectively. 
 
 ### Art
 The Art has been made by Moll and may not be commercially sold. 
