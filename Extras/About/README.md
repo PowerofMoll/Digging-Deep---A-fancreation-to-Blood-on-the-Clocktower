@@ -15,4 +15,4 @@ Both me and Indigo can be found on discord, @omll and @indigochaos respectively.
 ### Copywright
 Digging Deep © 2024 by Emil Molin is licensed under CC BY-NC-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/4.0/
 
-This includes all art and characters presented here.
+This includes all art (including the alternate arts provided in the json) and characters presented here.
