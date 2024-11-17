@@ -12,7 +12,7 @@
 ### Were to find us
 Both me and Indigo can be found on discord, @omll and @indigochaos respectively. 
 
-### Art
-The Art has been made by Moll and may not be commercially sold. 
-
+### Copywright
 Digging Deep © 2024 by Emil Molin is licensed under CC BY-NC-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+This includes all art and characters presented here.
