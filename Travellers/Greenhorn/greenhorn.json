@@ -1,0 +1,14 @@
+, {
+"id":
+"greenhorn_digging-deep", "image":
+["https://i.ibb.co/h98sG34/greenhorn-base-1-crop-drop.png", "https://i.ibb.co/jwcfVJt/greenhorn-good-1-crop-drop.png", "https://i.ibb.co/vvykRP2/greenhorn-evil-1-crop-drop.png"], "firstNightReminder":
+"Show a Townsfolk token. Tonight, wake the Greenhorn as the character they learned would.", "otherNightReminder":
+"Tonight, wake the Greenhorn as the character they learned would.", "reminders":
+["Job", "?", "?", "?"], "name":
+"Greenhorn", "team":
+"traveler", "ability":
+"On your 1st night, you learn & gain a Townsfolk ability.", "firstNight":
+16, "otherNight":
+16, "flavor":
+  "It said welcome on a sign and I didn't like my old job, pefect opportunity for something new!"
+}
