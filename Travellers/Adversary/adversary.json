@@ -1,0 +1,14 @@
+, {
+"id":
+"adversary_digging-deep", "image":
+["https://i.ibb.co/Wgj0RwB/adversary-base-2-crop-drop.png", "https://i.ibb.co/kQCBCG4/adversary-good-2-crop-drop.png", "https://i.ibb.co/yyxCxkc/adversary-evil-2-crop-drop.png"], "firstNightReminder":
+"Tonight, wake the Adversary as their ability would.", "otherNightReminder":
+" ", "reminders":
+["?", "?", "?", "?", "?", "?"], "name":
+"Adversary", "team":
+"traveler", "ability":
+"You and the other Adversary have the same ability. On your 1st day, you learn a part of it. If one dies, the other does too. [2 opposing Adversaries]", "firstNight":
+16, "otherNight":
+16, "flavor":
+  "Is that another challenger? Finally. It's been ages since I've had a good fight."
+}
