@@ -1,0 +1,10 @@
+, {
+"id":
+"appraiser_digging-deep", "image":
+["https://i.ibb.co/ZT5kLpy/appraiser-base-crop-drop.png", "https://i.ibb.co/HBLLRmT/appraiser-good-crop-drop.png", "https://i.ibb.co/1mn4qfs/appraiser-evil-crop-drop.png"], "reminders":
+["Linked", "Linked"], "name":
+"Appraiser", "team":
+"traveler", "ability":
+"Each day, you may publicly choose 2 players: today, they may only vote if both agree & can`t vote for each other.", "flavor":
+  "You two look like you would pair perfectly together."
+}
