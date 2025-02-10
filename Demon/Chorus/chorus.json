@@ -1,0 +1,14 @@
+, {
+"id":
+"chorus_digging-deep", "image":
+["https://i.ibb.co/k67wkyC/chorus-evil-1-crop-drop.png", "https://i.ibb.co/yBmKF0z/chorus-good-1-crop-drop.png"], "firstNightReminder":
+"3 times: point to a player and show their character token.", "otherNightReminder":
+"3 times: point to a player and show their character token. The Chorus points to a player. That player dies.", "reminders":
+[], "name":
+"Chorus", "team":
+"demon", "ability":
+"Each night, you learn 3 players & their characters. Each night*, choose a player: they die.", "firstNight":
+16, "otherNight":
+16, "flavor":
+  "A dark song shines through the days and nights."
+}
