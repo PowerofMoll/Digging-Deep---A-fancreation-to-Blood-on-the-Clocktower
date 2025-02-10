@@ -1,0 +1,10 @@
+, {
+"id":
+"brawler_digging-deep", "image":
+["https://i.ibb.co/Qcd90wX/brawler-base-crop-drop.png", "https://i.ibb.co/fNmL9S0/brawler-good-crop-drop.png", "https://i.ibb.co/6gLLv53/brawler-evil-crop-drop.png"], "reminders":
+["Poisoned", "Poisoned", "Poisoned"], "name":
+"Brawler", "team":
+"traveler", "ability":
+"You may nominate any number of times & players who have already been nominated. Players you nominate might be drunk until dawn.", "flavor":
+  "Crush your drink and grab a chair, it’s time for a bar fight!."
+}
