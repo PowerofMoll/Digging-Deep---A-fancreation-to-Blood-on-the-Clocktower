@@ -1,0 +1,12 @@
+, {
+"id":
+"wurm_digging-deep", "image":
+["https://i.ibb.co/NWVfMj3/wyrm-evil-1-crop-drop-1.png", "https://i.ibb.co/SfBJ1B3/wyrm-good-1-crop-drop-1.png"], "otherNightReminder":
+"The Wurm points to a player. That player dies.", "reminders":
+["Dead", "Dead", "Dead"], "name":
+"Wurm", "team":
+"demon", "ability":
+"Each night*, choose a player: they die. Your alive neighbours might die at any time.", "otherNight":
+16, "flavor":
+  "These terrifying creatures burrow beneath the ground, listening for the sounds of footsteps above. The only mercy offered by these creatures is the tell-tale hiss of their approach, thus allowing would-be victims a moment to prepare for the oncoming attack."
+}
