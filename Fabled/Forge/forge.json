@@ -1,0 +1,14 @@
+, {
+"id":
+"forge_digging-deep", "image":
+["https://i.ibb.co/fdN8cgP/forge-2-crop-drop.png"], "firstNightReminder":
+"You may show the Demon the **This Character Selected You** info card then the Forge. If so, the Demon points to a player.", "otherNightReminder":
+"You may show the Demon the **This Character Selected You** info card then the Forge. If so, the Demon points to a player.", "reminders":
+["Forged", "Poisoned"], "name":
+"Forge", "team":
+"fabled", "ability":
+"Each night, the Demon might learn this & have the ability \"Each night, choose a player: they are poisoned until dusk.\" instead of their own until dusk.", "firstNight":
+16, "otherNight":
+16, "flavor":
+  "A fate will be smithed together, made from iron and blood."
+}
