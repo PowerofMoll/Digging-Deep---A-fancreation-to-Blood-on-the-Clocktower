@@ -1,0 +1,13 @@
+, {
+"id":
+"rakshasa_digging-deep", "image":
+["https://i.ibb.co/mH55rC0/rakshasa-evil-1-crop-drop.png", "https://i.ibb.co/kSQtNjM/rakshasa-good-1-crop-drop.png"], "otherNightReminder":
+"The Rakshasa points to a player. That player dies.", "reminders":
+["Dead", "Mundane Weapons"], "setup":
+true, "name":
+"Rakshasa", "team":
+"demon", "ability":
+"Each night*, choose a player: they die. You can't die to executions by Townsfolk, except if 3 players live. [+1 Outsider]", "otherNight":
+16, "flavor":
+  "You don't stand a chance against me."
+}
