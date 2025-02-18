@@ -1,0 +1,14 @@
+, {
+"id":
+"driller_digging-deep", "image":
+["https://i.ibb.co/KWzpH59/driller-good-crop-drop.png", "https://i.ibb.co/gTmcvw8/driller-evil-crop-drop.png"], "firstNightReminder":
+"The Driller points to a player, and a character on their sheet.", "otherNightReminder":
+"The Driller points to a player, and a character on their sheet.", "reminders":
+["\"Accident\""], "name":
+"Driller", "team":
+"townsfolk", "ability":
+"Each night, choose a player & guess their good character: if correct, they die before dusk.", "firstNight":
+16, "otherNight":
+16, "flavor":
+  "We are almost though, just a little bit more."
+}
