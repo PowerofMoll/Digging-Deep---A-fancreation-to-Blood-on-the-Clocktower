@@ -1,0 +1,12 @@
+, {
+"id":
+"prospector_digging-deep", "image":
+["https://i.ibb.co/4dXGRYJ/prospector-good-crop-drop.png", "https://i.ibb.co/vVqDp6V/prospector-evil-crop-drop.png"], "otherNightReminder":
+"If the Prospector nominated yesterday: show the character token of the player they nominated yesterday.", "reminders":
+["Fools Gold", "Gold"], "name":
+"Prospector", "team":
+"townsfolk", "ability":
+"Each night*, you learn the character you nominated today. If an evil player died since dawn, this info is arbitrary.", "otherNight":
+16, "flavor":
+  "I've struck gold!!!"
+}
