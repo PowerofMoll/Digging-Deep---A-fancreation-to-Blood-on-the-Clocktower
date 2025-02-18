@@ -6,22 +6,12 @@
 
 <img src="https://github.com/user-attachments/assets/3e1779e2-0d52-4663-b96d-4a7c00c98a54" alt="deputy1_good" width="300" height="300">
 
-> Each night, choose a player: their opposing neighbours can't die until dusk.
+> You can't die unless a Minion is dead.
 
-*Stop. You shall not fight. If one of you starts to even move in a direction or think the thought of fighting, you will face me.*
+*I will not rest until evil has perished.*
 
 ### The Deputy keeps agression under control.
-- The Deputy chooses a player each night.
-- Their neighbours who are not on that players alignment cannot die until dusk.
 
 ### How to run
-Each night, wake the Deputy. They point at a player. Put the Deputy to sleep. For each of their neighbours who are not on their alignment, mark them with **Protected**.
-
-If a player marked **Protected** would die, they remain alive. If a player marked **Protected** is executed, declare that the marked player is executed but remains alive. (Do not say why.)
-
-At dusk remove any **Protected** reminders.
 
 ### Examples
-> The Deputy chooses the Chorus, that day the Roamer who neighbours the Chorus is executed but does not die.
-
-> The Deputy chooses the Panner and the Rakshasa chooses the Counterfeiter who neighbours the Panner, the Counterfeiter dies because it shares the same alignment with the Panner.
