@@ -1,0 +1,12 @@
+, {
+"id":
+"counterfeiter_digging-deep", "image":
+["https://i.ibb.co/wMX8QwR/counterfeit-good-crop-drop.png", "https://i.ibb.co/mHtyC1w/counterfeit-evil-crop-drop.png"], "otherNightReminder":
+"If the Counterfeiter died today or tonight: wake them. For each night in the game, they point at 2 players: if they point at a player marked **Fake**, give the 'yes' head signal and point at them.", "reminders":
+["Fake", "Fake", "Regretting"], "name":
+"Counterfeiter", "team":
+"outsider", "ability":
+"2 players can't register as their alignment or character to Townsfolk. If you die, tonight, guess them per night: learn correct guesses.", "otherNight":
+16, "flavor":
+  "A part of me for a part of you. Oh, you actually agreed to that? Here have a part of me, an empty part."
+}
