@@ -1,0 +1,15 @@
+, {
+"id":
+"wraith_digging-deep", "image":
+["https://i.ibb.co/2SGKJVm/wraith-evil-2-crop-drop-2.png", "https://i.ibb.co/xSfTz7N/wraith-good-2-crop-drop-2.png"], "firstNightReminder":
+"Show all characters in the grimoire to the Wraith.", "otherNightReminder":
+"If no Outsiders live and the Wraith hasn't woken yet, the Wraith points at a character: mark them poisoned.", "reminders":
+["Poisoned"], "name":
+"Wraith", "team":
+"minion", "setup":
+true, "ability":
+"You start knowing the in-play Characters. The 1st night no Outsiders live, choose a character: they are poisoned. [-1 to +1 Outsider]", "firstNight":
+16, "otherNight":
+16, "flavor":
+  "You will not see the light of day."
+}
