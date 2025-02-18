@@ -1,0 +1,12 @@
+, {
+"id":
+"metallurgist_digging-deep", "image":
+["https://i.ibb.co/9G8hgTT/metallurgist-good-crop-drop-2.png", "https://i.ibb.co/2j0fm6G/metallurgist-evil-crop-drop-2.png"], "otherNightReminder":
+"Show a token marked \"Prevented\".", "reminders":
+["Prevented", "Prevented", "Prevented", "Prevented", "Prevented"], "name":
+"Metallurgist", "team":
+"townsfolk", "ability":
+"Each night*, you learn a character which would've died but didn't since dawn or that none did.", "otherNight":
+16, "flavor":
+  "Nothing passes by my watch, I know the system. It is like fibres building up my being. I am the one who can utelise it the best. Stand below my feet fellow workers."
+}
