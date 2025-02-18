@@ -1,0 +1,10 @@
+, {
+"id":
+"surveyor_digging-deep", "image":
+["https://i.ibb.co/G3QKG2m/surveyor-good-crop-drop.png", "https://i.ibb.co/7Xt85YT/surveyor-evil-crop-drop.png"], "reminders":
+[], "name":
+"Surveyor", "team":
+"townsfolk", "ability":
+"If one of your alive neighbours would die, another player might die instead.", "flavor":
+  "Welcome to the new land. This is our place to deplete. Cash is soon come!"
+}
