@@ -1,0 +1,14 @@
+, {
+"id":
+"skinwalker_digging-deep", "image":
+["https://i.ibb.co/6YMXFFc/skinwalker-evil-crop-drop.png", "https://i.ibb.co/m02YyFP/skinwalker-good-crop-drop.png"], "firstNightReminder":
+"Point at a good player. The Skinwalker points at a character on their script.", "otherNightReminder":
+"The Skinwalker points at a character on their script.", "reminders":
+["Shared Skin", "Apperance", "Good", "Evil"], "name":
+"Skinwalker", "team":
+"minion", "ability":
+"You know a good player. Each night, choose a character & alignment you both register as until you choose again to Townsfolk.", "firstNight":
+16, "otherNight":
+16, "flavor":
+  "They said I couldn't become like you. I will prove them wrong. I will become you."
+}
