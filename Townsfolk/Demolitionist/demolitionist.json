@@ -1,0 +1,12 @@
+, {
+"id":
+"demolitionist_digging-deep", "image":
+["https://i.ibb.co/cCJKJ2j/demolitionist-good-crop-drop.png", "https://i.ibb.co/NZM2QvN/demolitionist-evil-crop-drop.png"], "otherNightReminder":
+"If one of the players the Demonlitionist chose died tonight, the other dies too.", "reminders":
+["Charge", "Charge", "Dead", "No Ability"], "name":
+"Demolitionist", "team":
+"townsfolk", "ability":
+"Once per game, during the day, publicly choose 2 players: if 1 dies, the other does too.", "otherNight":
+16, "flavor":
+  "3! 2! 1! Boom!!!"
+}
