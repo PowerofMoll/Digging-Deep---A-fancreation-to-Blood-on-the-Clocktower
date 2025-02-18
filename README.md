@@ -125,10 +125,6 @@ Digging Deep offers new mechanics to interact with, swapping characters, deaths 
 
 - [Rakshasa](https://github.com/PowerofMoll/Mining-Timing---A-fancreation-to-Blood-on-the-Clocktower/blob/main/Demon/Rakshasa/README.md)
 
-<img src="https://github.com/user-attachments/assets/cceb3386-1e9b-4032-99d1-d8627dbf62e3" alt="palingenesi_evil" width="150" height="150">
-
-- [Palingenesi](https://github.com/PowerofMoll/Mining-Timing---A-fancreation-to-Blood-on-the-Clocktower/blob/main/Demon/Palingenesi/README.md)
-
 ## [Fabled](https://github.com/PowerofMoll/Mining-Timing---A-fancreation-to-Blood-on-the-Clocktower/blob/main/Fabled/README.md)
 
 <img src="https://github.com/user-attachments/assets/d07b4872-a738-42ea-aed3-5d5bbec1b808" alt="forge_evil" width="150" height="150">
