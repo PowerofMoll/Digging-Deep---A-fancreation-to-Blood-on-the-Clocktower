@@ -1,0 +1,14 @@
+, {
+"id":
+"vessel_digging-deep", "image":
+["https://i.ibb.co/5rbHTZ3/vessel-evil-crop-drop.png", "https://i.ibb.co/ZcF5NTz/vessel-goodcrop-drop.png"], "firstNightReminder":
+"If the Vessel is not marked **Once**, wake the Vessel. They either choose a player or shake their head in the 'no' signal. If they chose at a player: swap the character tokens with the Vessel. Wake each player. Show 'You are', then their new character token.", "otherNightReminder":
+"If the Vessel is not marked **Once**, wake the Vessel. They either choose a player or shake their head in the 'no' signal. If they chose at a player: swap the character tokens with the Vessel. Wake each player. Show 'You are', then their new character token.", "reminders":
+["Moved", "Once"], "name":
+"Vessel", "team":
+"minion", "ability":
+"You cannot die by execution. The 1st Vessel may (once), choose a player to swap characters with.", "firstNight":
+16, "otherNight":
+16, "flavor":
+  "You are now stuck with me. Keep me company. This is going to be so fun."
+}
