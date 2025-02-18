@@ -1,0 +1,12 @@
+ {
+"id":
+"roamer_digging-deep", "image":
+["https://i.ibb.co/qxLbnXf/Roamer-good-crop-drop.png", "https://i.ibb.co/vH7qpHT/Roamer-evil-crop-drop.png"], "otherNightReminder":
+"If an evil player was executed today, they point to a player.", "reminders":
+["Hunting Tonight", "Monsters Roused"], "name":
+"Roamer", "team":
+"outsider", "ability":
+"If an evil player is executed, tonight, they may guess you: if correct, a player dies before dusk.", "otherNight":
+16, "flavor":
+  "Round and round the place we go. Finding friend and many foe."
+}
