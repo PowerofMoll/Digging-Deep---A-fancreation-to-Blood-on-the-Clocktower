@@ -1,0 +1,10 @@
+, {
+"id":
+"spotter_digging-deep", "image":
+["https://i.ibb.co/zPgfsSS/hardhat-good-1-crop-drop.png", "https://i.ibb.co/Fm8wx0n/hardhat-evil-1-crop-drop.png"], "reminders":
+["Can't die"], "name":
+"Spotter", "team":
+"townsfolk", "ability":
+"An alive good player can't die. After they would have died, their clockwise alive good neighbour can't die instead.", "flavor":
+  "You are not allowed to die under my watch!"
+}
