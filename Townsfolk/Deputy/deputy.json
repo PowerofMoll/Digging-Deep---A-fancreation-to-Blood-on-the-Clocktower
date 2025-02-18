@@ -1,0 +1,10 @@
+, {
+"id":
+"deputy_digging-deep", "image":
+["https://i.ibb.co/kM3GFVc/lawman-good-1-crop-drop.png", "https://i.ibb.co/bLPPH60/lawman-evil-1-crop-drop.png"], "reminders":
+["Can't Die"], "name":
+"Deputy", "team":
+"townsfolk", "ability":
+"You can't die unless a Minion is dead.", "flavor":
+  "I will not rest until evil has perished."
+}
