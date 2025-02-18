@@ -1,0 +1,14 @@
+, {
+"id":
+"storeman_digging-deep", "image":
+["https://i.ibb.co/q0x9fcJ/storeman-good-crop-drop.png", "https://i.ibb.co/bLPPH60/lawman-evil-1-crop-drop.png"], "firstNightReminder":
+"The Storeman either shows a 'no' head signal, or points to a players. If the Storeman chose a player, show them that players character token.", "otherNightReminder":
+"If the Storeman has not yet used their ability: the Storeman either shows a 'no' head signal, or points to a players. If the Storeman chose a player, show them that players character token.", "reminders":
+["Gained Ability", "No Ability", "Poisoned"], "name":
+"Storeman", "team":
+"townsfolk", "ability":
+"Once per game, at night, choose a player: you learn & gain their ability. If they are evil, you are poisoned.", "firstNight":
+16, "otherNight":
+16, "flavor":
+  "Take a look at what we've got."
+}
