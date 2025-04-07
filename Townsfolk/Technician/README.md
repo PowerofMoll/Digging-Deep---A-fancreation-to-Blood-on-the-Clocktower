@@ -6,13 +6,15 @@
 
 <img src="https://github.com/user-attachments/assets/cb90fba9-a1ed-43d7-a3f9-593c166de713" alt="technician_good" width="300" height="300">
 
-> Each night, choose 2 players: you learn 1 if their evil characters. This info is arbitrary is both are good.
+> Each night, you learn a player with exactly 1 evil neighbour.
 
 *On the job sir!!*
 
-### The Technician can see how players interact with the system.
+### The Technician can pinpoint a problematic area.
 
 ### How to run
 
-### Examples
+Each night, wake the Technician. Point to a player with one evil neighbour. Put the Technician to sleep.
 
+### Examples
+- The Gargoyle neighbours the Wurm and the Metallurgist. On the 2nd night the Technician learns the Gargoyle.
