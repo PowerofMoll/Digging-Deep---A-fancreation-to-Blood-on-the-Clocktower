@@ -10,7 +10,7 @@
 *We, the creators of this homebrew (Moll and Indigo) agree to the terms outlined in the Creativity, Copyright, & Design Terms V1.1 by The Pandemonium Institute.*
 
 ### Were to find us
-Both me and Indigo can be found on discord, @omll and @indigochaos respectively. 
+Both me and Indigo can be found on discord, @mollofpower and @indigochaos respectively. 
 
 ### Copywright
 Digging Deep © 2024 by Emil Molin is licensed under CC BY-NC-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/4.0/
