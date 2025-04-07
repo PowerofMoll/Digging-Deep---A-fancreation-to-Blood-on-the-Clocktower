@@ -5,21 +5,16 @@
 ## Overman
 <img src="https://github.com/user-attachments/assets/4c264bea-e1f3-4273-8e87-9d62f9cf0355" alt="overman_good" width="300" height="300">
 
-> If you die, tonight, learn a good player per night.
+> Each night*, if the dead equal or outnumber the living, you learn an evil player.
 
-*There is nothing going on with the mine. I am the owner, don't you dare go against my judgement.*
+*There is nothing going on with the mine. I will only take action if i see real proof.*
 
-### The Overman finds who to trust when they realise problems are really happening.
-- The Overman wakes to learn information if they die, during the day or night.
-- The Overman learns an equal number of good players to the night number, even if they were created later in the game.
+### The Overman hunts down the dangers lurking when they have seen their destruction.
+- The Overman only wakes to learn information if there are as many or more dead players than alive. 
+- The Overman learns an evil player each night. If it is a big game we reccomend avoiding showing the Demon immediately.
 
 ### How to run
-If the Overman dies, mark them **Crumbling**.
-
-During that night, wake the Overman, point at a good player per night. Put the Overman to sleep. 
+When the number of dead players equals or exceeds the number of alive players, add a night token to the Overman’s entry on the night sheet. Each night, if the Overman has a night token on the night sheet, wake the Overman. Point to an evil player. Put the Overman to sleep.
 
 ### Examples
-> The Overman dies on day 1. That night they learn the Storeman,
-
-> On the 3rd day the Skinwalker chooses Chorus and good and the Overman dies, The Overman learns the Skinwalker, the Spotter and Moonshiner.
-
+> It is night 4, 5 players live, 5 are dead. The Overman learns the Vurm.
