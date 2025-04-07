@@ -11,6 +11,8 @@
 *On the job sir!!*
 
 ### The Technician can pinpoint a problematic area.
+- The Technician can learn both evil and good players.
+- The Technician learns about neighbours not neccecarily alive neighbours.
 
 ### How to run
 
