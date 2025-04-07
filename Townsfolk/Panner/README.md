@@ -24,10 +24,9 @@ If a player marked **Extra Life** would die, they remain alive and you remove th
 If the Panner dies, remove the **Extra Life** reminders.
 
 ### Examples
-> The Panner is executed and die, they choose the Deputy and the Wraith. The next day the Deputy is executed and die as the Panner didn’t choose 2 good players.
+> The Panner chooses the Deputy and the Wraith. The next day the Deputy is executed and dies as the Panner didn’t choose 2 good players.
 
-> The Panner dies at night, at dawn, when everyone learns who died, they choose the Counterfeiter and the Conservationist. The Conservationist is executed that day but does not die due to the Panner having chosen them and another good player.
-
+> The Panner is 'about to die' and claims to be the Panner choosing only themselves. When they are executed, they live.
 
 
 
