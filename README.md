@@ -75,6 +75,9 @@ Digging Deep offers new mechanics to interact with, swapping characters, deaths 
 
 <img src="https://github.com/user-attachments/assets/c89355a6-742d-4992-b3e3-97d1d6be30a1" alt="spotter_good" width="150" height="150">
 
+- [Spotter](https://github.com/PowerofMoll/Mining-Timing---A-fancreation-to-Blood-on-the-Clocktower/blob/main/Townsfolk/Spotter/README.md)
+
+
 ## [Outsiders](https://github.com/PowerofMoll/Mining-Timing---A-fancreation-to-Blood-on-the-Clocktower/blob/main/Outsider/README.md)
 
 <img src="https://github.com/user-attachments/assets/e5bb6c20-53a1-44d0-8b6d-f0977a216e9b" alt="conservationist_good" width="150" height="150">
