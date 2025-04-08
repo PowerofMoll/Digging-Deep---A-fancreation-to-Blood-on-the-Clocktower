@@ -2,7 +2,7 @@
 
 ## Adversary
 
-<img src="https://github.com/user-attachments/assets/58ceada5-2fcb-4468-a8df-cf2af564bff2" alt="adversary_base" width="300" height="300">
+<img src="https://github.com/user-attachments/assets/212ff168-11e0-404e-81aa-2cd8e0515bf8" alt="adversary_base" width="300" height="300">
 
 > You and the other Adversary have the same ability. On your 1st day, you learn a part of it. If one dies, the other does too. [2 opposing Adversaries]
 
