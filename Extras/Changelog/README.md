@@ -5,12 +5,13 @@ This is a collection of the changes to this script since its original release.
 ## [Changelog](https://github.com/PowerofMoll/Mining-Timing---A-fancreation-to-Blood-on-the-Clocktower/edit/main/Changelog/README.md)
 
 ### v 3.1
+[Link to PDF of v 3.1](https://github.com/PowerofMoll/Digging-Deep---A-fancreation-to-Blood-on-the-Clocktower/blob/main/Extras/Files/v%203.1%20Digging%20Deep.pdf)
 - Technician, Overman & Lapidary reworked.
 - Panner now acts once per game during the day instead of when they die. They can also choose up to 2 players instead of exactly 2.
 - Counterfeiter now learns the players they made misregister instead of guessing them.
 - Night order and script order changed for clarity.
 - Printer friendly image made.
-> [Link to PDF of v 3.1](https://github.com/PowerofMoll/Digging-Deep---A-fancreation-to-Blood-on-the-Clocktower/blob/main/Extras/Files/v%203.1%20Digging%20Deep.pdf)
+
 
 ### v 3
 - Technician & Deputy reworked.
@@ -26,5 +27,5 @@ This is a collection of the changes to this script since its original release.
 
 ### v 1
 Released: 2024-11-05
+[Link to PDF of v 1](https://github.com/PowerofMoll/Digging-Deep---A-fancreation-to-Blood-on-the-Clocktower/blob/main/Extras/Files/Digging%20Deep%20v%201.pdf)
 - Initial release
-> [Link to PDF of v 1](https://github.com/PowerofMoll/Digging-Deep---A-fancreation-to-Blood-on-the-Clocktower/blob/main/Extras/Files/Digging%20Deep%20v%201.pdf)
