@@ -8,7 +8,7 @@
 *I, the creators of this homebrew (Moll) agree to the terms outlined in the Creativity, Copyright, & Design Terms V1.1 by The Pandemonium Institute.*
 
 ### Were to find us
-Both I can be found on discord, using @mollofpower. 
+I can be found on discord, using @mollofpower. 
 
 ### Copywright
 Digging Deep © 2024 by Emil Molin is licensed under CC BY-NC-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/4.0/
