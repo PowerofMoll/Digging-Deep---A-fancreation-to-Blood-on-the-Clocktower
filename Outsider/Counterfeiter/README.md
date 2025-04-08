@@ -1,6 +1,4 @@
-[*Main >*](https://github.com/PowerofMoll/Mining-Timing---A-fancreation-to-Blood-on-the-Clocktower/blob/main/README.md)
-[_Outsider >_](https://github.com/PowerofMoll/Mining-Timing---A-fancreation-to-Blood-on-the-Clocktower/blob/main/Outsider/README.md)
-[_Counterfeiter_](https://github.com/PowerofMoll/Mining-Timing---A-fancreation-to-Blood-on-the-Clocktower/blob/main/Outsider/Counterfeiter/README.md)
+[*Main*](https://github.com/PowerofMoll/Mining-Timing---A-fancreation-to-Blood-on-the-Clocktower/blob/main/README.md) > [_Outsider_](https://github.com/PowerofMoll/Mining-Timing---A-fancreation-to-Blood-on-the-Clocktower/blob/main/Outsider/README.md) > [_Counterfeiter_](https://github.com/PowerofMoll/Mining-Timing---A-fancreation-to-Blood-on-the-Clocktower/blob/main/Outsider/Counterfeiter/README.md)
 
 ## Counterfeiter
 <img src="https://github.com/user-attachments/assets/116e9ad4-a5ef-4191-be58-6725cd19bc22" alt="counterfeiter_good" width="300" height="300">
