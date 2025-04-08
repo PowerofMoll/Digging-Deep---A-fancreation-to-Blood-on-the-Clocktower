@@ -10,12 +10,14 @@ Digging Deep offers new mechanics to interact with, swapping characters, deaths 
 <img align="center" src="https://github.com/user-attachments/assets/0831b218-145b-49fb-bbe0-3ffa9cc24f8b" alt="Script Logo" width="591" height="591" align="center">
 </p>
 
-## [Extras](https://github.com/PowerofMoll/Mining-Timing---A-fancreation-to-Blood-on-the-Clocktower/blob/main/Extras/README.md)
-- [About](https://github.com/PowerofMoll/Mining-Timing---A-fancreation-to-Blood-on-the-Clocktower/blob/main/Extras/About/README.md)
+## [Extras](https://github.com/PowerofMoll/Mining-Timing---A-fancreation-to-Blood-on-the-Clocktower/blob/main/Extras)
+- [About](https://github.com/PowerofMoll/Mining-Timing---A-fancreation-to-Blood-on-the-Clocktower/blob/main/Extras/About)
 
-- [Changelog](https://github.com/PowerofMoll/Mining-Timing---A-fancreation-to-Blood-on-the-Clocktower/blob/main/Extras/Changelog/README.md)
+- [Changelog](https://github.com/PowerofMoll/Mining-Timing---A-fancreation-to-Blood-on-the-Clocktower/blob/main/Extras/Changelog)
 
-- [Script Images](https://github.com/PowerofMoll/Mining-Timing---A-fancreation-to-Blood-on-the-Clocktower/blob/main/Extras/Script/README.md)
+- [Thanks](https://github.com/PowerofMoll/Digging-Deep---A-fancreation-to-Blood-on-the-Clocktower/edit/main/Extras/Thanks)
+
+- [Script Images](https://github.com/PowerofMoll/Mining-Timing---A-fancreation-to-Blood-on-the-Clocktower/blob/main/Extras/Script)
 
 - [Script json](https://github.com/PowerofMoll/Mining-Timing---A-fancreation-to-Blood-on-the-Clocktower/blob/main/Extras/Files/script.json)
 
