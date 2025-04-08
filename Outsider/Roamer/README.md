@@ -1,4 +1,4 @@
-[*Main*](https://github.com/PowerofMoll/Mining-Timing---A-fancreation-to-Blood-on-the-Clocktower/blob/main/README.md) > [_Outsider_](https://github.com/PowerofMoll/Mining-Timing---A-fancreation-to-Blood-on-the-Clocktower/blob/main/Outsider/README.md) > [_Roamer_](https://github.com/PowerofMoll/Mining-Timing---A-fancreation-to-Blood-on-the-Clocktower/blob/main/Outsider/Roamer/README.md)
+[*Main*](https://github.com/PowerofMoll/Mining-Timing---A-fancreation-to-Blood-on-the-Clocktower/blob/main) > [_Outsider_](https://github.com/PowerofMoll/Mining-Timing---A-fancreation-to-Blood-on-the-Clocktower/blob/main/Outsider/README.md) > [_Roamer_](https://github.com/PowerofMoll/Mining-Timing---A-fancreation-to-Blood-on-the-Clocktower/blob/main/Outsider/Roamer/README.md)
 
 ## Roamer
 <img src="https://github.com/user-attachments/assets/e11f14d1-42e2-4d4f-be42-6449bf5337a5" alt="moonshiner_good" width="300" height="300">
