@@ -2,7 +2,7 @@ _Welcome! That was what the sign said, I came looking for work, I came to live a
 
 Digging Deep offers a wide variety of mechanics to interact with, death survival and surviving the day standing on the forefront. Take care in the important decision who should die, and why didn't they. Outsiders have big roles to play for winning the game, wanting to both lead the town and stay quiet to avoid the Wraith rising. Beware of the Minions and Demons, they can be deceptively human.
 
-Digging Deep is a fan creation for blood on the clocktower with unique characters and art. It was developed during a community created event called Clocktober were a character was made each day for a month. But has since undergone many changes. Abilities and all art has been made by Moll.
+Digging Deep is a fan creation for blood on the clocktower with unique characters and art. It was developed during a community created event called Clocktober were a character was made each day for a month. But has since undergone many changes. Abilities and art has been made by Moll.
 
 Digging Deep offers new mechanics to interact with, swapping characters, deaths during the day, execution survival and misregistration filling a major part of the void of information build the base for your experience. Make sure to look out for the Vessel, Demolitionist, Rakshasa and Counterfeiter.
 
