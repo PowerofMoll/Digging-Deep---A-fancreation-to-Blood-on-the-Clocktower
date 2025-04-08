@@ -26,4 +26,4 @@ This is a collection of the changes to this script since its original release.
 ### v 1
 Released: 2024-11-05
 - Initial release
-
+> [Link to PDF of v 1](https://github.com/PowerofMoll/Digging-Deep---A-fancreation-to-Blood-on-the-Clocktower/blob/main/Extras/Files/Digging%20Deep%20v%201.pdf)
