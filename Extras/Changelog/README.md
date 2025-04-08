@@ -8,14 +8,20 @@ This is a collection of the changes to this script since its original release.
 - Technician, Overman & Lapidary reworked.
 - Panner now acts once per game during the day instead of when they die. They can also choose up to 2 players instead of exactly 2.
 - Counterfeiter now learns the players they made misregister instead of guessing them.
+- Night order and script order changed for clarity.
 - Printer friendly image made.
 
 ### v 3
-- Deputy reworked.
+- Technician & Deputy reworked.
 - Wraith now learns all in-play characters & may poison a character instead of two players when no Outsider lives.
 - Vessel can now die from sources other than execution during the day & the 1st Vessel may swap once per game with any player instead of when evil players nominate eachother.
+- Zephyr removed.
+- Name added to json and hideTitle added as true.
 
 ### v 2
+- Deputy wording changed for clarity
+- Zephyr added.
+- Palingensi removed.
 
 ### v 1
 Released: 2024-11-05
