@@ -2,9 +2,9 @@
 "id":
 "lapidary_digging-deep", "image":
 ["https://i.ibb.co/NFc30Wd/lapidary-good-2-crop-drop-2.png", "https://i.ibb.co/HxqFFWv/lapidary-evil-2-crop-drop-2.png"], "reminders":
-[], "name":
+["No Ability"], "name":
 "Lapidary", "team":
 "townsfolk", "ability":
-"On your 1st day, you may visit the Storyteller to privately learn the order of character types of some neighbouring players.", "flavor":
+"Once per game, visit the Storyteller & privately choose a character type, you learn some of their neighbours character types.", "flavor":
   "Such beutiful gems. A little amethyst, small pieces of ruby, and one sizable emerald."
 }
