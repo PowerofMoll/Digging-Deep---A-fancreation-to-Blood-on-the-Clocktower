@@ -113,7 +113,7 @@ Digging Deep offers new mechanics to interact with, swapping characters, deaths 
 
 <img src="https://github.com/user-attachments/assets/a3e3d169-bc9a-4bda-927e-3246094495e6" alt="chorus_evil" width="150" height="150">
 
-- [Chrorus](https://github.com/PowerofMoll/Mining-Timing---A-fancreation-to-Blood-on-the-Clocktower/blob/main/Demon/Chorus/README.md)
+- [Chorus](https://github.com/PowerofMoll/Mining-Timing---A-fancreation-to-Blood-on-the-Clocktower/blob/main/Demon/Chorus/README.md)
 
 <img src="https://github.com/user-attachments/assets/2136ed0a-6fc4-43aa-87fe-8ccc88d5e41c" alt="wurm_evil" width="150" height="150">
 
