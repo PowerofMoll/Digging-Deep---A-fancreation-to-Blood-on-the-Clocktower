@@ -1,24 +1,5 @@
 [*Main*](https://github.com/PowerofMoll/Mining-Timing---A-fancreation-to-Blood-on-the-Clocktower/blob/main) > [*Extras*](https://github.com/PowerofMoll/Mining-Timing---A-fancreation-to-Blood-on-the-Clocktower/blob/main/Extras/README.md) > [_Thanks_](https://github.com/PowerofMoll/Digging-Deep---A-fancreation-to-Blood-on-the-Clocktower/edit/main/Extras/Thanks/README.md)
 
-_Indigo_
-_DarkArtist_
-_Gabriel_
-_Checkmate_
-_Dela_
-_Void_
-_AlexS_
-_Luis S_
-_Evaos_
-
-Chum
-Furrow
-MysticKnight
-Jasper
-Harry
-Palsonny
-
-Oscar
-
 This was a massive project and I'm so thankful to all who helped me get this far. Thank you so much Indigo, you are a lovely boyfriend, you introduced this whole thing to me and have been an amazing help in making this possible. Having someone to work with for major parts of this, finding problems with abilities and talking shit while I drew. It was great, I'm very thankful for us being able to start this project.
 
 Thank you so much Checkmate, you are a great friend and wall to juggle ideas on, rant late at night or show off my work. Thank you most for helping me with the burout I was feeling, juggling ideas and showing off my art, it helped me recuperate and finish this. Thank you to Mysticsquire for looking through this script but moreso for the feedback on my previous, allowing me to get this far. Thank you to Evaos, Harry and Jasper for being so lovely to rant at, I've spent many hours just talking and becoming more sure. Thank you to Voidstarr, having arguments is a great way to start thinking about subjects and there is always one when I show the changes I've made. :p Palsonny, it's nice to know someone is ingrained in wording abilities like you, thanks for the help. I've had so many lovely faces look through this work, so many listing it didn't feel right, a massive thanks to all of you.
