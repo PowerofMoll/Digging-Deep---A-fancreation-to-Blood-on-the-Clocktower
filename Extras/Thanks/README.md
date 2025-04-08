@@ -8,4 +8,4 @@ I have had a few who have helped in telling me how to do something! Thank you De
 
 Thank you Furrow, your enthusiasm has made me feel so good about running the script. Thank you for helping me organise most of the playtests. Thank you to all who have joined these playtests, you have all been wonderful to have in my game. When you have misunderstood, needed help or just played the game, it has helped me provide the patches this script needed to be the best it can be.
 
-Thank you to Ninjaspelaren, even though you don't get all of the things I've been working on you show such enthusiasm and listening to my work. Thank you for being a good friend, I'm happy I got you into clocktower. Thank you to Oscar, without you the dream of creating this project as a physical set would have been impossible.
+Thank you to Ninjaspelaren, even though you don't get all of the things I've been working on you show such enthusiasm and listening to my work. Thank you for being a good friend, I'm happy I got you into clocktower. 
