@@ -139,7 +139,7 @@ Digging Deep offers new mechanics to interact with, swapping characters, deaths 
 
 <img src="https://github.com/user-attachments/assets/58ceada5-2fcb-4468-a8df-cf2af564bff2" alt="adversary_base" width="150" height="150">
 
-- [Adversary](https://github.com/PowerofMoll/Mining-Timing---A-fancreation-to-Blood-on-the-Clocktower/blob/main/Travellers/Adversary/README.md)
+- [Adversary](https://github.com/user-attachments/assets/212ff168-11e0-404e-81aa-2cd8e0515bf8/blob/main/Travellers/Adversary/README.md)
 
 <img src="https://github.com/user-attachments/assets/c00023da-c495-47eb-a3a2-129e175c658f" alt="adversary_base" width="150" height="150">
 
@@ -152,5 +152,6 @@ Digging Deep offers new mechanics to interact with, swapping characters, deaths 
 <img src="https://github.com/user-attachments/assets/5533696a-5930-4c53-b616-2ea7a4f8edc6" alt="brawler_base" width="150" height="150">
 
 - [Brawler](https://github.com/PowerofMoll/Mining-Timing---A-fancreation-to-Blood-on-the-Clocktower/blob/main/Travellers/Brawler/README.md)
+
 
 
