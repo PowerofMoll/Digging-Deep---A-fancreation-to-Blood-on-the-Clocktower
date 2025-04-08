@@ -10,6 +10,7 @@ This is a collection of the changes to this script since its original release.
 - Counterfeiter now learns the players they made misregister instead of guessing them.
 - Night order and script order changed for clarity.
 - Printer friendly image made.
+> [Link to PDF of v 3.1](https://github.com/PowerofMoll/Digging-Deep---A-fancreation-to-Blood-on-the-Clocktower/blob/main/Extras/Files/v%203.1%20Digging%20Deep.pdf)
 
 ### v 3
 - Technician & Deputy reworked.
