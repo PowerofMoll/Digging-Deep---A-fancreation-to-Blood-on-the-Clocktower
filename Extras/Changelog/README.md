@@ -7,6 +7,7 @@ This is a collection of the changes to this script since its original release.
 ### v 3.1
 - Technician, Overman & Lapidary reworked.
 - Panner now acts once per game during the day instead of when they die. They can also choose up to 2 players instead of exactly 2.
+- Driller how to run updated.
 - Counterfeiter now learns the players they made misregister instead of guessing them.
 - Night order and script order changed for clarity.
 - Printer friendly image made.
