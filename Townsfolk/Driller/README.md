@@ -16,7 +16,7 @@
 ### How to run
 Each night, wake the Driller. They point at any player, then point at any character icon on their character sheet. Put the Driller to sleep. If the chosen player is the chosen character icon, mark the player of that character with the **"Accident"** reminder.
 
-At any time during the day decide that the player marked **"Accident"** dies. Immediately declare that the player has died & remove the **"Accident"** reminder.
+At any time decide that the player marked **"Accident"** dies. Immediately declare that the player has died & remove the **"Accident"** reminder. You must do this before declaring that the night has started.
 
 ### Examples
 > The Driller chooses the Prospector and the Prospector character. At dusk that day the Deputy is executed and dies as well as the Prospector.
