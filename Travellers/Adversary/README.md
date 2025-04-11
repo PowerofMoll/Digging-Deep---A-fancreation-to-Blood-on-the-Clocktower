@@ -15,6 +15,6 @@
 - While the Adversaries can have any ability, we recommend you give an ability they can figure out to some reason of doubt and also making sure it feels fair on the full players in the game.
 
 ### How to run
-During the first night after the Adversary enters play, decide what ability the Adversary players have. During the game, treat that player as if they had that ability, waking them when needed, prompting them to choose players when needed, or whatever else is appropriate. Use the Adversary's ? reminders if you need to.
+During the first night after the Adversary enters play, decide what ability the Adversary players have. During the game, treat that player as if they had that ability, waking them when needed, prompting them to choose players when needed, or whatever else is appropriate. Use the Adversary's **?** reminders if you need to.
 
 During the first day, for each Adversary, if they requests a private chat with you, take them away from the circle so you cannot be overheard. Whisper some part of their ability, the words you learn don't have to start from the begining or the last words, but can be. (If you cannot haven't decided on some right away, either take your time or ask them to come back in a few minutes.)
