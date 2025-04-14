@@ -4,7 +4,8 @@
 "Moll", "name":
 "Digging Deep", "logo":
 "https://i.ibb.co/h2ZM2KG/script-image-2-crop-drop-2.png", "hideTitle":
-true, "firstNight":
+true, "almanac": "https://github.com/PowerofMoll/Digging-Deep---A-fancreation-to-Blood-on-the-Clocktower/tree/main", 
+"firstNight":
   [
     "forge_digging-deep",
     "adversary_digging-deep",
