@@ -364,7 +364,7 @@ true, "name":
 "Tonight, wake the Greenhorn as the character they learned would.", "reminders":
 ["Job", "?", "?", "?"], "name":
 "Greenhorn", "team":
-"traveler", "ability":
+"traveller", "ability":
 "On your 1st night, you learn & gain a Townsfolk ability.", "firstNight":
 16, "otherNight":
 16, "flavor":
@@ -378,7 +378,7 @@ true, "name":
 " ", "reminders":
 ["?", "?", "?", "?", "?", "?"], "name":
 "Adversary", "team":
-"traveler", "ability":
+"traveller", "ability":
 "You and the other Adversary have the same ability. On your 1st day, you learn a part of it. If one dies, the other does too. [2 opposing Adversaries]", "firstNight":
 16, "otherNight":
 16, "flavor":
@@ -390,7 +390,7 @@ true, "name":
 ["https://i.ibb.co/ZT5kLpy/appraiser-base-crop-drop.png", "https://i.ibb.co/HBLLRmT/appraiser-good-crop-drop.png", "https://i.ibb.co/1mn4qfs/appraiser-evil-crop-drop.png"], "reminders":
 ["Linked", "Linked"], "name":
 "Appraiser", "team":
-"traveler", "ability":
+"traveller", "ability":
 "Each day, you may publicly choose 2 players: today, they may only vote if both agree & can`t vote for each other.", "flavor":
   "You two look like you would pair perfectly together."
 }
@@ -400,7 +400,7 @@ true, "name":
 ["https://i.ibb.co/P4xFtC6/debt-collector-base-crop-drop.png", "https://i.ibb.co/MZNxcHt/debt-collector-good-crop-drop.png", "https://i.ibb.co/qp6Skyp/debt-collector-evil-crop-drop.png"], "reminders":
 ["Debt", "Debt", "Debt", "Debt", "Debt"], "name":
 "Debt Collector", "team":
-"traveler", "ability":
+"traveller", "ability":
 "Players may privately make promises to you. Players you catch breaking them: die.", "flavor":
   "I welcome you my friend. My friend death."
 }
@@ -410,7 +410,7 @@ true, "name":
 ["https://i.ibb.co/Qcd90wX/brawler-base-crop-drop.png", "https://i.ibb.co/fNmL9S0/brawler-good-crop-drop.png", "https://i.ibb.co/6gLLv53/brawler-evil-crop-drop.png"], "reminders":
 ["Poisoned", "Poisoned", "Poisoned"], "name":
 "Brawler", "team":
-"traveler", "ability":
+"traveller", "ability":
 "You may nominate any number of times & players who have already been nominated. Players you nominate might be drunk until dawn.", "flavor":
   "Crush your drink and grab a chair, it’s time for a bar fight!."
 }
