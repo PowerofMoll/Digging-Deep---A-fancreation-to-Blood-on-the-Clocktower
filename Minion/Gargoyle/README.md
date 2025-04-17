@@ -3,7 +3,7 @@
 ## Gargoyle
 <img src="https://github.com/user-attachments/assets/1179e016-7b99-423c-bdc5-6f4c2f1914b9" alt="gargoyle_evil" width="300" height="300">
 
-> Each night, choose a player: players they nominate tomorrow might die before dusk.
+> Each night, choose a player: players they nominate tomorrow might die before the following dawn.
 
 *Nothing misses my watch.*
 
@@ -17,11 +17,11 @@ Each night, wake the Gargoyle. They point at any player. Put the Gargoyle to sle
 
 The next day, if the player marked **Watched** makes a nomination, mark the nominated player **Dying**. 
 
-At any time during the day you may decide that the player marked **Dying** dies. Immediately declare that the player has died.
+At any time you may decide that the player marked **Dying** dies. If this is during the day, immediately declare that the player has died. If this is during the night, mark them with the **Dead** reminder.
 
 At dusk, remove the **Watched** reminder.
 
-At dusk, remove the **Dying** reminder.
+At dawn, remove the **Dying** reminder.
 
 ### Examples
 > The Gargoyle chooses the Gargoyle. That day the Gargoyle nominates the Counterfeiter, that dusk the Counterfeiter dies.
