@@ -2,7 +2,7 @@
 "id":
 "_meta", "author":
 "Moll", "name":
-"Digging Deep", "logo":
+"Digging Deep v 3.1.1", "logo":
 "https://i.ibb.co/h2ZM2KG/script-image-2-crop-drop-2.png", "hideTitle":
 true, "almanac": "https://github.com/PowerofMoll/Digging-Deep---A-fancreation-to-Blood-on-the-Clocktower/tree/main", 
 "firstNight":
@@ -219,7 +219,7 @@ true, "almanac": "https://github.com/PowerofMoll/Digging-Deep---A-fancreation-to
 ["Drunk"], "name":
 "Moonshiner", "team":
 "outsider", "ability":
-"1 of the Demon's alive good neighbours is drunk.", "flavor":
+"1 of the Demon's alive Townsfolk neighbours is drunk.", "flavor":
   "Come take a sip, homemade to heighten our spirits."
 }
 , {
@@ -266,10 +266,10 @@ true, "almanac": "https://github.com/PowerofMoll/Digging-Deep---A-fancreation-to
 ["https://i.ibb.co/NjRQTnG/gargoyle-evil-crop-drop.png", "https://i.ibb.co/k90mTrJ/gargoyle-good-crop-drop.png"], "firstNightReminder":
 "The Gargoyle points at a player.", "otherNightReminder":
 "The Gargoyle points at a player.", "reminders":
-["Watched", "Dying"], "name":
+["Watched", "Dying", "Dead"], "name":
 "Gargoyle", "team":
 "minion", "ability":
-"Each night, choose a player: players they nominate tomorrow might die before dusk.", "firstNight":
+"Each night, choose a player: players they nominate tomorrow might die before the following dawn.", "firstNight":
 16, "otherNight":
 16, "flavor":
   "Nothing misses my watch."
@@ -298,7 +298,7 @@ true, "ability":
 ["Moved", "Once"], "name":
 "Vessel", "team":
 "minion", "ability":
-"You cannot die by execution. The 1st Vessel may (once), choose a player to swap characters with.", "firstNight":
+"You cannot die by execution. Before the final night, the 1st Vessel may (once), choose a player to swap characters.", "firstNight":
 16, "otherNight":
 16, "flavor":
   "You are now stuck with me. Keep me company. This is going to be so fun."
@@ -408,7 +408,7 @@ true, "name":
 "id":
 "brawler_digging-deep", "image":
 ["https://i.ibb.co/Qcd90wX/brawler-base-crop-drop.png", "https://i.ibb.co/fNmL9S0/brawler-good-crop-drop.png", "https://i.ibb.co/6gLLv53/brawler-evil-crop-drop.png"], "reminders":
-["Poisoned", "Poisoned", "Poisoned"], "name":
+["Drunk", "Drunk", "Drunk"], "name":
 "Brawler", "team":
 "traveller", "ability":
 "You may nominate any number of times & players who have already been nominated. Players you nominate might be drunk until dawn.", "flavor":
