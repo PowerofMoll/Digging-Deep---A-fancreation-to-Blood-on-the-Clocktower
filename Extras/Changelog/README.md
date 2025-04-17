@@ -9,7 +9,6 @@ This is a collection of the changes to this script since its original release.
 - Gargoyle can now kill until dawn instead of until dusk.
 - Vessel can now only swap before the final night.
 - Brawler reminders corrected.
-- Files for printing tokens made.
 
 ### v 3.1
 - Technician, Overman & Lapidary reworked.
