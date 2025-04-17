@@ -21,4 +21,6 @@ Each night, wake the Vessel. The Vessel either shakes their head 'no' or points 
 
 If the Vessels **Once** reminder is in the middle of the grimoire, don't wake any Vessel again due to their ability & they cannot not choose to swap characters.
 
+If the Vessel requests to use their ability on the final night, shake your head 'no'. If they wish to use their ability on the final day it does nothing, try to clarify this to them but if the situation doesn't allow for it, just let it happen.
+
 If the Vessel would die, they remain alive. If the Vessel is executed, declare that this player is executed but remains alive. (Do not say why.)
