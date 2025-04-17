@@ -4,10 +4,10 @@
 ["https://i.ibb.co/NjRQTnG/gargoyle-evil-crop-drop.png", "https://i.ibb.co/k90mTrJ/gargoyle-good-crop-drop.png"], "firstNightReminder":
 "The Gargoyle points at a player.", "otherNightReminder":
 "The Gargoyle points at a player.", "reminders":
-["Watched", "Dying", "Dead"], "name":
+["Watched", "Dying", "Dying", "Dead", "Dead"], "name":
 "Gargoyle", "team":
 "minion", "ability":
-"Each night, choose a player: players they nominate tomorrow might die before the following dawn.", "firstNight":
+"Each night, choose a player: players they choose tonight or nominate tomorrow might die before dusk.", "firstNight":
 16, "otherNight":
 16, "flavor":
   "Nothing misses my watch."
