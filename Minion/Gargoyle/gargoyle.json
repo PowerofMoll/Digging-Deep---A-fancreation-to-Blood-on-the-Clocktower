@@ -7,7 +7,7 @@
 ["Watched", "Dying"], "name":
 "Gargoyle", "team":
 "minion", "ability":
-"Each night, choose a player: players they nominate tomorrow might die before dusk.", "firstNight":
+"Each night, choose a player: players they nominate tomorrow might die before the following dawn.", "firstNight":
 16, "otherNight":
 16, "flavor":
   "Nothing misses my watch."
