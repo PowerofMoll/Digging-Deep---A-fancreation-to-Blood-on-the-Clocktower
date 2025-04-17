@@ -9,7 +9,8 @@
 
 ### **The Vessel always houses someones soul but can swap which it holds.**
 - The Vessel cannot die by execution. They can however die at night and by abilities.
-- The first Vessel can swap characters at any time, at night, or during the day. If they either publicly wish to swap or request it in a consult, it happens immediately, but the other player does not learn it until the start of the night.
+- The first Vessel can swap characters at any time, at night, or during the day. If they either publicly wish to swap or request it in a consult, it happens immediately, but neither learns it until the start of the night. The final night is the night that the Storyteller thinks is most likely to be the last night of the game – the night before the day where, if the Demon is not executed, evil will win. This most likely means the day with only 3 living players remaining.
+
 
 ### How to run
 During the day, the Vessel may publicly claim to be the Vessel and point to a player. Swap their characters with the Vessels. Tonight, wake them and show them **You Are** and their new character. Place the Vessels **Once** reminder in the middle of the grimoire.
