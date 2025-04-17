@@ -8,7 +8,7 @@
 *Nothing misses my watch.*
 
 ### **The Gargoyle finds someone to follow, and kills their prey.**
-- The player nominated by the player chosen by the Gargoyle can die at any time during that day, not only when the nomination happens.
+- The player nominated by the player chosen by the Gargoyle can die at any time during that day and the next night, not only when the nomination happens.
 - The Gargoyle can choose an evil player so they can direct the kill.
 - As a storyteller you can be inclined to make any kills the Gargoyle can do, generally it is more helpful to only kill if the kill will help the evil team.
 
@@ -28,4 +28,4 @@ At dawn, remove the **Dying** reminder.
 
 > The Gargoyle chooses the Lapidary. That day the Lapidary does not nominate. The next day the Lapidary nominates the Moonshiner, who doesn’t die.
 
-> The Surveyor neighbours the Metallurgist. The Gargoyle chooses the Surveyor. That day the Surveyor nominates the Metallurgist, The Overman dies immediately as the Surveyor is making another player than their neighbour die.
+> The Surveyor neighbours the Metallurgist. The Gargoyle chooses the Surveyor. That day the Surveyor nominates the Metallurgist, The Overman dies that night as the Surveyor is making another player than their neighbour die.
