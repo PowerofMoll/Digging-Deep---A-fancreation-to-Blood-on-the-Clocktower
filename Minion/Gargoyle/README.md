@@ -3,7 +3,7 @@
 ## Gargoyle
 <img src="https://github.com/user-attachments/assets/1179e016-7b99-423c-bdc5-6f4c2f1914b9" alt="gargoyle_evil" width="300" height="300">
 
-> Each night, choose a player: players they choose tonight & nominate tomorrow might die before dusk.
+> Each night, choose a player: players they nominate tomorrow might die before the following dawn.
 
 *Nothing misses my watch.*
 
