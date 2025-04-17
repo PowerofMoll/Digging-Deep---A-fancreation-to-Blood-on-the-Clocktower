@@ -4,6 +4,13 @@ This is a collection of the changes to this script since its original release.
 
 ## [Changelog](https://github.com/PowerofMoll/Mining-Timing---A-fancreation-to-Blood-on-the-Clocktower/edit/main/Changelog/README.md)
 
+### v 3.2
+- Moonshiner only affects Townsfolk instead of Outsiders.
+- Gargoyle can now kill until dawn instead of until dusk.
+- Vessel can now only swap before the final night.
+- Brawler reminders corrected.
+- Files for printing tokens made.
+
 ### v 3.1
 - Technician, Overman & Lapidary reworked.
 - Panner now acts once per game during the day instead of when they die. They can also choose up to 2 players instead of exactly 2.
