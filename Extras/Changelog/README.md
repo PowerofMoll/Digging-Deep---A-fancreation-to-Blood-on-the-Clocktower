@@ -9,6 +9,7 @@ This is a collection of the changes to this script since its original release.
 - Gargoyle can now kill until dawn instead of until dusk.
 - Vessel can now only swap before the final night.
 - Brawler reminders corrected.
+> [Link to PDF of v 3.2](https://github.com/PowerofMoll/Digging-Deep---A-fancreation-to-Blood-on-the-Clocktower/blob/main/Extras/Files/v%203.2%20Digging%20Deep.pdf)
 
 ### v 3.1
 - Technician, Overman & Lapidary reworked.
