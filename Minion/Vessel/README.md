@@ -3,7 +3,7 @@
 ## Vessel
 <img src="https://github.com/user-attachments/assets/5f8ee180-878b-47e3-b7b9-885d36a27093" alt="vessel_evil" width="300" height="300">
 
-> You cannot die by execution. The 1st Vessel may (once), choose a player to swap characters with.
+> You cannot die by execution. Before the final night, the 1st Vessel may (once), choose a player to swap characters.
 
 *You are now stuck with me. Keep me company. This is going to be so fun.*
 
