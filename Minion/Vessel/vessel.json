@@ -7,7 +7,7 @@
 ["Moved", "Once"], "name":
 "Vessel", "team":
 "minion", "ability":
-"You cannot die by execution. The 1st Vessel may (once), choose a player to swap characters with.", "firstNight":
+"You cannot die by execution. Before the final night, the 1st Vessel may (once), choose a player to swap characters.", "firstNight":
 16, "otherNight":
 16, "flavor":
   "You are now stuck with me. Keep me company. This is going to be so fun."
