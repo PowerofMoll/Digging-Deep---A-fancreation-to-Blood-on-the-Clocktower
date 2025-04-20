@@ -3,6 +3,6 @@
 
 ### Script Images:
 
-![Digging Deep v 3 2 printer friendly a](https://github.com/user-attachments/assets/8e6e4498-90c5-4d40-a028-262dda7a0566)
+![Digging Deep v 3 2 printer friendly a](https://github.com/user-attachments/assets/00da4530-c993-4678-af8f-c502aa275a30)
 
-![Digging Deep v 3 2 printer friendly b](https://github.com/user-attachments/assets/73a1ac74-1c63-40d3-bac6-68eba3486dd6)
+![Digging Deep v 3 2 printer friendly b](https://github.com/user-attachments/assets/52d06421-87a3-4814-ab1d-b933dd0043f4)
