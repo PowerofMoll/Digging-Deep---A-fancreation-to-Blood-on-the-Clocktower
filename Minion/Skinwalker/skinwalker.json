@@ -7,7 +7,7 @@
 ["Shared Skin", "Apperance", "Good", "Evil"], "name":
 "Skinwalker", "team":
 "minion", "ability":
-"You know a good player. Each night, choose a character & alignment you both register as until you choose again to Townsfolk.", "firstNight":
+"You know a good player. Each night, choose a character & alignment you both register as to Townsfolk until you choose again.", "firstNight":
 16, "otherNight":
 16, "flavor":
   "They said I couldn't become like you. I will prove them wrong. I will become you."
