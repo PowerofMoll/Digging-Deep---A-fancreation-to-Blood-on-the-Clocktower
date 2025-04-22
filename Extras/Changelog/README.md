@@ -9,7 +9,6 @@ This is a collection of the changes to this script since its original release.
 - Gargoyle can now kill until dawn instead of until dusk.
 - Skinwalker reworded for clarity.
 - Vessel can now only swap before the final night.
-- Brawler reminders corrected.
 - Reminder tokens corrected.
 - Printable token files available by contact.
 > [Link to PDF of v 3.2](https://github.com/PowerofMoll/Digging-Deep---A-fancreation-to-Blood-on-the-Clocktower/blob/main/Extras/Files/v%203.2%20Digging%20Deep.pdf)
