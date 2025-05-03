@@ -2,12 +2,12 @@
 "id":
 "technician_digging-deep", "image":
 ["https://i.ibb.co/F5bjqxt/technician-good-crop-drop.png", "https://i.ibb.co/RHg6zDD/technician-evil-crop-drop.png"], "firstNightReminder":
-"Point at a player with exactly 1 evil neighbour.", "otherNightReminder":
-"Point at a player with exactly 1 evil neighbour.", "reminders":
+"The Technician points at 3 players. Nod or shake your head.", "otherNightReminder":
+"The Technician points at 3 players. Nod or shake your head.", "reminders":
 [], "name":
 "Technician", "team":
 "townsfolk", "ability":
-"Each night, you learn a player with exactly 1 evil neighbour.", "firstNight":
+"Each night, choose 3 players, you learn if exactly 1 is evil.", "firstNight":
 16, "otherNight":
 16, "flavor":
   "On the job sir!!"
