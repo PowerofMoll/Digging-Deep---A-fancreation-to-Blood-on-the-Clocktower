@@ -2,7 +2,7 @@
 "id":
 "_meta", "author":
 "Moll", "name":
-"Digging Deep v 3.1.1", "logo":
+"Digging Deep v 3.3", "logo":
 "https://i.ibb.co/h2ZM2KG/script-image-2-crop-drop-2.png", "hideTitle":
 true, "almanac": "https://github.com/PowerofMoll/Digging-Deep---A-fancreation-to-Blood-on-the-Clocktower/tree/main", 
 "firstNight":
@@ -21,6 +21,7 @@ true, "almanac": "https://github.com/PowerofMoll/Digging-Deep---A-fancreation-to
     "technician_digging-deep",
     "driller_digging-deep",
     "geologist_digging-deep",
+    "lapidary_digging-deep",
     "dawn"
     ],
   "otherNight":
@@ -52,12 +53,12 @@ true, "almanac": "https://github.com/PowerofMoll/Digging-Deep---A-fancreation-to
 "id":
 "technician_digging-deep", "image":
 ["https://i.ibb.co/F5bjqxt/technician-good-crop-drop.png", "https://i.ibb.co/RHg6zDD/technician-evil-crop-drop.png"], "firstNightReminder":
-"Point at a player with exactly 1 evil neighbour.", "otherNightReminder":
-"Point at a player with exactly 1 evil neighbour.", "reminders":
+"The Technician points at 3 players. Nod or shake your head.", "otherNightReminder":
+"The Technician points at 3 players. Nod or shake your head.", "reminders":
 [], "name":
 "Technician", "team":
 "townsfolk", "ability":
-"Each night, you learn a player with exactly 1 evil neighbour.", "firstNight":
+"Each night, choose 3 players, you learn if exactly 1 is evil.", "firstNight":
 16, "otherNight":
 16, "flavor":
   "On the job sir!!"
@@ -94,11 +95,11 @@ true, "almanac": "https://github.com/PowerofMoll/Digging-Deep---A-fancreation-to
 "id":
 "overman_digging-deep", "image":
 ["https://i.ibb.co/XXK9vjY/overman-good-crop-drop-5.png", "https://i.ibb.co/y8T6DLG/overman-evil-crop-drop-5.png"], "otherNightReminder":
-"If the dead outnumber the living, point at an evil player.", "reminders":
-[], "name":
+"If the Overman is marked 'Dead Comrade', point at an evil player.", "reminders":
+["Dead Comrade"], "name":
 "Overman", "team":
 "townsfolk", "ability":
-"Each night*, if the dead outnumber the living, you learn an evil player.", "otherNight":
+"Each night*, if one of your alive neighbours died since dawn, you learn an evil player.", "otherNight":
 16, "flavor":
   "There is nothing going on with the mine. I am the owner, don't you dare go against my judgement."
 }
@@ -169,8 +170,10 @@ true, "almanac": "https://github.com/PowerofMoll/Digging-Deep---A-fancreation-to
 ["No Ability"], "name":
 "Lapidary", "team":
 "townsfolk", "ability":
-"Once per game, visit the Storyteller & privately choose a character type, you learn some of their neighbours character types.", "flavor":
-  "Such beutiful gems. A little amethyst, small pieces of ruby, and one sizable emerald."
+"Once per game, at night, choose up to 3 characters: you learn how many neighbour a Demon.", "flavor":
+  "Such beutiful gems. A little amethyst, small pieces of ruby, and one sizable emerald.", "firstNight":
+16, "otherNight":
+16
 }
 , {
 "id":
@@ -255,7 +258,7 @@ true, "almanac": "https://github.com/PowerofMoll/Digging-Deep---A-fancreation-to
 ["Shared Skin", "Apperance", "Good", "Evil"], "name":
 "Skinwalker", "team":
 "minion", "ability":
-"You know a good player. Each night, choose a character & alignment you both register as until you choose again to Townsfolk.", "firstNight":
+"You know a good player. Each night, choose a character & alignment you both register as to Townsfolk until you choose again.", "firstNight":
 16, "otherNight":
 16, "flavor":
   "They said I couldn't become like you. I will prove them wrong. I will become you."
@@ -266,10 +269,10 @@ true, "almanac": "https://github.com/PowerofMoll/Digging-Deep---A-fancreation-to
 ["https://i.ibb.co/NjRQTnG/gargoyle-evil-crop-drop.png", "https://i.ibb.co/k90mTrJ/gargoyle-good-crop-drop.png"], "firstNightReminder":
 "The Gargoyle points at a player.", "otherNightReminder":
 "The Gargoyle points at a player.", "reminders":
-["Watched", "Dying", "Dead"], "name":
+["Watched", "Dying", "Dying", "Dying", "Dead", "Dead", "Dead"], "name":
 "Gargoyle", "team":
 "minion", "ability":
-"Each night, choose a player: players they nominate tomorrow might die before the following dawn.", "firstNight":
+"Each night, choose a player: players & characters of their alignment they learn, choose or nominate until dusk might die before dusk.", "firstNight":
 16, "otherNight":
 16, "flavor":
   "Nothing misses my watch."
@@ -309,7 +312,7 @@ true, "ability":
 ["https://i.ibb.co/k67wkyC/chorus-evil-1-crop-drop.png", "https://i.ibb.co/yBmKF0z/chorus-good-1-crop-drop.png"], "firstNightReminder":
 "3 times: point to a player and show their character token.", "otherNightReminder":
 "3 times: point to a player and show their character token. The Chorus points to a player. That player dies.", "reminders":
-[], "name":
+["Dead"], "name":
 "Chorus", "team":
 "demon", "ability":
 "Each night, you learn 3 players & their characters. Each night*, choose a player: they die.", "firstNight":
@@ -401,7 +404,7 @@ true, "name":
 ["Debt", "Debt", "Debt", "Debt", "Debt"], "name":
 "Debt Collector", "team":
 "traveller", "ability":
-"Players may privately make promises to you. Players you catch breaking them: die.", "flavor":
+"Players may make deals with you. If a party who hasn't broken it catches the other breaking it, the breaker dies.", "flavor":
   "I welcome you my friend. My friend death."
 }
 , {
