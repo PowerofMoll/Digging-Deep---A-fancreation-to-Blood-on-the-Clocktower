@@ -10,6 +10,7 @@
 ### **The Lapidary inspects some of what is around the mine. And what light is reflected from around them.**
 - The Lapidary choose 0, 1, 2 or 3 characters. The Characters can be both good and evil. They are shown a finger signal for the amound of them who neighbour a Demon. This counts neighbours, not neccecarily alive neighbours.
 - The Lapidary may only use their ability once per game, and at night.
+- This only count the number of chosen characters which neighbours a Demon, not how many of them do.
 
 ### How to run
 Each night, wake the Lapidary. They either shake their head no or nod their head yes. 
