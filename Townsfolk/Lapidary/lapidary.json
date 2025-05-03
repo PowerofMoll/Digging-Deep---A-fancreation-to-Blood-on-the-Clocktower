@@ -5,6 +5,8 @@
 ["No Ability"], "name":
 "Lapidary", "team":
 "townsfolk", "ability":
-"Once per game, visit the Storyteller & privately choose a character type, you learn some of their neighbours character types.", "flavor":
-  "Such beutiful gems. A little amethyst, small pieces of ruby, and one sizable emerald."
+"Once per game, at night, choose up to 3 characters: you learn how many neighbour a Demon.", "flavor":
+  "Such beutiful gems. A little amethyst, small pieces of ruby, and one sizable emerald.", "firstNight":
+16, "otherNight":
+16
 }
