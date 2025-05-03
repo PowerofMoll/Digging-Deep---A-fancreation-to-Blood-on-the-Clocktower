@@ -2,11 +2,11 @@
 "id":
 "overman_digging-deep", "image":
 ["https://i.ibb.co/XXK9vjY/overman-good-crop-drop-5.png", "https://i.ibb.co/y8T6DLG/overman-evil-crop-drop-5.png"], "otherNightReminder":
-"If the dead outnumber the living, point at an evil player.", "reminders":
-[], "name":
+"If the Overman is marked 'Dead Comrade', point at an evil player.", "reminders":
+["Dead Comrade"], "name":
 "Overman", "team":
 "townsfolk", "ability":
-"Each night*, if the dead outnumber the living, you learn an evil player.", "otherNight":
+"Each night*, if one of your alive neighbours died since dawn, you learn an evil player.", "otherNight":
 16, "flavor":
   "There is nothing going on with the mine. I am the owner, don't you dare go against my judgement."
 }
