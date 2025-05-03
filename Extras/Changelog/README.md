@@ -4,6 +4,10 @@ This is a collection of the changes to this script since its original release.
 
 ## [Changelog](https://github.com/PowerofMoll/Mining-Timing---A-fancreation-to-Blood-on-the-Clocktower/edit/main/Changelog/README.md)
 
+### v 3.3
+- Technician, Overman & Lapidary reworked.
+- Gargoyle can now kill until dusk instead of until dawn. They can also only kill players of the same alignment as the chosen player. They can also kill players & characters learned or chosen by the marked player.
+
 ### v 3.2
 - Moonshiner only affects Townsfolk instead of Outsiders.
 - Gargoyle can now kill until dawn instead of until dusk.
