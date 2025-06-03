@@ -7,6 +7,7 @@ This is a collection of the changes to this script since its original release.
 ### v 3.3
 - Technician, Overman & Lapidary reworked.
 - Gargoyle can now kill until dusk instead of until dawn. They can also only kill players of the same alignment as the chosen player. They can also kill players & characters learned or chosen by the marked player.
+- The Appraiser has to link someone with themselves.
 > [Link to PDF of v 3.2](https://github.com/PowerofMoll/Digging-Deep---A-fancreation-to-Blood-on-the-Clocktower/blob/main/Extras/Files/v%203.3%20Digging%20Deep.pdf)
 
 ### v 3.2
